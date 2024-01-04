@@ -1,623 +1,623 @@
-,Nome,Preco,Liquidez Média Diária,Último Rendimento,Dividend Yield,Patrimônio Líquido,Valor Patrimonial,Rentab. no mês,P/VP,Segmento,Segmento ANBIMA,Tipo ANBIMA,Cotas emitidas,Número de cotistas,Tipo de gestão,Prazo de duração
-0,AAGR11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,5.000.000,0,0,0,0,0,0
-1,AATH11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-2,AAZQ11,"R$ 8,96","1,2 M","0,12","17,06 %","R$ 232,0 M","R$ 9,65","0,56 %","0,92",Indefinido,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,24.037.284,21.961,Ativa,Indeterminado
-3,ABCP11,"R$ 69,99","77,4 K","0,65","9,27 %","R$ 432,7 M","R$ 91,88","0,57 %","0,76",Investidores em Geral,Shoppings,Indeterminado,Shoppings,4.709.082,17.274,Passiva
-4,AEFI11,"R$ 174,90",N/A,"1,24",N/A %,"R$ 337,8 M","R$ 143,44",N/A %,"1,22",Educacional,Outros,Renda,2.355.022,13.154,Ativa,Indeterminado
-5,AFCR11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-6,AFHI11,"R$ 100,12","869,8 K","1,00","12,71 %","R$ 322,4 M","R$ 96,43","0,36 %","1,03",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,3.343.095,26.665,Ativa,Indeterminado
-7,AFOF11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-8,AGCX11,"R$ 1.235,50",N/A,"8,50",N/A %,"R$ 1,2 B","R$ 107,52",N/A %,"11,49",Agências de Bancos,Outros,Renda,11.588.199,47.973,Ativa,Indeterminado
-9,AGRX11,"R$ 11,04","463,1 K",N/A,N/A %,R$ N/A,R$ N/A,"0,64 %",N/A,0,0,0,0,0,0,0
-10,AIEC11,"R$ 56,34","898,4 K","1,33","18,40 %","R$ 459,2 M","R$ 95,16","-1,28 %","0,60",Lajes Corporativas,Lajes Corporativas,Renda,4.824.987,16.416,Ativa,Indeterminado
-11,AJFI11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-12,ALMI11,"R$ 690,00","11,5 K","0,37",N/A %,"R$ 226,8 M","R$ 2.039,72","-0,14 %","0,34",Investidores em Geral,Lajes Corporativas,Indeterminado,Lajes Corporativas,111.177,2.260,Passiva
-13,ALMI11B,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-14,ALZC11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,1.000.000,0,0,0,0,0,0
-15,ALZR11,"R$ 119,15","1,6 M","0,83","8,31 %","R$ 1,1 B","R$ 106,95","0,97 %","1,10",Investidores em Geral,Misto,Indeterminado,Híbrido,9.860.406,148.351,Ativa
-16,AMAZ11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,1.600.000,0,0,0,0,0,0
-17,ANCR11B,"R$ 3.221,00","5,1 K","42,08","1,96 %","R$ 1,9 B","R$ 3.941,72","-2,39 %","0,82",Investidores em Geral,Shoppings,Indeterminado,Shoppings,475.316,62,Ativa
-18,APTO11,"R$ 9,78","36,3 K","0,09","12,26 %","R$ 41,4 M","R$ 10,32","-0,41 %","0,95",Imóveis Residenciais,Híbrido,Híbrido,4.012.857,9.874,Ativa,Indeterminado
-19,APXM11,"R$ 102,99","1,3 M","0,60","1,92 %","R$ 168,9 M","R$ 95,98","0,98 %","1,07",Shoppings,Híbrido,0,1.760.000,321,Indeterminado,0
-20,AQLL11,"R$ 385,03",N/A,N/A,N/A %,"R$ 142,4 M","R$ 976,22",N/A %,"0,39",Investidor Qualificado e Profissional,Fundo de Fundos,Indeterminado,Híbrido,145.817,84,Ativa
-21,ARCT11,"R$ 87,13","1,1 M","0,39","16,59 %","R$ 371,5 M","R$ 100,19","-5,51 %","0,87",Imóveis Industriais e Logísticos,Híbrido,Híbrido,3.708.168,43.228,Ativa,Indeterminado
-22,ARFI11B,"R$ 479,99",N/A,N/A,N/A %,"R$ 74,3 M","R$ 651,70",N/A %,"0,74",Investidor Qualificado e Profissional,Imóveis Industriais e Logísticos,Indeterminado,Títulos e Valores Mobiliários,114.054,28,Ativa
-23,AROA11,"R$ 3,58","71,4 K","0,01","1,58 %","R$ 178,6 M","R$ 1,06","28,32 %","2,63",Imóveis Industriais e Logísticos,Outros,Desenvolvimento para Renda,167.926.831,52,Ativa,Indeterminado
-24,ARRI11,"R$ 8,95","224,8 K","0,10","13,65 %","R$ 117,1 M","R$ 8,97","-0,67 %","1,00",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,13.056.237,27.852,Ativa,Indeterminado
-25,ARXD11,"R$ 97,00","32,0 K","1,00","10,41 %","R$ 64,7 M","R$ 98,84","2,14 %","0,98",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,654.895,557,Ativa,Indeterminado
-26,ASMT11,"R$ 57,00","11,8 K","0,77","2,70 %","R$ 86,4 M","R$ 84,91","-1,89 %","0,67",Lajes Corporativas,Híbrido,Híbrido,1.017.316,509,Ativa,Indeterminado
-27,ASRF11,"R$ 10.092,00","30,3 K","256,33","2,54 %","R$ 24,3 M","R$ 10.135,55",N/A %,"1,00",Indefinido,Híbrido,Híbrido,2.400,56,Ativa,Determinado
-28,ATCR11,"R$ 0,00",N/A,"5,60",N/A %,"R$ 76,6 M","R$ 82,42",N/A %,N/A,Investidores em Geral,Lajes Corporativas,Determinado,Títulos e Valores Mobiliários,928.908,33,Ativa
-29,ATSA11,"R$ 54,90","1,5 K","0,05","0,18 %","R$ 143,2 M","R$ 81,79","-0,18 %","0,67",Investidores em Geral,Shoppings,Indeterminado,Shoppings,1.751.141,283,Passiva
-30,ATSA11B,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-31,ATWN11,"R$ 0,00",N/A,N/A,N/A %,"R$ 213,1 M","R$ 1.325,79",N/A %,N/A,Indefinido,Outros,Renda,160.757,2,Passiva,Indeterminado
-32,AURB11,"R$ 0,00",N/A,"0,20",N/A %,"R$ 73,0 M","R$ 82,90",N/A %,N/A,Imóveis Comerciais - Outros,Logística,Renda,880.560,5,Ativa,Indeterminado
-33,AZIN11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-34,BARI11,"R$ 83,36","783,7 K","0,69","11,24 %","R$ 445,9 M","R$ 96,23","0,14 %","0,87",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,4.634.191,37.979,Ativa,Indeterminado
-35,BBFI11B,"R$ 1.180,01","324,0 K","7,43","13,69 %","R$ 279,2 M","R$ 2.147,98","-0,08 %","0,55",Investidores em Geral,Lajes Corporativas,Indeterminado,Lajes Corporativas,130.000,17.393,Passiva
-36,BBFO11,"R$ 73,17","631,7 K","0,64","11,09 %","R$ 323,4 M","R$ 80,76","0,22 %","0,90",Fundo de Fundos,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,4.003.900,5.783,Passiva,Indeterminado
-37,BBGO11,"R$ 89,46","502,0 K","1,15","13,60 %","R$ 390,9 M","R$ 97,61","0,13 %","0,92",Indefinido,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,4.005.164,11.321,Ativa,Indeterminado
-38,BBIM11,"R$ 0,00",N/A,"0,65",N/A %,"R$ 13,7 M","R$ 13,20",N/A %,N/A,Investidores em Geral,Papéis,Determinado,Títulos e Valores Mobiliários,1.035.000,20,Ativa
-39,BBPO11,"R$ 96,75","1,8 M","0,91","11,18 %","R$ 1,6 B","R$ 99,05","0,67 %","0,98",Investidores em Geral,Agências de Bancos,Indeterminado,Lajes Corporativas,15.919.690,72.157,Ativa
-40,BBRC11,"R$ 114,98","152,1 K","1,13","12,33 %","R$ 170,5 M","R$ 107,25","0,59 %","1,07",Investidores em Geral,Agências de Bancos,Indeterminado,Outros,1.590.000,9.456,Passiva
-41,BBVJ11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-42,BCFF11,"R$ 9,46","3,3 M","0,07","8,88 %","R$ 2,0 B","R$ 9,85","4,46 %","0,96",Investidores em Geral,Fundo de Fundos,Indeterminado,Títulos e Valores Mobiliários,201.491.024,301.309,Ativa
-43,BCFF11B,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-44,BCIA11,"R$ 103,49","622,9 K","0,85","9,41 %","R$ 398,4 M","R$ 107,13","-0,11 %","0,97",Investidores em Geral,Fundo de Fundos,Indeterminado,Títulos e Valores Mobiliários,3.719.038,20.209,Ativa
-45,BCRI11,"R$ 75,90","743,1 K","0,78","12,63 %","R$ 600,4 M","R$ 95,95","2,44 %","0,77",Investidores em Geral,Papéis,Indeterminado,Títulos e Valores Mobiliários,6.257.873,46.968,Ativa
-46,BDIF11,"R$ 93,19","2,4 M",N/A,N/A %,R$ N/A,R$ N/A,"0,05 %",N/A,0,0,0,0,0,0,0
-47,BDIV11,"R$ 121,00","708,0 K",N/A,N/A %,R$ N/A,R$ N/A,"0,83 %",N/A,0,0,0,0,0,0,0
-48,BETW11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-49,BICE11,"R$ 980,00","2,0 K","6,64","11,63 %","R$ 89,5 M","R$ 991,06","0,71 %","0,99",Fundo de Fundos,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,90.310,110,Ativa,Determinado
-50,BICR11,"R$ 74,84","3,8 K","0,50","10,20 %","R$ 21,9 M","R$ 43,81","47,92 %","1,71",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,500.000,570,Ativa,Indeterminado
-51,BIDB11,"R$ 88,30","296,8 K",N/A,N/A %,R$ N/A,R$ N/A,"-0,09 %",N/A,0,0,0,0,0,0,0
-52,BIME11,"R$ 7,39","84,8 K","0,08","13,24 %","R$ 51,0 M","R$ 8,72","-0,14 %","0,85",Indefinido,Híbrido,Renda,5.845.602,8.696,Ativa,Indeterminado
-53,BIPD11,"R$ 0,00",N/A,"10,38",N/A %,"R$ 73,6 M","R$ 990,32",N/A %,N/A,Indefinido,Híbrido,Desenvolvimento para Venda,74.334,112,Ativa,Indeterminado
-54,BIPE11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-55,BLCA11,"R$ 125,00","14,1 K","12,60","14,87 %","R$ 222,7 M","R$ 139,19","-3,85 %","0,93",Indefinido,Lajes Corporativas,Híbrido,1.600.000,243,Ativa,Determinado
-56,BLCP11,"R$ 91,00","103,1 K","0,56","0,62 %","R$ 256,6 M","R$ 111,74","-0,43 %","0,81",Imóveis Industriais e Logísticos,Logística,Renda,2.296.282,279,Ativa,Indeterminado
-57,BLMC11,"R$ 84,78","145,2 K","0,67","11,55 %","R$ 38,6 M","R$ 96,56","0,90 %","0,87",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,399.500,463,Ativa,Indeterminado
-58,BLMG11,"R$ 41,02","925,0 K","0,30","19,89 %","R$ 320,9 M","R$ 84,22","-2,17 %","0,50",Imóveis Industriais e Logísticos,Outros,Renda,3.810.588,13.774,Ativa,Indeterminado
-59,BLMO11,"R$ 89,99","561,4 K","0,43","1.140,51 %","R$ 126,6 M","R$ 33.347,26","5,87 %","0,00",Lajes Corporativas,Lajes Corporativas,Híbrido,3.797,88,Ativa,Determinado
-60,BLMR11,"R$ 6,79","555,0 K","0,05","10,03 %","R$ 194,3 M","R$ 7,61","2,26 %","0,87",Fundo de Fundos,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,25.541.630,18.558,Ativa,Indeterminado
-61,BLUR11,"R$ 96,82",777,"0,52","12,03 %","R$ 8,1 M","R$ 89,61","9,47 %","1,08",Papéis,Títulos e Valores Mobiliários,Híbrido,90.000,135,Ativa,Indeterminado
-62,BMII11,"R$ 0,00",N/A,"0,23",N/A %,"R$ 67,8 M","R$ 467,93",N/A %,N/A,Investidores em Geral,Lajes Corporativas,Indeterminado,Lajes Corporativas,145.000,12,Passiva
-63,BMLC11,"R$ 106,80","400,1 K","0,76","11,24 %","R$ 111,6 M","R$ 111,79","1,71 %","0,96",Investidores em Geral,Lajes Corporativas,Indeterminado,Híbrido,998.405,1.326,Ativa
-64,BMLC11B,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-65,BNFS11,"R$ 121,29","180,8 K","1,26","14,12 %","R$ 64,3 M","R$ 91,89","0,02 %","1,32",Investidores em Geral,Agências de Bancos,Indeterminado,Outros,700.000,5.119,Ativa
-66,BODB11,"R$ 9,51","734,7 K",N/A,N/A %,R$ N/A,R$ N/A,"0,11 %",N/A,0,0,0,0,0,0,0
-67,BPFF11,"R$ 70,98","276,1 K","0,62","10,53 %","R$ 342,6 M","R$ 76,26","0,50 %","0,93",Investidores em Geral,Fundo de Fundos,Indeterminado,Títulos e Valores Mobiliários,4.492.326,17.859,Ativa
-68,BPLC11,"R$ 0,00",N/A,"14,42",N/A %,"R$ 322,7 M","R$ 10.084,54",N/A %,N/A,Misto,Híbrido,Renda,32.000,114,Ativa,Indeterminado
-69,BPML11,"R$ 96,00","717,8 K","0,27","0,56 %","R$ 574,4 M","R$ 133,42","0,05 %","0,72",Shoppings,Híbrido,Renda,4.305.079,1.344,Ativa,Indeterminado
-70,BPRP11,"R$ 108,99","12,5 K","0,90","9,94 %","R$ 148,9 M","R$ 110,30","14,61 %","0,99",Imóveis Industriais e Logísticos,Outros,Renda,1.349.837,170,Passiva,Indeterminado
-71,BRCO11,"R$ 122,71","3,7 M","0,99","8,37 %","R$ 1,8 B","R$ 120,60","0,73 %","1,01",Imóveis Industriais e Logísticos,Logística,Híbrido,14.778.781,119.131,Ativa,Indeterminado
-72,BRCR11,"R$ 59,40","2,7 M","0,41","8,98 %","R$ 2,7 B","R$ 99,92","0,59 %","0,59",Investidores em Geral,Lajes Corporativas,Indeterminado,Híbrido,26.638.202,149.874,Ativa
-73,BREV11,"R$ 105,00","271,5 K","0,58","5,70 %","R$ 113,9 M","R$ 117,73","-0,14 %","0,89",Lajes Corporativas,Híbrido,Renda,967.201,320,Ativa,Indeterminado
-74,BRHT11B,"R$ 86,80",N/A,N/A,N/A %,"R$ 126,3 M","R$ 68,60",N/A %,"1,27",Investidor Qualificado e Profissional,Hotéis,Indeterminado,Outros,1.841.677,11,Ativa
-75,BRIM11,"R$ 1.014,00","30,1 K","20,14","23,88 %","R$ 132,8 M","R$ 1.070,17","38,73 %","0,95",Fundo de Desenvolvimento,Residencial,Híbrido,124.137,222,Ativa,Determinado
-76,BRIP11,"R$ 1.000,00","1,5 K","13,93","16,50 %","R$ 244,5 M","R$ 1.134,48","21,05 %","0,88",Fundo de Desenvolvimento,Híbrido,Renda,215.475,253,Ativa,Determinado
-77,BRIX11,"R$ 0,00",N/A,N/A,N/A %,"R$ 99,8 M","R$ 1.011,79",N/A %,N/A,Indefinido,Títulos e Valores Mobiliários,Desenvolvimento para Venda,98.636,54,Ativa,Indeterminado
-78,BRLA11,"R$ 143,00",776,"1,12","9,33 %","R$ 553,0 M","R$ 158,26","5,93 %","0,90",Imóveis Industriais e Logísticos,Outros,Renda,3.494.468,277,Passiva,Indeterminado
-79,BROF11,"R$ 61,84","2,3 M","0,56","7,56 %","R$ 1,2 B","R$ 107,25","1,21 %","0,57",Lajes Corporativas,Híbrido,Renda,11.610.812,7.786,Ativa,Indeterminado
-80,BROL11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,5.500.000,0,0,0,0,0,0
-81,BRSE11,"R$ 0,00",N/A,N/A,N/A %,"R$ 6,8 M","R$ 3.387,23",N/A %,N/A,Indefinido,Outros,Renda,2.000,12,Ativa,Indeterminado
-82,BRZP11,"R$ 89,72","595,8 K",N/A,N/A %,R$ N/A,R$ N/A,"-0,21 %",N/A,0,0,0,0,0,0,0
-83,BTAG11,"R$ 99,50","487,8 K",N/A,N/A %,R$ N/A,R$ N/A,"-0,70 %",N/A,3.004.438,0,0,0,0,0,0
-84,BTAL11,"R$ 79,59","1,1 M","0,64","11,39 %","R$ 627,7 M","R$ 104,91","-0,19 %","0,76",Imóveis Industriais e Logísticos,Outros,Renda,5.982.736,45.547,Ativa,Indeterminado
-85,BTCI11,"R$ 9,97","2,2 M","0,10","12,36 %","R$ 1,0 B","R$ 10,22","-0,10 %","0,98",Investidores em Geral,Papéis,Indeterminado,Títulos e Valores Mobiliários,99.521.172,140.863,Ativa
-86,BTCR11,"R$ 88,00","652,8 K","0,90","1,02 %","R$ 458,3 M","R$ 95,27","-2,38 %","0,92",Investidores em Geral,Papéis,Indeterminado,Títulos e Valores Mobiliários,4.810.097,16.934,Ativa
-87,BTGM11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-88,BTHI11,"R$ 44,99","40,6 K","0,41","22,00 %","R$ 396,2 M","R$ 42,97","0,02 %","1,05",Hotéis,Hotel,Híbrido,9.218.512,684,Ativa,Indeterminado
-89,BTLG11,"R$ 104,32","7,7 M","0,76","8,68 %","R$ 2,8 B","R$ 99,06","0,60 %","1,05",Investidores em Geral,Imóveis Industriais e Logísticos,Indeterminado,Híbrido,28.492.634,260.030,Ativa
-90,BTRA11,"R$ 59,42","427,1 K","0,56","14,03 %","R$ 420,7 M","R$ 125,05","-2,88 %","0,49",Indefinido,Outros,Renda,3.364.559,21.146,Ativa,Indeterminado
-91,BTSG11,"R$ 139,00","21,0 K","0,90","7,71 %","R$ 106,7 M","R$ 137,73","1,11 %","1,01",Imóveis Industriais e Logísticos,Logística,Híbrido,775.015,65,Ativa,Indeterminado
-92,BTSI11,"R$ 97,50",99,"0,74","8,88 %","R$ 285,2 M","R$ 119,84","-4,92 %","0,81",Misto,Híbrido,Desenvolvimento para Renda,2.379.829,114,Ativa,Indeterminado
-93,BTWR11,"R$ 109,40",109,"0,84","6,08 %","R$ 90,5 M","R$ 111,80","2,79 %","0,98",Fundo de Desenvolvimento,Lajes Corporativas,Renda,809.269,69,Ativa,Indeterminado
-94,BVAR11,"R$ 0,00",N/A,"19,00",N/A %,"R$ 591,8 M","R$ 946,11",N/A %,N/A,Investidores em Geral,Varejo,Indeterminado,Outros,625.540,69,Passiva
-95,BZEL11,"R$ 0,00",N/A,"5,09",N/A %,"R$ 415,4 M","R$ 117,42",N/A %,N/A,Misto,Híbrido,Renda,3.538.046,3,Ativa,Indeterminado
-96,BZLI11,"R$ 17,01",71,N/A,N/A %,"R$ 447,9 M","R$ 10,43","-0,06 %","1,63",Investidor Qualificado e Profissional,Misto,Indeterminado,Títulos e Valores Mobiliários,42.957.233,19,Ativa
-97,CACR11,"R$ 102,63","1,5 M","1,48","17,11 %","R$ 385,5 M","R$ 100,82","0,49 %","1,01",Papéis,Híbrido,Híbrido,3.823.767,18.870,Ativa,Indeterminado
-98,CARE11,"R$ 1,40","15,7 K","0,01",N/A %,"R$ 296,5 M","R$ 8,29","1,45 %","0,17",Investidores em Geral,Misto,Indeterminado,Híbrido,35.769.919,11.772,Ativa
-99,CBOP11,"R$ 30,11","15,8 K","0,12","4,68 %","R$ 104,4 M","R$ 73,79","-2,14 %","0,42",Investidores em Geral,Lajes Corporativas,Indeterminado,Lajes Corporativas,1.415.000,3.178,Passiva
-100,CCFA11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-101,CCLB11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,Indefinido,Híbrido,0,Ativa,Determinado,Desenvolvimento para Venda,0
-102,CCME11,"R$ 108,00","2,7 K","0,90","10,12 %","R$ 564,1 M","R$ 103,07","-0,18 %","1,05",Indefinido,Outros,Híbrido,5.472.579,155,Ativa,Indeterminado
-103,CCRF11,"R$ 92,50","1,3 K","0,63","8,70 %","R$ 143,0 M","R$ 91,00","-0,95 %","1,02",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,1.571.900,317,Ativa,Indeterminado
-104,CDII11,"R$ 106,24","1,1 M",N/A,N/A %,R$ N/A,R$ N/A,"0,23 %",N/A,300.865,0,0,0,0,0,0
-105,CEOC11,"R$ 46,99","49,6 K","0,43","14,73 %","R$ 142,5 M","R$ 78,46","1,16 %","0,59",Investidores em Geral,Lajes Corporativas,Indeterminado,Lajes Corporativas,1.815.696,4.972,Passiva
-106,CEOC11B,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-107,CFHI11,"R$ 610,00","5,3 M","3,65","0,60 %","R$ 58,9 M","R$ 622,62",N/A %,"0,98",Fundo de Desenvolvimento,Outros,Híbrido,94.600,54,Ativa,Determinado
-108,CFII11,"R$ 0,00",N/A,N/A,N/A %,"R$ 104,1 M","R$ 1.034,59",N/A %,N/A,Indefinido,Híbrido,Desenvolvimento para Venda,100.584,59,Ativa,Determinado
-109,CIXR11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,2.834.551,0,0,0,0,0,0
-110,CJCT11,"R$ 69,99","50,4 K","0,49","1,96 %","R$ 207,4 M","R$ 66,05","0,01 %","1,06",Investidor Qualificado,Lajes Corporativas,Indeterminado,Lajes Corporativas,3.140.000,1.085,Passiva
-111,CJFI11,"R$ 0,00",N/A,N/A,N/A %,"R$ 272,3 M","R$ 2,88",N/A %,N/A,Misto,Híbrido,Híbrido,94.711.593,1,Ativa,Indeterminado
-112,CLIN11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-113,CNES11,"R$ 22,65","8,0 K","0,08","4,84 %","R$ 264,3 M","R$ 89,60","-0,22 %","0,25",Investidores em Geral,Lajes Corporativas,Indeterminado,Lajes Corporativas,2.949.248,1.675,Ativa
-114,CNES11B,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-115,COPP11,"R$ 103,00","1,8 M","0,75","0,73 %","R$ 174,5 M","R$ 104,91","3,00 %","0,98",Lajes Corporativas,Híbrido,Renda,1.663.087,15,Ativa,Indeterminado
-116,CORM11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-117,CPFF11,"R$ 77,46","351,0 K","0,68","8,83 %","R$ 210,3 M","R$ 82,37","0,73 %","0,93",Fundo de Fundos,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,2.553.074,9.698,Ativa,Indeterminado
-118,CPFO11,"R$ 0,00",N/A,N/A,N/A %,"R$ 90,5 M","R$ 31,93",N/A %,N/A,Fundo de Fundos,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,2.834.551,528,Ativa,Indeterminado
-119,CPSH11,"R$ 109,99","2,8 M","1,00","5,48 %","R$ 378,1 M","R$ 113,20","-0,27 %","0,97",Indefinido,Shoppings,Renda,3.340.000,390,Ativa,Indeterminado
-120,CPTI11,"R$ 99,35","1,3 M",N/A,N/A %,R$ N/A,R$ N/A,"-0,17 %",N/A,0,0,0,0,0,0,0
-121,CPTR11,"R$ 9,10","1,4 M","0,11","16,76 %","R$ 404,8 M","R$ 9,78","0,66 %","0,92",Indefinido,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,41.380.060,28.155,Ativa,Indeterminado
-122,CPTS11,"R$ 8,56","6,2 M","0,06","10,23 %","R$ 2,9 B","R$ 9,04","-0,23 %","0,95",Investidores em Geral,Papéis,Indeterminado,Títulos e Valores Mobiliários,317.828.140,295.246,Ativa
-123,CPTS11B,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-124,CRAA11,"R$ 100,45","138,7 K","1,20","12,52 %","R$ 50,2 M","R$ 101,40","0,10 %","0,99",Indefinido,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,494.836,1.787,Ativa,Indeterminado
-125,CRFF11,"R$ 77,92","140,9 K","0,65","9,67 %","R$ 61,1 M","R$ 88,58","0,43 %","0,88",Fundo de Fundos,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,690.040,1.483,Ativa,Indeterminado
-126,CSMC11,"R$ 0,00",N/A,"20,67",N/A %,"R$ 559,1 M","R$ 1.057,82",N/A %,N/A,Indefinido,Logística,Desenvolvimento para Renda,528.493,1,Ativa,Determinado
-127,CTNP11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-128,CTXT11,"R$ 11,61","2,7 K","0,01",N/A %,"R$ 105,8 M","R$ 31,05","-0,17 %","0,37",Investidores em Geral,Lajes Corporativas,Indeterminado,Lajes Corporativas,3.408.174,2.798,Passiva
-129,CVBI11,"R$ 93,09","2,5 M","0,80","12,40 %","R$ 1,1 B","R$ 95,90","0,82 %","0,96",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,11.010.228,88.084,Ativa,Indeterminado
-130,CVPR11,"R$ 0,00",N/A,"0,85",N/A %,"R$ 14,1 M","R$ 100,39",N/A %,N/A,Indefinido,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,140.000,2,Ativa,Indeterminado
-131,CXAG11,"R$ 81,99","152,1 K","0,77","10,99 %","R$ 241,8 M","R$ 115,65","1,37 %","0,70",Agências de Bancos,Outros,Renda,2.090.621,12.103,Ativa,Indeterminado
-132,CXCE11B,"R$ 44,64","23,0 K","0,43","11,14 %","R$ 111,9 M","R$ 65,32","1,27 %","0,67",Investidores em Geral,Lajes Corporativas,Indeterminado,Lajes Corporativas,1.712.950,3.672,Passiva
-133,CXCI11,"R$ 86,00","169,6 K","0,85","11,80 %","R$ 192,8 M","R$ 93,69","0,60 %","0,91",Indefinido,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,2.057.726,5.341,Ativa,Indeterminado
-134,CXCO11,"R$ 79,20","165,8 K","0,73","11,93 %","R$ 389,7 M","R$ 99,31","0,51 %","0,79",Lajes Corporativas,Lajes Corporativas,Renda,3.924.500,14.148,Passiva,Indeterminado
-135,CXRI11,"R$ 79,30","26,7 K","0,59","8,59 %","R$ 141,4 M","R$ 89,72","-0,88 %","0,89",Investidores em Geral,Fundo de Fundos,Indeterminado,Títulos e Valores Mobiliários,1.575.760,2.252,Ativa
-136,CXTL11,"R$ 238,39","15,4 K","2,10","8,41 %","R$ 22,3 M","R$ 416,57","-4,64 %","0,60",Investidores em Geral,Imóveis Industriais e Logísticos,Indeterminado,Logística,53.597,708,Passiva
-137,CYCR11,"R$ 9,62","301,5 K","0,11","12,70 %","R$ 159,5 M","R$ 9,77","0,10 %","0,98",Indefinido,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,16.315.840,14.056,Ativa,Indeterminado
-138,CYLD11,"R$ 0,00",N/A,N/A,N/A %,"R$ 125,4 M","R$ 100,96",N/A %,N/A,Imóveis Industriais e Logísticos,Logística,Desenvolvimento para Venda,1.241.743,46,Ativa,Determinado
-139,DAMT11B,"R$ 13,69","19,3 K","0,04","7,52 %","R$ 96,1 M","R$ 13,15","5,55 %","0,99",Shoppings,Híbrido,Renda,7.305.341,570,Passiva,Determinado
-140,DCRA11,"R$ 9,07","252,2 K",N/A,N/A %,R$ N/A,R$ N/A,"0,55 %",N/A,0,0,0,0,0,0,0
-141,DEVA11,"R$ 43,31","1,7 M","0,47","19,01 %","R$ 1,4 B","R$ 98,18","-0,78 %","0,44",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,14.044.908,125.985,Ativa,Indeterminado
-142,DLMT11,"R$ 0,00",N/A,"0,01",N/A %,"R$ 8,5 M","R$ 0,64",N/A %,N/A,Varejo,Híbrido,Renda,13.225.796,9,Ativa,Indeterminado
-143,DMAC11,"R$ 13,00",N/A,"4,89",N/A %,"R$ 778,3 K","R$ 4,99",N/A %,"2,61",Fundo de Desenvolvimento,Residencial,Desenvolvimento para Venda,156.108,2.352,Passiva,Indeterminado
-144,DOMC11,"R$ 439,00",N/A,N/A,N/A %,"R$ 242,6 M","R$ 99,29",N/A %,"4,42",Lajes Corporativas,Híbrido,Renda,2.443.800,1.185,Ativa,Indeterminado
-145,DOVL11B,"R$ 1.200,69","33,6 K","6,67","8,49 %","R$ 79,0 M","R$ 1.189,96",N/A %,"1,01",Lajes Corporativas,Lajes Corporativas,Títulos e Valores Mobiliários,66.406,60,Ativa,Determinado
-146,DPRO11,"R$ 8,19","16,5 K","0,06","112,34 %","R$ 47,0 M","R$ 9,40","4,73 %","0,83",Indefinido,Híbrido,Híbrido,5.003.220,284,Ativa,Indeterminado
-147,DRIT11B,"R$ 83,30","1,5 K","0,39","8,30 %","R$ 61,5 M","R$ 132,78","-2,63 %","0,63",Investidores em Geral,Lajes Corporativas,Indeterminado,Lajes Corporativas,463.277,350,Ativa
-148,DVFF11,"R$ 8,21","151,8 K","0,08","10,87 %","R$ 102,2 M","R$ 9,28","-0,97 %","0,89",Fundo de Fundos,Híbrido,Títulos e Valores Mobiliários,11.009.500,921,Ativa,Indeterminado
-149,EDFO11B,"R$ 229,98","7,9 K","1,69","9,03 %","R$ 42,6 M","R$ 180,67","20,38 %","1,27",Investidores em Geral,Lajes Corporativas,Indeterminado,Lajes Corporativas,236.000,537,Passiva
-150,EDGA11,"R$ 21,61","18,5 K","0,07","5,36 %","R$ 233,7 M","R$ 61,30","0,51 %","0,35",Investidores em Geral,Lajes Corporativas,Indeterminado,Lajes Corporativas,3.812.055,5.194,Passiva
-151,EDGA11B,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-152,EGAF11,"R$ 99,26","1,2 M","1,20","19,35 %","R$ 186,5 M","R$ 98,73","0,01 %","1,01",Indefinido,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,1.888.921,12.058,Ativa,Indeterminado
-153,EGYR11,"R$ 5,35","2,2 K",N/A,N/A %,"R$ 93,2 M","R$ 123,41","-3,60 %","0,05",Fundo de Desenvolvimento,Outros,Títulos e Valores Mobiliários,755.269,45,Passiva,Indeterminado
-154,ELDO11B,"R$ 762,38",N/A,"1,49","13,87 %","R$ 1,1 B","R$ 1.440,67",N/A %,"0,53",Investidores em Geral,Shoppings,Indeterminado,Shoppings,787.256,61,Passiva
-155,ENDD11,"R$ 101,99","425,6 K",N/A,N/A %,R$ N/A,R$ N/A,"-0,85 %",N/A,0,0,0,0,0,0,0
-156,EQIA11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-157,EQIN11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-158,EQIR11,"R$ 9,79","93,8 K","0,11","13,47 %","R$ 66,7 M","R$ 9,98","-0,10 %","0,98",Indefinido,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,6.676.428,9.661,Ativa,Indeterminado
-159,ERCR11,"R$ 76.000,00",N/A,"139,45","0,18 %","R$ 118,6 M","R$ 49.925,50",N/A %,"1,52",Varejo,Híbrido,Desenvolvimento para Renda,2.376,10,Passiva,Indeterminado
-160,ERPA11,"R$ 119,90","48,2 K","0,72","7,11 %","R$ 68,7 M","R$ 137,18","6,22 %","0,87",Lajes Corporativas,Lajes Corporativas,Renda,500.922,387,Passiva,Indeterminado
-161,ESTQ11,"R$ 0,00",N/A,N/A,N/A %,"R$ 3,0 M","R$ 0,05",N/A %,N/A,Misto,Híbrido,Híbrido,65.361.974,9,Ativa,Indeterminado
-162,ESUD11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-163,ESUT11,"R$ 20,02","6,0 K",N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-164,ESUU11,"R$ 1.199,98",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-165,EURO11,"R$ 248,75","54,0 K","1,88","9,00 %","R$ 125,0 M","R$ 325,45","0,26 %","0,76",Investidores em Geral,Imóveis Industriais e Logísticos,Indeterminado,Logística,383.936,2.382,Passiva
-166,EVBI11,"R$ 98,29","607,7 K","0,75","9,25 %","R$ 213,6 M","R$ 99,15","-0,20 %","0,99",Misto,Híbrido,Híbrido,2.153.893,1.018,Ativa,Indeterminado
-167,EXES11,"R$ 88,44",619,"0,78","11,05 %","R$ 52,3 M","R$ 91,60","0,01 %","0,97",Indefinido,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,571.390,58,Ativa,Indeterminado
-168,FAED11,"R$ 157,54","51,9 K","1,48","11,81 %","R$ 140,7 M","R$ 219,10","0,47 %","0,72",Investidores em Geral,Educacional,Indeterminado,Outros,642.168,4.616,Passiva
-169,FAED11B,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-170,FAGL11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,3.000.000,0,0,0,0,0,0
-171,FAMB11B,"R$ 791,00","93,4 K","9,16",N/A %,"R$ 308,5 M","R$ 2.802,99","-1,25 %","0,29",Investidores em Geral,Lajes Corporativas,Indeterminado,Lajes Corporativas,110.054,2.556,Passiva
-172,FAOE11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-173,FARM11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-174,FARU11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,8.000.000,0,0,0,0,0,0
-175,FATN11,"R$ 92,06","665,1 K","0,85","10,98 %","R$ 260,1 M","R$ 99,28","-0,14 %","0,93",Lajes Corporativas,Híbrido,Renda,2.619.718,3.720,Ativa,Indeterminado
-176,FCAS11,"R$ 0,00",N/A,"0,12",N/A %,"R$ 80,7 M","R$ 60,79",N/A %,N/A,Lajes Corporativas,Lajes Corporativas,Renda,1.327.300,2,Passiva,Indeterminado
-177,FCFL11,"R$ 115,98","236,9 K","0,86","8,42 %","R$ 406,7 M","R$ 117,08","0,02 %","0,99",Investidores em Geral,Educacional,Indeterminado,Outros,3.474.010,3.409,Ativa
-178,FCFL11B,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-179,FEXC11,"R$ 83,50","860,1 K","0,95","134,61 %","R$ 1,0 B","R$ 90,57","-3,91 %","0,10",Investidores em Geral,Papéis,Indeterminado,Títulos e Valores Mobiliários,11.057.908,36.232,Ativa
-180,FEXC11B,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-181,FFCI11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-182,FGAA11,"R$ 9,53","1,9 M","0,11","16,33 %","R$ 432,1 M","R$ 9,58","0,11 %","0,99",Indefinido,Híbrido,Híbrido,45.081.449,44.836,Ativa,Indeterminado
-183,FGPM11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-184,FIGS11,"R$ 60,60","149,5 K","0,45","8,96 %","R$ 217,4 M","R$ 76,28","0,35 %","0,79",Investidores em Geral,Shoppings,Indeterminado,Shoppings,2.850.000,14.685,Passiva
-185,FIIB11,"R$ 512,50","251,0 K","3,65","8,11 %","R$ 316,2 M","R$ 461,58","-0,49 %","1,12",Investidores em Geral,Imóveis Industriais e Logísticos,Indeterminado,Híbrido,685.000,16.582,Passiva
-186,FIIP11B,"R$ 173,21","65,8 K","1,44","9,71 %","R$ 188,6 M","R$ 203,43","-0,05 %","0,85",Investidores em Geral,Imóveis Industriais e Logísticos,Indeterminado,Híbrido,927.162,7.508,Passiva
-187,FINF11,"R$ 0,00",N/A,"0,29",N/A %,"R$ 32,8 M","R$ 39,95",N/A %,N/A,Investidor Qualificado,Imóveis Industriais e Logísticos,Indeterminado,Logística,820.112,4,Ativa
-188,FISC11,"R$ 65,00","4,0 K","0,38","7,46 %","R$ 195,2 M","R$ 114,81","-16,67 %","0,57",Lajes Corporativas,Lajes Corporativas,Renda,1.699.996,64,Ativa,Indeterminado
-189,FISD11,"R$ 0,00",N/A,"6,53",N/A %,"R$ 64,8 M","R$ 60,45",N/A %,N/A,Investidor Qualificado e Profissional,Papéis,Determinado,Títulos e Valores Mobiliários,1.072.588,23,Ativa
-190,FIVN11,"R$ 3,02","3,1 K",N/A,N/A %,"R$ 72,1 M","R$ 7,66","-3,51 %","0,41",Investidores em Geral,Shoppings,Indeterminado,Shoppings,9.412.630,4.078,Passiva
-191,FIXX11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-192,FLCI11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-193,FLCR11,"R$ 97,40","53,4 K","1,00","13,83 %","R$ 62,0 M","R$ 97,79","0,01 %","1,00",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,633.604,2.714,Ativa,Indeterminado
-194,FLEM11,"R$ 0,00",N/A,N/A,N/A %,"R$ 283,7 M","R$ 97,00",N/A %,N/A,Indefinido,Outros,Híbrido,2.925.000,14,Ativa,Indeterminado
-195,FLFL11,"R$ 0,00",N/A,N/A,N/A %,"R$ 142,6 M","R$ 98,25",N/A %,N/A,Fundo de Desenvolvimento,Híbrido,Desenvolvimento para Venda,1.451.500,121,Ativa,Indeterminado
-196,FLMA11,"R$ 143,44","89,3 K","0,97","7,62 %","R$ 221,4 M","R$ 160,37","-0,87 %","0,90",Investidores em Geral,Lajes Corporativas,Indeterminado,Híbrido,1.380.670,14.968,Ativa
-197,FLRP11,"R$ 1.999,99","224,6 K","13,50","8,25 %","R$ 119,0 M","R$ 1.824,89","1,52 %","1,10",Investidores em Geral,Shoppings,Indeterminado,Shoppings,65.232,785,Passiva
-198,FLRP11B,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-199,FMOF11,"R$ 55,85","1,2 K","0,46","1,09 %","R$ 60,5 M","R$ 119,01","7,51 %","0,47",Investidores em Geral,Lajes Corporativas,Indeterminado,Lajes Corporativas,508.008,266,Passiva
-200,FOEF11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-201,FOFT11,"R$ 123,00",N/A,"1,90",N/A %,"R$ 131,8 M","R$ 110,21",N/A %,"1,12",Investidores em Geral,Fundo de Fundos,Indeterminado,Títulos e Valores Mobiliários,1.196.040,3.846,Ativa
-202,FPAB11,"R$ 197,00","10,0 K","0,90","9,42 %","R$ 280,6 M","R$ 374,18","-1,50 %","0,53",Investidores em Geral,Lajes Corporativas,Indeterminado,Lajes Corporativas,750.000,923,Passiva
-203,FPNG11,"R$ 85,07",850,"0,54","8,79 %","R$ 322,1 M","R$ 160,95","0,10 %","0,53",Investidores em Geral,Lajes Corporativas,Indeterminado,Lajes Corporativas,2.001.349,67,Ativa
-204,FPOR11,"R$ 5,75","3,3 K",N/A,N/A %,R$ N/A,R$ N/A,"-11,54 %",N/A,0,0,0,0,0,0,0
-205,FRHY11,"R$ 0,00",N/A,"1,03",N/A %,"R$ 5,2 M","R$ 39,88",N/A %,N/A,Indefinido,Títulos e Valores Mobiliários,Híbrido,130.500,7,Ativa,Indeterminado
-206,FTCE11B,"R$ 2.900,89","14,8 K","112,96","6,86 %","R$ 2,9 B","R$ 2.899,63",N/A %,"1,00",Investidor Qualificado,Misto,Indeterminado,Híbrido,1.004.269,112,Ativa
-207,FVBI11,"R$ 94,97",N/A,"0,37",N/A %,R$ N/A,R$ N/A,N/A %,N/A,Investidores em Geral,Lajes Corporativas,0,Lajes Corporativas,Passiva,Indeterminado,Renda
-208,FVBI11B,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-209,FVPQ11,"R$ 110,51","80,2 K","0,45","10,96 %","R$ 537,5 M","R$ 191,97","0,28 %","0,57",Investidores em Geral,Shoppings,Indeterminado,Shoppings,2.800.149,3.987,Passiva
-210,FZDA11,"R$ 120,00","157,0 K","2,26","1,81 %","R$ 345,2 M","R$ 222,70","-3,68 %","0,56",Indefinido,Outros,Híbrido,1.550.000,461,Ativa,Indeterminado
-211,FZDB11,"R$ 111,45","168,4 K",N/A,N/A %,"R$ 357,9 M","R$ 99,43","0,80 %","1,12",Indefinido,Outros,Híbrido,3.600.000,68,Ativa,Indeterminado
-212,GALG11,"R$ 9,27","3,2 M","0,08","10,65 %","R$ 523,1 M","R$ 9,10","-0,54 %","1,02",Imóveis Industriais e Logísticos,Híbrido,Híbrido,57.485.300,102.637,Ativa,Indeterminado
-213,GAME11,"R$ 9,28","142,8 K","0,10","13,06 %","R$ 212,5 M","R$ 9,79","0,98 %","0,94",Indefinido,Outros,Títulos e Valores Mobiliários,21.697.677,24.082,Ativa,Indeterminado
-214,GCFF11,"R$ 69,30","87,7 K","0,75","4,21 %","R$ 27,9 M","R$ 77,51","0,61 %","0,89",Fundo de Fundos,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,360.477,1.759,Ativa,Indeterminado
-215,GCOI11,"R$ 98,99","9,9 K","0,81","0,81 %","R$ 11,0 M","R$ 97,32",N/A %,"1,02",Indefinido,Híbrido,Renda,113.000,356,Ativa,Indeterminado
-216,GCRA11,"R$ 76,00","525,6 K","1,00","18,33 %","R$ 172,1 M","R$ 98,28","0,01 %","0,77",Indefinido,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,1.750.865,7.357,Ativa,Indeterminado
-217,GCRI11,"R$ 88,20","273,3 K","0,95","14,01 %","R$ 138,1 M","R$ 94,96","-0,34 %","0,93",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,1.453.859,4.961,Ativa,Indeterminado
-218,GESE11B,"R$ 1.520,00",N/A,"14,97","87,27 %","R$ 58,2 M","R$ 1.119,08",N/A %,"1,36",Educacional,Outros,Renda,52.000,56,Passiva,Determinado
-219,GGRC11,"R$ 113,48","1,5 M","0,90","10,24 %","R$ 1,0 B","R$ 113,34","-0,03 %","1,00",Investidores em Geral,Imóveis Industriais e Logísticos,Indeterminado,Logística,9.031.191,106.483,Ativa
-220,GLOG11,"R$ 65,49","60,2 K","0,63","12,09 %","R$ 79,9 M","R$ 106,52","-0,18 %","0,62",Imóveis Industriais e Logísticos,Logística,Renda,750.000,3.076,Ativa,Indeterminado
-221,GLPL11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-222,GRLV11,"R$ 104,51",N/A,"0,17",N/A %,"R$ 6,4 M","R$ 5,97",N/A %,"17,51",Investidores em Geral,Imóveis Industriais e Logísticos,Indeterminado,Logística,1.073.530,2.604,Passiva
-223,GRWA11,"R$ 11,80","50,8 K","0,15","10,05 %","R$ 12,9 M","R$ 10,18","0,51 %","1,15",Indefinido,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,1.267.100,1.801,Ativa,Indeterminado
-224,GSFI11,"R$ 7,89","1,2 M",N/A,N/A %,"R$ 1,1 B","R$ 14,44","-0,13 %","0,55",Shoppings,Shoppings,Renda,75.198.136,8.384,Ativa,Indeterminado
-225,GTLG11,"R$ 63,99","22,9 K","0,84","7,88 %","R$ 434,8 M","R$ 60,62","-1,55 %","1,06",Imóveis Industriais e Logísticos,Logística,Renda,7.173.000,341,Ativa,Indeterminado
-226,GTWR11,"R$ 86,49","1,1 M","0,79","11,91 %","R$ 1,1 B","R$ 95,14","0,27 %","0,91",Lajes Corporativas,Lajes Corporativas,Renda,12.000.000,33.086,Ativa,Indeterminado
-227,GURB11,"R$ 108,00","6,0 M","0,70","5,32 %","R$ 126,3 M","R$ 111,23","2,83 %","0,97",Indefinido,Híbrido,Renda,1.135.160,21,Ativa,Indeterminado
-228,GVBI11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,1.500.000,0,0,0,0,0,0
-229,GWIR11,"R$ 175,99",N/A,N/A,N/A %,"R$ 91,2 M","R$ 238,79",N/A %,"0,74",Shoppings,Shoppings,Renda,382.017,209,Passiva,Indeterminado
-230,GZIT11,"R$ 0,00",N/A,"0,32",N/A %,"R$ 1,9 B","R$ 85,99",N/A %,N/A,Indefinido,Híbrido,Híbrido,21.841.231,1,Ativa,Indeterminado
-231,HAAA11,"R$ 48,02","2,1 K","0,37","9,86 %","R$ 278,3 M","R$ 80,56","5,49 %","0,57",Lajes Corporativas,Lajes Corporativas,Renda,3.455.000,320,Ativa,Indeterminado
-232,HABT11,"R$ 89,09","1,5 M","0,98","15,33 %","R$ 795,5 M","R$ 97,88","0,55 %","0,91",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,8.126.783,70.629,Ativa,Indeterminado
-233,HBCR11,"R$ 117,39","7,1 M","0,69","6,14 %","R$ 137,0 M","R$ 119,38","0,01 %","0,98",Indefinido,Outros,Desenvolvimento para Renda,1.147.760,39,Ativa,Indeterminado
-234,HBRH11,"R$ 92,60","388,0 K","0,66","7,14 %","R$ 310,4 M","R$ 111,96","-0,17 %","0,83",Lajes Corporativas,Híbrido,Renda,2.772.204,970,Ativa,Indeterminado
-235,HBTT11,"R$ 1.055,00",N/A,"16,58",N/A %,R$ N/A,R$ N/A,N/A %,N/A,Investidores em Geral,Papéis,0,Títulos e Valores Mobiliários,Ativa,Determinado,Títulos e Valores Mobiliários
-236,HCHG11,"R$ 77,05","35,7 K","0,69","13,14 %","R$ 117,3 M","R$ 97,76","1,64 %","0,78",Papéis,Outros,Títulos e Valores Mobiliários,1.200.000,1.003,Ativa,Indeterminado
-237,HCPR11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,1.750.000,0,0,0,0,0,0
-238,HCRA11,"R$ 105,50","1,5 K",N/A,N/A %,R$ N/A,R$ N/A,"-0,86 %",N/A,600.000,0,0,0,0,0,0
-239,HCRI11,"R$ 303,77","63,1 K","3,00","10,89 %","R$ 62,4 M","R$ 312,06","-0,34 %","0,98",Investidores em Geral,Hospitalar,Indeterminado,Hospital,200.000,3.085,Passiva
-240,HCRI11B,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-241,HCST11,"R$ 50,05",67,N/A,N/A %,"R$ 49,5 M","R$ 101,29","0,08 %","0,49",Fundo de Desenvolvimento,Residencial,Desenvolvimento para Renda,488.374,69,Ativa,Indeterminado
-242,HCTR11,"R$ 39,05","1,6 M","0,34","16,51 %","R$ 2,5 B","R$ 114,32","0,44 %","0,34",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,22.084.202,193.383,Ativa,Indeterminado
-243,HDEL11,"R$ 107,50","21,5 K","5,95","7,27 %","R$ 77,6 M","R$ 92,43","0,35 %","1,16",Imóveis Industriais e Logísticos,Logística,Desenvolvimento para Venda,840.000,59,Passiva,Determinado
-244,HDOF11,"R$ 115,00","101,0 K",N/A,N/A %,"R$ 200,2 M","R$ 97,41",N/A %,"1,18",Fundo de Desenvolvimento,Lajes Corporativas,Desenvolvimento para Venda,2.055.675,112,Ativa,Determinado
-245,HFOF11,"R$ 78,20","2,9 M","0,63","9,65 %","R$ 1,8 B","R$ 79,52","-0,17 %","0,99",Investidores em Geral,Fundo de Fundos,Indeterminado,Títulos e Valores Mobiliários,23.044.389,77.182,Ativa
-246,HGAG11,"R$ 22,01","14,3 K","0,33","16,47 %","R$ 5,9 M","R$ 23,69","-4,35 %","0,97",Indefinido,Outros,Renda,248.252,1.386,Ativa,Indeterminado
-247,HGBS11,"R$ 227,74","5,9 M","2,00","8,92 %","R$ 2,9 B","R$ 224,62","1,04 %","1,00",Investidores em Geral,Shoppings,Indeterminado,Shoppings,12.729.800,102.934,Ativa
-248,HGCR11,"R$ 105,73","3,3 M","1,00","12,88 %","R$ 1,6 B","R$ 101,88","0,89 %","1,03",Investidores em Geral,Papéis,Indeterminado,Títulos e Valores Mobiliários,15.418.106,104.345,Ativa
-249,HGFF11,"R$ 87,48","815,1 K","0,70","9,16 %","R$ 262,5 M","R$ 91,67","-0,48 %","0,96",Fundo de Fundos,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,2.863.597,16.406,Ativa,Indeterminado
-250,HGIC11,"R$ 105,50","18,8 K","1,00","10,38 %","R$ 55,5 M","R$ 119,92","0,81 %","0,87",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,462.706,357,Ativa,Indeterminado
-251,HGJH11,"R$ 191,29",N/A,"0,80",N/A %,"R$ 523,9 M","R$ 298,84",N/A %,"0,64",Lajes Corporativas,Lajes Corporativas,Renda,1.753.057,17.927,Passiva,Indeterminado
-252,HGLG11,"R$ 161,94","14,0 M","1,10","8,40 %","R$ 5,2 B","R$ 152,83","-0,03 %","1,06",Investidores em Geral,Imóveis Industriais e Logísticos,Indeterminado,Logística,33.787.575,430.770,Ativa
-253,HGPO11,"R$ 281,00","692,3 K","1,50","6,67 %","R$ 523,9 M","R$ 298,84","-0,33 %","0,94",Lajes Corporativas,Lajes Corporativas,Renda,1.753.057,17.927,Passiva,Indeterminado
-254,HGRE11,"R$ 131,69","1,6 M","1,20","7,93 %","R$ 1,8 B","R$ 154,51","0,45 %","0,85",Investidores em Geral,Lajes Corporativas,Indeterminado,Lajes Corporativas,11.817.767,147.211,Ativa
-255,HGRS11,"R$ 0,00",N/A,"1,15",N/A %,"R$ 58,7 M","R$ 39,32",N/A %,N/A,Imóveis Residenciais,Residencial,Renda,1.492.940,6,Ativa,Indeterminado
-256,HGRU11,"R$ 139,00","3,8 M","2,30","8,73 %","R$ 2,3 B","R$ 123,67","-0,29 %","1,13",Investidores em Geral,Misto,Indeterminado,Híbrido,18.406.458,207.981,Ativa
-257,HILG11,"R$ 0,00",N/A,"1,34",N/A %,"R$ 95,3 M","R$ 182,57",N/A %,N/A,Indefinido,Outros,Renda,522.087,50,Ativa,Indeterminado
-258,HLOG11,"R$ 84,74","67,5 K","0,65","9,14 %","R$ 488,8 M","R$ 115,01","-0,71 %","0,74",Imóveis Industriais e Logísticos,Logística,Renda,4.250.000,4.285,Ativa,Indeterminado
-259,HMOC11,"R$ 226,95",N/A,"23,80",N/A %,"R$ 91,2 M","R$ 238,79",N/A %,"0,95",Investidor Qualificado,Shoppings,Indeterminado,Shoppings,382.017,209,Passiva
-260,HOFC11,"R$ 18,87","78,7 K","0,20","11,47 %","R$ 337,2 M","R$ 89,22","0,16 %","0,21",Lajes Corporativas,Lajes Corporativas,Renda,3.779.001,6.949,Ativa,Indeterminado
-261,HOSI11,"R$ 87,50","280,8 K","1,20","8,57 %","R$ 53,2 M","R$ 92,81","-3,94 %","0,98",Imóveis Residenciais,Híbrido,Híbrido,573.450,1.608,Ativa,Indeterminado
-262,HPDP11,"R$ 87,53","1,2 M","0,53","7,40 %","R$ 278,4 M","R$ 88,35","3,02 %","0,99",Shoppings,Shoppings,Renda,3.150.649,423,Passiva,Indeterminado
-263,HRDF11,"R$ 3,80",404,"6,80",N/A %,"R$ 9,7 M","R$ 6,40","3,54 %","0,57",Fundo de Desenvolvimento,Híbrido,Desenvolvimento para Venda,1.517.425,1.155,Ativa,Determinado
-264,HREC11,"R$ 8,67","169,8 K","0,09","111,38 %","R$ 474,2 M","R$ 91,95","-0,80 %","0,10",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,5.156.765,1.711,Ativa,Indeterminado
-265,HRES11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-266,HSAF11,"R$ 84,44","442,0 K","0,75","12,55 %","R$ 231,9 M","R$ 91,78","-0,48 %","0,92",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,2.526.360,10.628,Ativa,Indeterminado
-267,HSLG11,"R$ 95,50","1,1 M","0,74","9,07 %","R$ 1,3 B","R$ 103,68","-0,95 %","0,93",Imóveis Industriais e Logísticos,Logística,Renda,12.660.067,35.751,Ativa,Indeterminado
-268,HSML11,"R$ 95,93","3,2 M","0,76","9,22 %","R$ 1,5 B","R$ 94,34","-0,22 %","1,02",Shoppings,Shoppings,Renda,15.780.613,166.127,Ativa,Indeterminado
-269,HSRE11,"R$ 106,00","6,2 M","0,60","6,96 %","R$ 832,5 M","R$ 93,55","-1,89 %","1,13",Misto,Híbrido,Renda,8.898.724,236,Ativa,Indeterminado
-270,HTMX11,"R$ 190,17","1,8 M","3,25","12,97 %","R$ 194,9 M","R$ 129,55","-1,03 %","1,48",Investidores em Geral,Hotéis,Indeterminado,Hotel,1.504.334,30.859,Ativa
-271,HTMX11B,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-272,HUCG11,"R$ 94,01","6,0 K","0,22","3,43 %","R$ 116,5 M","R$ 103,81","0,84 %","0,90",Hospitalar,Hospital,Desenvolvimento para Renda,1.122.000,219,Passiva,Indeterminado
-273,HUSC11,"R$ 120,00","5,0 K","0,95","8,81 %","R$ 119,2 M","R$ 145,38","-2,35 %","0,85",Investidores em Geral,Hospitalar,Indeterminado,Outros,819.907,773,Passiva
-274,HUSI11,"R$ 1.200,00","6,9 K","8,35","8,89 %","R$ 129,5 M","R$ 1.112,77","20,00 %","1,08",Hospitalar,Hospital,Desenvolvimento para Renda,116.362,87,Ativa,Indeterminado
-275,IAAG11,"R$ 8,93","25,0 K","0,08","5,26 %","R$ 52,6 M","R$ 9,65","-0,22 %","0,93",Indefinido,Títulos e Valores Mobiliários,Híbrido,5.448.766,1.510,Ativa,Indeterminado
-276,IAGR11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-277,IBCR11,"R$ 81,67","200,2 K","1,00","13,63 %","R$ 92,4 M","R$ 96,41","0,27 %","0,84",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,958.423,4.035,Ativa,Indeterminado
-278,IBFF11,"R$ 66,40","162,5 K","0,30","0,45 %","R$ 9,9 M","R$ 14,78","1,47 %","4,49",Fundo de Fundos,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,666.681,3.870,Ativa,Indeterminado
-279,ICRI11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-280,IDFI11,"R$ 20,00","9,8 K","0,17","18,01 %","R$ 62,4 M","R$ 30,34","-19,03 %","0,81",Indefinido,Híbrido,Renda,2.057.925,371,Ativa,Determinado
-281,IDGR11,"R$ 11,50",699,"0,11","4,36 %","R$ 11,0 M","R$ 12,41","1,41 %","0,91",Misto,Híbrido,Renda,883.359,72,Ativa,Determinado
-282,IFID11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-283,IFIE11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-284,IFRA11,"R$ 111,60","1,5 M",N/A,N/A %,R$ N/A,R$ N/A,"0,63 %",N/A,0,0,0,0,0,0,0
-285,IRDM11,"R$ 82,34","5,1 M","0,77","12,39 %","R$ 3,2 B","R$ 87,27","0,30 %","0,94",Investidores em Geral,Papéis,Indeterminado,Títulos e Valores Mobiliários,36.433.827,294.383,Ativa
-286,IRIM11,"R$ 85,79","49,5 K","1,00","13,28 %","R$ 175,3 M","R$ 91,31","0,09 %","0,94",Indefinido,Híbrido,Híbrido,1.920.000,2.708,Ativa,Indeterminado
-287,ITIP11,"R$ 75,60","112,7 K","0,65","12,13 %","R$ 55,5 M","R$ 74,15","-0,87 %","1,03",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,748.151,4.555,Passiva,Indeterminado
-288,ITIT11,"R$ 77,18","238,4 K","0,64","9,37 %","R$ 76,1 M","R$ 84,55","0,53 %","0,91",Fundo de Fundos,Títulos e Valores Mobiliários,Renda,900.494,9.808,Passiva,Indeterminado
-289,JASC11,"R$ 103,00","999,9 K","0,52","5,67 %","R$ 358,6 M","R$ 107,64","-0,96 %","0,96",Imóveis Comerciais - Outros,Híbrido,Renda,3.331.507,77,Ativa,Indeterminado
-290,JBFO11,"R$ 87,00",87,"0,62","6,13 %","R$ 106,0 M","R$ 82,90",N/A %,"1,05",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,1.279.070,364,Ativa,Indeterminado
-291,JCCJ11,"R$ 124,95","5,2 M","0,37","0,75 %","R$ 289,9 M","R$ 173,75","-1,46 %","0,72",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,1.668.505,152,Passiva,Indeterminado
-292,JCDA11,"R$ 0,00",N/A,N/A,N/A %,"R$ 159,5 M","R$ 10,52",N/A %,N/A,Misto,Híbrido,Desenvolvimento para Renda,15.159.655,51,Passiva,Determinado
-293,JCDB11,"R$ 0,00",N/A,N/A,N/A %,"R$ 142,2 M","R$ 136,33",N/A %,N/A,Imóveis Comerciais - Outros,Híbrido,Híbrido,1.042.957,58,Ativa,Indeterminado
-294,JFLL11,"R$ 75,68","47,1 K","0,62","10,07 %","R$ 151,5 M","R$ 100,94","2,27 %","0,73",Imóveis Residenciais,Residencial,Renda,1.500.598,3.693,Ativa,Indeterminado
-295,JGPX11,"R$ 91,79","422,4 K","0,95","15,37 %","R$ 204,2 M","R$ 95,36","0,34 %","0,96",Indefinido,Híbrido,Híbrido,2.141.248,7.560,Ativa,Indeterminado
-296,JPPA11,"R$ 92,96","175,6 K","1,04","16,11 %","R$ 88,4 M","R$ 97,79","0,39 %","0,95",Papéis,Híbrido,Títulos e Valores Mobiliários,904.050,9.137,Ativa,Indeterminado
-297,JPPC11,"R$ 200,00",800,"0,17","0,09 %","R$ 22,1 M","R$ 402,02","0,01 %","0,50",Investidores em Geral,Fundo de Desenvolvimento,Determinado,Híbrido,55.000,88,Ativa
-298,JRDM11,"R$ 85,90","610,7 K","0,40","5,16 %","R$ 224,1 M","R$ 88,84","3,66 %","0,97",Investidores em Geral,Shoppings,Indeterminado,Shoppings,2.522.968,4.001,Passiva
-299,JRDM11B,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-300,JSAF11,"R$ 103,31","937,4 K","1,00","11,20 %","R$ 153,0 M","R$ 97,25","1,14 %","1,05",Fundo de Fundos,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,1.573.047,13.252,Ativa,Indeterminado
-301,JSRE11,"R$ 73,68","2,5 M","0,46","7,50 %","R$ 2,3 B","R$ 112,33","-0,38 %","0,66",Investidores em Geral,Misto,Indeterminado,Híbrido,20.767.328,104.094,Ativa
-302,JTPR11,"R$ 2.517,00",N/A,"1,63",N/A %,"R$ 16,1 M","R$ 74,88",N/A %,"33,61",Investidor Qualificado,Fundo de Desenvolvimento,Indeterminado,Residencial,214.674,8,Ativa
-303,JURO11,"R$ 109,90","2,2 M",N/A,N/A %,R$ N/A,R$ N/A,"-0,13 %",N/A,0,0,0,0,0,0,0
-304,KCRE11,"R$ 97,15","652,1 K","0,81","11,92 %","R$ 367,2 M","R$ 102,01","-0,77 %","0,96",Indefinido,Títulos e Valores Mobiliários,Renda,3.600.000,10.101,Ativa,Indeterminado
-305,KDIF11,"R$ 140,94","2,3 M",N/A,N/A %,R$ N/A,R$ N/A,"0,89 %",N/A,0,0,0,0,0,0,0
-306,KEVE11,"R$ 1.128,00","175,8 K","1,35","0,46 %","R$ 137,2 M","R$ 929,14","-0,18 %","1,22",Fundo de Desenvolvimento,Residencial,Desenvolvimento para Venda,147.700,485,Passiva,Determinado
-307,KFOF11,"R$ 99,50","835,5 K","1,03","9,66 %","R$ 433,7 M","R$ 95,67","0,20 %","1,04",Fundo de Fundos,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,4.533.315,19.232,Ativa,Indeterminado
-308,KINP11,"R$ 9,82","38,4 K","3,05","65,42 %","R$ 26,4 M","R$ 3,69","-4,20 %","2,66",Investidor Qualificado,Fundo de Desenvolvimento,Determinado,Residencial,7.147.934,1.932,Ativa
-309,KISU11,"R$ 8,47","886,8 K","0,08","10,31 %","R$ 388,0 M","R$ 8,78","-1,28 %","0,98",Fundo de Fundos,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,44.196.050,131.430,Ativa,Indeterminado
-310,KIVO11,"R$ 89,74","392,3 K","1,25","17,26 %","R$ 111,6 M","R$ 91,84","-0,37 %","0,98",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,1.215.124,4.095,Ativa,Indeterminado
-311,KLOG11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-312,KNCA11,"R$ 105,16","3,0 M","1,05","13,51 %","R$ 2,2 B","R$ 103,07","0,24 %","1,02",Indefinido,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,21.599.919,57.721,Ativa,Indeterminado
-313,KNCR11,"R$ 103,00","9,3 M","1,01","12,95 %","R$ 5,8 B","R$ 100,80","-0,39 %","1,03",Investidores em Geral,Papéis,Indeterminado,Títulos e Valores Mobiliários,57.097.087,304.408,Ativa
-314,KNHF11,"R$ 103,81","1,2 M","1,00","4,72 %","R$ 989,5 M","R$ 101,20","-0,76 %","1,03",Indefinido,Híbrido,Renda,9.777.905,12.830,Ativa,Indeterminado
-315,KNHY11,"R$ 103,92","3,0 M","1,05","12,57 %","R$ 1,9 B","R$ 102,46","0,89 %","1,01",Investidor Qualificado,Papéis,Indeterminado,Títulos e Valores Mobiliários,18.490.843,15.846,Ativa
-316,KNIP11,"R$ 96,26","13,0 M","0,75","10,08 %","R$ 7,8 B","R$ 97,90","1,81 %","0,97",Investidor Qualificado,Papéis,Indeterminado,Títulos e Valores Mobiliários,80.078.186,74.995,Ativa
-317,KNOX11,"R$ 103,00","362,2 K",N/A,N/A %,R$ N/A,R$ N/A,"2,29 %",N/A,0,0,0,0,0,0,0
-318,KNPR11,"R$ 0,00",N/A,"4,65",N/A %,"R$ 59,6 M","R$ 102,77",N/A %,N/A,Indefinido,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,579.911,593,Ativa,Determinado
-319,KNRE11,"R$ 0,41","8,8 K","0,04","9,21 %","R$ 14,1 M","R$ 0,76","2,50 %","0,53",Investidor Qualificado,Fundo de Desenvolvimento,Determinado,Residencial,18.547.161,6.824,Ativa
-320,KNRI11,"R$ 165,46","3,7 M","1,00","7,34 %","R$ 3,9 B","R$ 159,71","0,19 %","1,03",Investidores em Geral,Misto,Indeterminado,Híbrido,24.157.121,262.554,Ativa
-321,KNSC11,"R$ 9,03","3,3 M","0,07","11,23 %","R$ 1,2 B","R$ 9,06","-0,66 %","1,00",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,132.757.940,122.671,Ativa,Indeterminado
-322,KNUQ11,"R$ 103,50","475,9 K","1,14","6,31 %","R$ 745,1 M","R$ 100,92","0,40 %","1,02",Indefinido,Títulos e Valores Mobiliários,Renda,7.382.303,7.676,Ativa,Indeterminado
-323,KOPA11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-324,LASC11,"R$ 105,90","881,4 K","0,67","7,31 %","R$ 300,1 M","R$ 102,08","0,38 %","1,03",Shoppings,Shoppings,Renda,2.940.298,378,Passiva,Indeterminado
-325,LATR11B,"R$ 9,51",100,"10,00","202,33 %","R$ 1,2 M","R$ 10,03","0,11 %","0,95",Investidor Qualificado,Fundo de Desenvolvimento,Determinado,Residencial,124.104,132,Ativa
-326,LAVF11,"R$ 0,00",N/A,"1,30",N/A %,"R$ 116,2 K","R$ 2,61",N/A %,N/A,Indefinido,Híbrido,Renda,44.600,7,Ativa,Indeterminado
-327,LFTT11,"R$ 30,01","25,7 K","3,67","6,40 %","R$ 141,5 M","R$ 19,11","-9,06 %","1,73",Papéis,Residencial,Híbrido,7.404.543,505,Ativa,Indeterminado
-328,LGCP11,"R$ 89,24","634,9 K","0,72","8,64 %","R$ 361,3 M","R$ 102,37","-0,50 %","0,88",Imóveis Industriais e Logísticos,Logística,Renda,3.529.735,16.732,Ativa,Indeterminado
-329,LIFE11,"R$ 10,00","259,5 K","0,13","15,73 %","R$ 226,3 M","R$ 10,16","-1,19 %","1,00",Imóveis Comerciais - Outros,Outros,Híbrido,22.276.744,5.568,Ativa,Indeterminado
-330,LKDV11,"R$ 997,23","573,4 K",N/A,N/A %,"R$ 66,7 M","R$ 997,86",N/A %,"1,00",Papéis,Híbrido,Híbrido,66.811,69,Ativa,Indeterminado
-331,LLAO11,"R$ 77,37","551,3 K","1,70","3,12 %","R$ 27,9 M","R$ 77,33",N/A %,"1,00",Misto,Híbrido,Desenvolvimento para Venda,361.140,77,Ativa,Indeterminado
-332,LOFT11B,"R$ 29,90",N/A,"0,20",N/A %,"R$ 20,1 M","R$ 10,24",N/A %,"2,92",Fundo de Desenvolvimento,Residencial,Híbrido,1.962.500,1,Ativa,Indeterminado
-333,LPLP11,"R$ 0,00",N/A,"7,07",N/A %,"R$ 150,2 M","R$ 413,05",N/A %,N/A,Indefinido,Residencial,Desenvolvimento para Venda,363.698,5,Ativa,Indeterminado
-334,LRDI11,"R$ 0,00",N/A,N/A,N/A %,"R$ 34,6 M","R$ 97,79",N/A %,N/A,Indefinido,Híbrido,Híbrido,353.879,15,Ativa,Determinado
-335,LSAG11,"R$ 100,00","97,4 K",N/A,N/A %,R$ N/A,R$ N/A,"1,53 %",N/A,0,0,0,0,0,0,0
-336,LSPA11,"R$ 107,00","21,4 K","4,43","12,84 %","R$ 46,7 M","R$ 115,47",N/A %,"0,93",Papéis,Outros,Renda,404.500,224,Ativa,Indeterminado
-337,LTMT11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-338,LUGG11,"R$ 82,90","56,6 K","0,50","8,26 %","R$ 139,7 M","R$ 123,54","0,40 %","0,67",Fundo de Desenvolvimento,Residencial,Renda,1.130.706,6.177,Ativa,Indeterminado
-339,LVBI11,"R$ 119,15","5,5 M","0,90","8,14 %","R$ 1,7 B","R$ 117,26","1,44 %","1,00",Imóveis Industriais e Logísticos,Logística,Renda,14.243.672,91.937,Ativa,Indeterminado
-340,MANA11,"R$ 9,39","239,0 K","0,11","13,97 %","R$ 207,2 M","R$ 9,69","0,11 %","0,97",Indefinido,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,21.389.376,5.010,Ativa,Indeterminado
-341,MATV11,"R$ 86,63","13,0 K","0,60","3,00 %","R$ 39,9 M","R$ 93,73","4,00 %","0,92",Indefinido,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,425.968,325,Ativa,Indeterminado
-342,MAVC11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,1.500.000,0,0,0,0,0,0
-343,MAXR11,"R$ 74,30","377,2 K","0,77","10,68 %","R$ 140,3 M","R$ 124,64","-2,54 %","0,61",Investidores em Geral,Varejo,Indeterminado,Híbrido,1.125.655,4.470,Ativa
-344,MAXR11B,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-345,MBRF11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-346,MCCI11,"R$ 95,49","3,5 M","0,90","11,92 %","R$ 1,6 B","R$ 95,65","0,29 %","1,00",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,16.960.024,116.461,Ativa,Indeterminado
-347,MCFF11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-348,MCHF11,"R$ 9,12","1,3 M","0,08","12,53 %","R$ 310,6 M","R$ 9,60","1,11 %","0,94",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,32.354.247,84.727,Ativa,Indeterminado
-349,MCHY11,"R$ 11,25","28,3 K","1,30","14,60 %","R$ 359,5 M","R$ 100,13","-89,92 %","1,11",Papéis,Títulos e Valores Mobiliários,0,3.589.771,1.080,Indeterminado,0
-350,MFAI11,"R$ 62,09","26,9 K","0,55","9,55 %","R$ 27,1 M","R$ 69,73","0,18 %","0,89",Fundo de Fundos,Híbrido,Híbrido,389.185,2.861,Ativa,Indeterminado
-351,MFCR11,"R$ 103,49","6,9 K","1,11","14,18 %","R$ 10,4 M","R$ 103,11","-0,22 %","1,00",Indefinido,Híbrido,Híbrido,101.230,169,Ativa,Indeterminado
-352,MFII11,"R$ 94,46","551,9 K","1,08","13,90 %","R$ 502,7 M","R$ 113,56","0,49 %","0,83",Investidores em Geral,Fundo de Desenvolvimento,Indeterminado,Híbrido,4.426.834,30.265,Ativa
-353,MFVI11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-354,MGCR11,"R$ 9,40","259,1 K","0,10","8,39 %","R$ 131,2 M","R$ 9,78","-89,25 %","0,96",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,13.416.505,4.360,Ativa,Indeterminado
-355,MGFF11,"R$ 69,99","2,6 M","0,52","8,95 %","R$ 669,8 M","R$ 74,01","2,44 %","0,95",Investidores em Geral,Fundo de Fundos,Indeterminado,Títulos e Valores Mobiliários,9.050.620,44.511,Ativa
-356,MGHT11,"R$ 47,97","108,4 K","0,52","17,30 %","R$ 113,2 M","R$ 86,16","1,18 %","0,55",Hotéis,Híbrido,0,1.313.784,4.579,Indeterminado,0
-357,MGLC11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-358,MGLG11,"R$ 40,99","55,3 K","0,35","10,40 %","R$ 116,1 M","R$ 61,48","4,04 %","0,55",Imóveis Industriais e Logísticos,Híbrido,Renda,1.888.174,3.712,Ativa,Indeterminado
-359,MGRI11,"R$ 0,00",N/A,"1,44",N/A %,"R$ 23,4 M","R$ 106,19",N/A %,N/A,Indefinido,Títulos e Valores Mobiliários,Renda,220.000,1,Ativa,Indeterminado
-360,MINT11,"R$ 99,87","23,7 K","1,30","1,30 %","R$ 69,6 M","R$ 133,89","9,67 %","0,75",Educacional,Outros,Híbrido,520.000,82,Ativa,Indeterminado
-361,MMPD11,"R$ 0,00",N/A,"3,62",N/A %,"R$ 60,7 M","R$ 114,48",N/A %,N/A,Indefinido,Outros,Desenvolvimento para Venda,530.000,55,Ativa,Determinado
-362,MMVE11,"R$ 161,87","3,4 K",N/A,N/A %,"R$ 72,7 M","R$ 156,45","-0,01 %","1,03",Indefinido,Híbrido,Renda,465.000,18,Ativa,Indeterminado
-363,MOFF11,"R$ 0,00",N/A,N/A,N/A %,"R$ 201,4 M","R$ 949,95",N/A %,N/A,Lajes Corporativas,Híbrido,Títulos e Valores Mobiliários,212.010,3,Ativa,Indeterminado
-364,MORC11,"R$ 88,61","1,2 M","0,94","14,75 %","R$ 189,2 M","R$ 99,15","0,14 %","0,89",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,1.907.808,8.409,Ativa,Indeterminado
-365,MORE11,"R$ 76,00","604,3 K","0,70","8,97 %","R$ 201,5 M","R$ 86,87","0,81 %","0,87",Fundo de Fundos,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,2.319.115,18.354,Ativa,Indeterminado
-366,MTOF11,"R$ 0,00",N/A,N/A,N/A %,"R$ 130,2 M","R$ 67,40",N/A %,N/A,Lajes Corporativas,Híbrido,Títulos e Valores Mobiliários,1.932.221,9,Ativa,Indeterminado
-367,MTRS11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-368,MVFI11,"R$ 0,00",N/A,N/A,N/A %,"R$ 123,1 M","R$ 1,57",N/A %,N/A,Misto,Híbrido,Híbrido,78.155.673,1,Ativa,Indeterminado
-369,MXRF11,"R$ 10,58","13,1 M","0,11","13,13 %","R$ 2,6 B","R$ 9,86","0,67 %","1,07",Investidores em Geral,Papéis,Ativa,Híbrido,259.279.007,999.290,"100,00"
-370,MYDW11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-371,NAVT11,"R$ 92,92","317,1 K","1,60","12,93 %","R$ 58,2 M","R$ 95,05","1,00 %","0,97",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,612.282,1.816,Ativa,Indeterminado
-372,NCHB11,"R$ 84,07","604,7 K","0,85","13,91 %","R$ 154,0 M","R$ 90,69","0,14 %","0,93",Investidores em Geral,Papéis,Indeterminado,Títulos e Valores Mobiliários,1.697.932,10.952,Ativa
-373,NCHB11B,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-374,NCRA11,"R$ 10,61","314,6 K","0,11","16,96 %","R$ 47,1 M","R$ 10,56","-0,38 %","1,01",Indefinido,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,4.459.952,9.617,Ativa,Indeterminado
-375,NCRI11,"R$ 9,01","3,3 K","0,10","12,56 %","R$ 40,5 M","R$ 10,25","-0,77 %","0,89",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,3.949.999,656,Ativa,Indeterminado
-376,NEWL11,"R$ 114,90","1,2 M","1,30","10,64 %","R$ 278,8 M","R$ 137,14","1,24 %","0,83",Imóveis Industriais e Logísticos,Híbrido,Híbrido,2.033.099,3.876,Ativa,Indeterminado
-377,NEWU11,"R$ 79,00","249,1 K","0,60","2,99 %","R$ 52,0 M","R$ 70,03","-5,94 %","1,13",Investidores em Geral,Lajes Corporativas,Indeterminado,Híbrido,742.000,1.421,Ativa
-378,NEXG11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-379,NSLU11,"R$ 192,98","677,8 K","1,55","9,61 %","R$ 260,5 M","R$ 201,40","0,01 %","0,96",Investidores em Geral,Hospitalar,Indeterminado,Hospital,1.293.286,6.112,Passiva
-380,NSLU11B,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-381,NUIF11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-382,NVHO11,"R$ 11,75","1,3 K","0,08","8,39 %","R$ 581,8 M","R$ 14,02","-1,67 %","0,85",Investidor Qualificado,Hospitalar,Indeterminado,Hospital,41.494.533,2.179,Ativa
-383,NVIF11B,"R$ 227,50",N/A,"0,89","3,52 %","R$ 128,9 M","R$ 382,17",N/A %,"0,60",Investidor Qualificado,Fundo de Desenvolvimento,Indeterminado,Híbrido,337.399,7,Ativa
-384,NVRP11,"R$ 320,00",320,N/A,N/A %,R$ N/A,R$ N/A,"-51,09 %",N/A,0,0,0,0,0,0,0
-385,OBAL11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-386,OCRE11,"R$ 102,51","33,4 K","0,77","2,63 %","R$ 28,9 M","R$ 100,89","-0,48 %","1,02",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,286.006,444,Ativa,Indeterminado
-387,OGHY11,"R$ 9,02","62,6 K","0,09","13,18 %","R$ 25,5 M","R$ 9,38","0,78 %","0,95",Indefinido,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,2.715.373,1.409,Ativa,Indeterminado
-388,OGIN11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-389,OIAG11,"R$ 8,95","393,3 K","0,11","17,51 %","R$ 88,0 M","R$ 9,74","-1,10 %","0,93",Indefinido,Híbrido,Renda,9.032.999,12.042,Ativa,Indeterminado
-390,ONEF11,"R$ 200,03","114,4 K","32,50","22,25 %","R$ 215,6 M","R$ 236,65","-0,48 %","0,85",Investidores em Geral,Lajes Corporativas,Indeterminado,Lajes Corporativas,911.000,2.637,Passiva
-391,OPEQ11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-392,OPHF11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-393,OPTM11,"R$ 0,00",N/A,"1,33",N/A %,"R$ 11,1 M","R$ 151,20",N/A %,N/A,Misto,Híbrido,Desenvolvimento para Renda,73.304,63,Ativa,Indeterminado
-394,ORPD11,"R$ 93,00",403,"1,38",N/A %,"R$ 42,3 M","R$ 145,76","-3,13 %","0,64",Investidores em Geral,Fundo de Desenvolvimento,Indeterminado,Títulos e Valores Mobiliários,290.000,6,Ativa
-395,OUCY11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-396,OUFF11,"R$ 72,70","228,7 K","0,70","12,00 %","R$ 133,6 M","R$ 73,63","2,42 %","0,96",Fundo de Fundos,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,1.814.336,7.679,Ativa,Indeterminado
-397,OUJP11,"R$ 97,47","564,2 K","0,90","14,13 %","R$ 318,9 M","R$ 98,04","0,54 %","0,99",Investidores em Geral,Papéis,Indeterminado,Híbrido,3.252.384,29.388,Ativa
-398,OULG11,"R$ 32,50","268,0 K","0,30","14,98 %","R$ 167,5 M","R$ 67,50","0,18 %","0,48",Imóveis Industriais e Logísticos,Logística,Renda,2.481.283,5.217,Ativa,Indeterminado
-399,OULG11B,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-400,OURE11,"R$ 75,34","104,7 K","0,80","14,66 %","R$ 98,6 M","R$ 91,54","0,86 %","0,82",Investidores em Geral,Misto,Indeterminado,Híbrido,1.077.087,6.272,Ativa
-401,PABY11,"R$ 17,07",820,N/A,N/A %,R$ -16.094.641,"R$ -21,22","-1,22 %",N/A,Investidores em Geral,Fundo de Desenvolvimento,Indeterminado,Híbrido,758.400,667,Passiva
-402,PATB11,"R$ 0,00",N/A,"5,90",N/A %,"R$ 680,2 M","R$ 172,31",N/A %,N/A,Lajes Corporativas,Híbrido,Renda,3.947.420,55,Ativa,Indeterminado
-403,PATC11,"R$ 38,80","568,3 K","1,70","19,61 %","R$ 147,2 M","R$ 42,34","-0,26 %","0,92",Fundo de Desenvolvimento,Lajes Corporativas,Desenvolvimento para Renda,3.477.434,7.038,Ativa,Indeterminado
-404,PATL11,"R$ 68,03","953,2 K","0,60","10,49 %","R$ 490,9 M","R$ 98,34","0,19 %","0,69",Imóveis Industriais e Logísticos,Logística,Desenvolvimento para Renda,4.991.535,24.292,Ativa,Indeterminado
-405,PBLV11,"R$ 926,98",N/A,"39,65","8,50 %","R$ 5,9 B","R$ 1.539,15",N/A %,"0,60",Imóveis Industriais e Logísticos,Logística,Híbrido,3.845.405,2,Ativa,Indeterminado
-406,PCAS11,"R$ 0,00",N/A,"1.000,00",N/A %,"R$ 445,7 M","R$ 6.366,73",N/A %,N/A,Indefinido,Outros,Desenvolvimento para Venda,70.000,50,Passiva,Indeterminado
-407,PDDA11B,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-408,PEMA11,"R$ 47,00","1,2 K","0,42","16,47 %","R$ 39,0 M","R$ 70,74","2,09 %","0,66",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,552.000,382,Ativa,Indeterminado
-409,PFIN11,"R$ 71,60","985,9 K",N/A,N/A %,R$ N/A,R$ N/A,"0,94 %",N/A,0,0,0,0,0,0,0
-410,PICE11,"R$ 72,18","291,5 K",N/A,N/A %,R$ N/A,R$ N/A,"0,49 %",N/A,0,0,0,0,0,0,0
-411,PLCA11,"R$ 82,01","132,8 K","1,03","15,93 %","R$ 52,8 M","R$ 94,76","-1,31 %","0,88",Indefinido,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,557.019,2.064,Ativa,Indeterminado
-412,PLCR11,"R$ 88,99","330,7 K","0,80","12,91 %","R$ 193,8 M","R$ 91,86","0,37 %","0,97",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,2.109.169,17.090,Ativa,Indeterminado
-413,PLOG11,"R$ 66,71","70,2 K","0,70","13,32 %","R$ 79,6 M","R$ 106,20","-4,70 %","0,63",Imóveis Industriais e Logísticos,Logística,Renda,750.000,3.284,Ativa,Indeterminado
-414,PLRI11,"R$ 15,50",868,"0,07","7,08 %","R$ 27,3 M","R$ 28,60","-3,06 %","0,54",Investidor Qualificado,Papéis,Indeterminado,Títulos e Valores Mobiliários,954.304,704,Ativa
-415,PMFO11,"R$ 0,00",N/A,"0,88",N/A %,"R$ 47,9 M","R$ 96,05",N/A %,N/A,Misto,Híbrido,Desenvolvimento para Venda,498.739,92,Ativa,Determinado
-416,PMIS11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-417,PNCR11,"R$ 87,17","174,3 K","1,03","5,37 %","R$ 43,6 M","R$ 87,12",N/A %,"1,00",Imóveis Residenciais,Residencial,Híbrido,500.000,110,Ativa,Indeterminado
-418,PNDL11,"R$ 1.300,00","1,4 M","3,00","0,69 %","R$ 124,4 M","R$ 1.047,99","0,23 %","1,24",Fundo de Desenvolvimento,Títulos e Valores Mobiliários,Híbrido,118.696,59,Ativa,Determinado
-419,PNLM11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-420,PNLN11,"R$ 0,00",N/A,N/A,N/A %,"R$ 1,4 M","R$ 62,84",N/A %,N/A,Indefinido,Híbrido,Híbrido,22.130,51,Ativa,Indeterminado
-421,PNPR11,"R$ 106,00","1,2 M",N/A,N/A %,"R$ 92,5 M","R$ 105,65","0,01 %","1,00",Fundo de Desenvolvimento,Híbrido,Híbrido,875.249,27,Ativa,Indeterminado
-422,PNRC11,"R$ 102,49","153,7 K","1,19","11,17 %","R$ 41,7 M","R$ 101,77",N/A %,"1,01",Indefinido,Híbrido,Híbrido,410.100,60,Ativa,Indeterminado
-423,PORD11,"R$ 91,75","785,4 K","1,01","13,74 %","R$ 364,8 M","R$ 97,84","2,06 %","0,92",Investidores em Geral,Papéis,Indeterminado,Títulos e Valores Mobiliários,3.728.375,26.808,Ativa
-424,PPEI11,"R$ 93,57","384,4 K",N/A,N/A %,R$ N/A,R$ N/A,"4,61 %",N/A,0,0,0,0,0,0,0
-425,PQAG11,"R$ 58,51","7,5 K","0,45","9,08 %","R$ 799,2 M","R$ 57,12","0,02 %","1,02",Imóveis Industriais e Logísticos,Logística,Desenvolvimento para Renda,13.991.890,477,Ativa,Indeterminado
-426,PQDP11,"R$ 1.955,00","136,4 K","18,47","10,71 %","R$ 772,6 M","R$ 3.147,05","1,45 %","0,61",Investidores em Geral,Shoppings,Indeterminado,Shoppings,245.513,4.005,Passiva
-427,PRSN11B,"R$ 1,48",942,"0,17","11,60 %","R$ 12,4 M","R$ 3,85","13,85 %","0,38",Investidor Qualificado,Fundo de Desenvolvimento,Determinado,Residencial,3.231.246,826,Ativa
-428,PRSV11,"R$ 61,98","3,9 K","1,62",N/A %,"R$ 40,1 M","R$ 205,75","0,39 %","0,30",Investidores em Geral,Lajes Corporativas,Indeterminado,Lajes Corporativas,195.000,954,Passiva
-429,PRTS11,"R$ 117,70",N/A,"0,05","0,05 %","R$ 3,1 M","R$ 0,06",N/A %,"1.961,67",Investidor Qualificado,Shoppings,Determinado,Híbrido,55.727.500,11,Ativa
-430,PRZS11,"R$ 0,00",N/A,N/A,N/A %,"R$ 103,2 M","R$ 142,86",N/A %,N/A,Papéis,Híbrido,Híbrido,722.482,21,Ativa,Indeterminado
-431,PURB11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-432,PVBI11,"R$ 103,70","5,0 M","0,70","7,61 %","R$ 1,3 B","R$ 100,19","0,54 %","1,03",Lajes Corporativas,Lajes Corporativas,Renda,13.006.804,134.437,Ativa,Indeterminado
-433,QAGR11,"R$ 50,09","766,0 K","0,43","11,00 %","R$ 295,7 M","R$ 58,66","-1,61 %","0,87",Indefinido,Outros,Renda,5.040.000,21.977,Ativa,Indeterminado
-434,QAMI11,"R$ 84,68","202,9 K","1,00","9,62 %","R$ 74,4 M","R$ 92,80","10,17 %","0,91",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,801.398,1.440,Ativa,Indeterminado
-435,QIFF11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-436,QIRI11,"R$ 78,04","6,9 K","0,66","0,85 %","R$ 13,4 M","R$ 89,61","3,98 %","0,87",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,150.000,173,Ativa,Indeterminado
-437,QMFF11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-438,RBBV11,"R$ 100,00",N/A,"0,22",N/A %,"R$ 126,5 M","R$ 100,84",N/A %,"0,99",Investidores em Geral,Fundo de Desenvolvimento,Determinado,Títulos e Valores Mobiliários,1.254.164,3.475,Passiva
-439,RBCB11,"R$ 19,00",N/A,"0,30",N/A %,R$ N/A,R$ N/A,N/A %,N/A,Investidor Qualificado,Papéis,Determinado,Outros,53.100,462,Ativa
-440,RBCO11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-441,RBDS11,"R$ 2,49",558,"2,35",N/A %,"R$ 2,7 M","R$ 21,73","2,44 %","0,11",Investidor Qualificado,Fundo de Desenvolvimento,Determinado,Residencial,126.523,980,Ativa
-442,RBED11,"R$ 144,91","174,6 K","1,45","11,27 %","R$ 337,8 M","R$ 143,44","0,80 %","1,00",Investidores em Geral,Educacional,Indeterminado,Outros,2.355.022,13.154,Ativa
-443,RBFF11,"R$ 60,49","555,0 K","0,52","10,03 %","R$ 253,4 M","R$ 67,60","0,32 %","0,89",Investidores em Geral,Fundo de Fundos,Indeterminado,Títulos e Valores Mobiliários,3.749.215,20.420,Ativa
-444,RBGS11,"R$ 28,45",N/A,"0,18",N/A %,"R$ 97,9 M","R$ 90,78",N/A %,"0,31",Investidores em Geral,Shoppings,Indeterminado,Shoppings,1.078.000,2.808,Passiva
-445,RBHG11,"R$ 91,10","315,4 K","1,10","15,09 %","R$ 157,3 M","R$ 91,08","0,33 %","1,00",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,1.727.582,9.775,Ativa,Indeterminado
-446,RBHY11,"R$ 92,89","181,6 K","1,10","15,13 %","R$ 176,5 M","R$ 93,24","0,40 %","0,99",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,1.893.505,3.566,Ativa,Indeterminado
-447,RBIF11,"R$ 95,44","27,7 K",N/A,N/A %,R$ N/A,R$ N/A,"0,33 %",N/A,0,0,0,0,0,0,0
-448,RBIR11,"R$ 91,49","70,4 K","0,26","4,52 %","R$ 150,8 M","R$ 98,62","1,68 %","0,91",Fundo de Desenvolvimento,Residencial,Desenvolvimento para Venda,1.528.615,1.604,Ativa,Determinado
-449,RBIV11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-450,RBLG11,"R$ 101,60","14,3 K","0,95","10,71 %","R$ 67,0 M","R$ 104,73","-0,91 %","0,98",Imóveis Industriais e Logísticos,Logística,Renda,640.199,218,Ativa,Indeterminado
-451,RBOP11,"R$ 329,89","43,7 K","4,50","21,15 %","R$ 85,0 M","R$ 836,09","5,72 %","0,37",Investidores em Geral,Lajes Corporativas,Indeterminado,Outros,101.664,3.571,Ativa
-452,RBRD11,"R$ 40,68","34,7 K","0,34","10,67 %","R$ 122,1 M","R$ 65,91","0,94 %","0,61",Investidores em Geral,Varejo,Indeterminado,Híbrido,1.851.786,8.893,Passiva
-453,RBRF11,"R$ 81,10","2,8 M","0,55","8,92 %","R$ 1,2 B","R$ 86,86","-0,11 %","0,93",Investidores em Geral,Fundo de Fundos,Indeterminado,Títulos e Valores Mobiliários,13.680.770,107.170,Ativa
-454,RBRI11,"R$ 1.100,00","15,8 K","35,62",N/A %,"R$ 162,6 M","R$ 1.191,88",N/A %,"0,77",Fundo de Desenvolvimento,Híbrido,Títulos e Valores Mobiliários,136.462,87,Ativa,Indeterminado
-455,RBRL11,"R$ 89,97","1,0 M","0,72","8,96 %","R$ 704,7 M","R$ 105,39","1,60 %","0,84",Imóveis Industriais e Logísticos,Logística,Híbrido,6.687.035,13.564,Ativa,Indeterminado
-456,RBRM11,"R$ 94.794,81",N/A,"2.002,09","8,06 %","R$ 14,2 M","R$ 26.379,11",N/A %,"3,59",Fundo de Desenvolvimento,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,539,54,Ativa,Indeterminado
-457,RBRP11,"R$ 54,98","1,5 M","0,28","5,86 %","R$ 1,0 B","R$ 82,17","-0,02 %","0,67",Investidores em Geral,Lajes Corporativas,Indeterminado,Outros,12.179.186,87.577,Ativa
-458,RBRR11,"R$ 90,61","3,1 M","0,65","11,00 %","R$ 1,4 B","R$ 95,26","0,67 %","0,94",Investidores em Geral,Papéis,Indeterminado,Títulos e Valores Mobiliários,15.057.201,137.838,Ativa
-459,RBRS11,"R$ 54,60","94,5 K","0,75","8,02 %","R$ 165,2 M","R$ 95,25","2,91 %","0,57",Fundo de Desenvolvimento,Híbrido,Renda,1.734.299,1.222,Ativa,Indeterminado
-460,RBRX11,"R$ 9,50","418,3 K","0,10","14,30 %","R$ 182,7 M","R$ 97,11","0,42 %","0,10",Indefinido,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,1.881.019,7.498,Ativa,Indeterminado
-461,RBRY11,"R$ 100,00","2,4 M","1,00","14,05 %","R$ 988,3 M","R$ 98,39","0,20 %","1,02",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,10.044.607,49.753,Ativa,Indeterminado
-462,RBTS11,"R$ 720,00","190,8 K","23,00","34,95 %","R$ 36,2 M","R$ 640,15","-4,00 %","1,12",Fundo de Desenvolvimento,Outros,Híbrido,56.525,62,Ativa,Determinado
-463,RBVA11,"R$ 113,00","1,6 M","1,00","10,40 %","R$ 1,2 B","R$ 107,52","-0,03 %","1,05",Investidores em Geral,Varejo,Indeterminado,Outros,11.588.199,47.973,Ativa
-464,RBVO11,"R$ 8,59","1,5 K","0,04","2,78 %","R$ 8,7 M","R$ 16,93","1,66 %","0,50",Investidores em Geral,Papéis,0,515.824,2.496,Determinado,0
-465,RCFA11,"R$ 1,35","1,9 K",N/A,N/A %,"R$ 11,7 M","R$ 20,07","3,05 %","0,07",Fundo de Desenvolvimento,Híbrido,Desenvolvimento para Venda,583.926,278,Passiva,Indeterminado
-466,RCFF11,"R$ 98,99","40,8 K","1,23","1,24 %","R$ 32,9 M","R$ 101,90","34,68 %","0,97",Fundo de Fundos,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,323.200,83,Ativa,Determinado
-467,RCKF11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,1.500.000,0,0,0,0,0,0
-468,RCRB11,"R$ 161,65","2,0 M","0,80","5,68 %","R$ 771,8 M","R$ 209,12","1,29 %","0,76",Investidores em Geral,Lajes Corporativas,Indeterminado,Lajes Corporativas,3.690.695,31.448,Ativa
-469,RDES11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-470,RDPD11,"R$ 22,96","98,3 K","0,30","21,33 %","R$ 24,1 M","R$ 22,34","0,53 %","1,06",Investidores em Geral,Papéis,Indeterminado,Títulos e Valores Mobiliários,1.078.042,3.141,Ativa
-471,RECH11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-472,RECT11,"R$ 48,00","422,3 K","0,40","11,51 %","R$ 791,1 M","R$ 92,59","1,16 %","0,51",Lajes Corporativas,Híbrido,Híbrido,8.543.493,69.255,Ativa,Indeterminado
-473,RECX11,"R$ 67,74","5,4 K","0,59","10,38 %","R$ 16,0 M","R$ 73,36","-0,01 %","0,92",Fundo de Fundos,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,218.313,657,Ativa,Indeterminado
-474,REIT11,"R$ 176,42",463,"2,51","4,49 %","R$ 7,5 M","R$ 285,51","17,61 %","0,62",Investidor Qualificado,Papéis,Indeterminado,Títulos e Valores Mobiliários,26.291,69,Ativa
-475,REIT11B,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-476,RELG11,"R$ 48,01","145,8 K","0,70","4,57 %","R$ 166,5 M","R$ 124,78","-0,27 %","0,39",Imóveis Industriais e Logísticos,Híbrido,Híbrido,1.334.562,6.180,Ativa,Indeterminado
-477,REON11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-478,RFOF11,"R$ 76,51","66,4 K","0,73","11,08 %","R$ 86,3 M","R$ 80,04","-1,62 %","0,97",Fundo de Fundos,Títulos e Valores Mobiliários,Renda,1.078.164,4.821,Ativa,Indeterminado
-479,RINV11,"R$ 111,38","359,1 K","1,55","13,22 %","R$ 90,4 M","R$ 106,95","-0,17 %","1,04",Indefinido,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,845.435,895,Ativa,Indeterminado
-480,RMAI11,"R$ 70,20","406,4 K","0,32","4,64 %","R$ 242,6 M","R$ 99,29","-0,14 %","0,71",Lajes Corporativas,Híbrido,Renda,2.443.800,1.185,Ativa,Indeterminado
-481,RNDP11,"R$ 106,87","24,8 K","1,15","12,69 %","R$ 18,7 M","R$ 173,64","-2,85 %","0,63",Investidores em Geral,Papéis,Indeterminado,Títulos e Valores Mobiliários,107.481,1.142,Ativa
-482,RNGO11,"R$ 47,20","89,4 K","0,40","10,31 %","R$ 232,3 M","R$ 86,83","1,40 %","0,54",Investidores em Geral,Lajes Corporativas,Indeterminado,Lajes Corporativas,2.676.000,10.609,Passiva
-483,ROOF11,"R$ 720,00","115,9 K","41,72","6,69 %","R$ 44,7 M","R$ 576,27","2,00 %","1,25",Fundo de Desenvolvimento,Outros,Desenvolvimento para Venda,77.495,85,Ativa,Determinado
-484,RPRI11,"R$ 103,41","573,7 K","0,95","12,46 %","R$ 227,1 M","R$ 101,30","-0,14 %","1,02",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,2.241.755,2.729,Ativa,Indeterminado
-485,RRCI11,"R$ 82,46","35,8 K","0,90","14,05 %","R$ 44,2 M","R$ 91,76","0,13 %","0,90",Papéis,Títulos e Valores Mobiliários,Renda,481.757,2.141,Ativa,Indeterminado
-486,RSPD11,"R$ 1.100,00","1,4 M","3,36","8,00 %","R$ 157,3 M","R$ 1.055,54","4,17 %","1,04",Fundo de Desenvolvimento,Residencial,Desenvolvimento para Venda,149.011,109,Ativa,Determinado
-487,RURA11,"R$ 10,82","2,1 M",N/A,N/A %,R$ N/A,R$ N/A,"-0,18 %",N/A,0,0,0,0,0,0,0
-488,RVBI11,"R$ 83,70","203,7 K","0,65","10,63 %","R$ 121,7 M","R$ 84,54","-0,06 %","0,99",Fundo de Fundos,Títulos e Valores Mobiliários,Renda,1.440.000,12.318,Ativa,Indeterminado
-489,RZAG11,"R$ 9,22","2,2 M","0,12","16,02 %","R$ 663,5 M","R$ 9,75","-0,33 %","0,95",Indefinido,Títulos e Valores Mobiliários,Híbrido,68.040.425,83.664,Ativa,Indeterminado
-490,RZAK11,"R$ 90,00","2,6 M","1,20","16,49 %","R$ 813,3 M","R$ 92,34","1,12 %","0,96",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,8.807.885,51.062,Ativa,Indeterminado
-491,RZAT11,"R$ 94,49","1,0 M","1,20","12,55 %","R$ 377,0 M","R$ 101,66","0,57 %","0,92",Imóveis Industriais e Logísticos,Híbrido,Híbrido,3.708.168,36.873,Ativa,Indeterminado
-492,RZDS11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-493,RZEO11,"R$ 0,00",N/A,N/A,N/A %,"R$ 810,8 M","R$ 323,17",N/A %,N/A,Indefinido,Outros,Híbrido,2.508.800,50,Ativa,Indeterminado
-494,RZTR11,"R$ 106,09","2,6 M","1,10","11,16 %","R$ 1,1 B","R$ 99,48","0,37 %","1,06",Misto,Híbrido,Renda,11.048.018,94.480,Ativa,Indeterminado
-495,SAAG11,"R$ 106,61",N/A,"0,93",N/A %,"R$ 627,9 M","R$ 111,50",N/A %,"0,96",Investidores em Geral,Agências de Bancos,Indeterminado,Outros,5.631.512,16.251,Passiva
-496,SACL11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-497,SADI11,"R$ 87,96","498,0 K","1,02","13,92 %","R$ 148,4 M","R$ 95,81","0,46 %","0,91",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,1.548.684,10.668,Ativa,Indeterminado
-498,SAIC11B,"R$ 34,00","3,1 K","0,66",N/A %,"R$ 78,4 M","R$ 54,85",N/A %,"0,62",Investidor Qualificado,Lajes Corporativas,Indeterminado,Lajes Corporativas,1.429.740,50,Passiva
-499,SALI11,"R$ 0,00",N/A,N/A,N/A %,"R$ 7,2 M","R$ 90,04",N/A %,N/A,Misto,Outros,Renda,79.565,1,Passiva,Indeterminado
-500,SAPI11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-501,SARE11,"R$ 48,14","1,2 M","0,45","13,50 %","R$ 816,7 M","R$ 88,44","0,29 %","0,54",Misto,Híbrido,Renda,9.234.329,44.741,Ativa,Indeterminado
-502,SAUS11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-503,SBCL11,"R$ 0,00",N/A,N/A,N/A %,"R$ 20,4 M","R$ 678,52",N/A %,N/A,Imóveis Industriais e Logísticos,Logística,Renda,30.000,2,Ativa,Indeterminado
-504,SCPF11,"R$ 4,70","8,6 K","0,01","5,73 %","R$ 49,1 M","R$ 11,70","-0,21 %","0,40",Investidores em Geral,Shoppings,Indeterminado,Shoppings,4.200.000,5.055,Ativa
-505,SDIL11,"R$ 96,50","1,0 M","0,75","10,00 %","R$ 612,0 M","R$ 95,71","2,03 %","1,01",Investidores em Geral,Imóveis Industriais e Logísticos,Indeterminado,Logística,6.395.050,63.292,Ativa
-506,SDIP11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-507,SEED11,"R$ 100,83","100,8 K","0,82","12,29 %","R$ 146,3 M","R$ 89,21","1,01 %","1,13",Indefinido,Híbrido,Híbrido,1.640.000,125,Ativa,Determinado
-508,SEQR11,"R$ 59,99","101,1 K","0,72","14,11 %","R$ 150,1 M","R$ 90,11","0,50 %","0,66",Misto,Outros,Renda,1.665.695,5.613,Ativa,Indeterminado
-509,SFND11,"R$ 83,07",N/A,"0,10","0,12 %","R$ 8,1 M","R$ 8,20",N/A %,"10,13",Investidores em Geral,Lajes Corporativas,Indeterminado,Lajes Corporativas,981.472,54,Passiva
-510,SHDP11B,"R$ 0,00",N/A,"7,95",N/A %,"R$ 1,9 B","R$ 1.293,28",N/A %,N/A,Investidores em Geral,Shoppings,Indeterminado,Shoppings,1.467.793,1,Passiva
-511,SHOP11,"R$ 59,29",236,N/A,N/A %,"R$ 70,6 M","R$ 47,64","-1,18 %","1,24",Investidores em Geral,Shoppings,Indeterminado,Híbrido,1.481.266,52,Ativa
-512,SHPH11,"R$ 852,00","70,2 K","3,35","6,58 %","R$ 543,3 M","R$ 892,16","0,83 %","0,95",Investidores em Geral,Shoppings,Indeterminado,Shoppings,608.950,2.451,Passiva
-513,SHSO11,"R$ 0,00",N/A,"0,42",N/A %,"R$ 19,4 M","R$ 97,08",N/A %,N/A,Indefinido,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,200.000,1,Ativa,Indeterminado
-514,SIGR11,"R$ 96,00","9,9 K","1,38","15,44 %","R$ 39,7 M","R$ 101,88","5,97 %","0,94",Indefinido,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,389.395,59,Ativa,Indeterminado
-515,SJAU11,"R$ 58,00","277,8 K",N/A,N/A %,"R$ 760,1 M","R$ 95,83","-27,50 %","0,61",Imóveis Industriais e Logísticos,Logística,Renda,7.932.248,160,Passiva,Indeterminado
-516,SLDZ11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-517,SNEL11,"R$ 127,29","955,3 K","1,55","2,42 %","R$ 49,3 M","R$ 98,67","1,06 %","1,28",Indefinido,Híbrido,Desenvolvimento para Renda,500.026,3.363,Ativa,Indeterminado
-518,SNID11,"R$ 103,48","296,5 K",N/A,N/A %,R$ N/A,R$ N/A,"0,11 %",N/A,0,0,0,0,0,0,0
-519,SNLG11,"R$ 27,00","51,2 K","0,35","6,97 %","R$ 65,5 M","R$ 34,68","3,85 %","0,87",Imóveis Industriais e Logísticos,Híbrido,Renda,1.888.174,3.730,Ativa,Indeterminado
-520,SNME11,"R$ 10,02","44,9 K","0,12","1,19 %","R$ 49,9 M","R$ 9,68","-0,99 %","1,05",Indefinido,Híbrido,Híbrido,5.152.446,2,Ativa,Indeterminado
-521,SOLR11,"R$ 1.128,06","1,1 K","4,77","1,97 %","R$ 62,0 M","R$ 986,57","14,00 %","1,14",Imóveis Comerciais - Outros,Híbrido,Híbrido,62.883,52,Ativa,Indeterminado
-522,SPAF11,"R$ 0,00",N/A,"1,66",N/A %,"R$ 11,4 M","R$ 1.013,35",N/A %,N/A,Investidor Qualificado,Shoppings,Indeterminado,Shoppings,11.270,1,Ativa
-523,SPDE11,"R$ 0,00",N/A,N/A,N/A %,"R$ 61,4 M","R$ 1.033,94",N/A %,N/A,Indefinido,Residencial,Desenvolvimento para Venda,59.392,162,Ativa,Determinado
-524,SPMO11,"R$ 120,00","166,6 K","0,43","0,36 %","R$ 252,4 M","R$ 139,52","0,08 %","0,86",Indefinido,Híbrido,Renda,1.809.030,10,Ativa,Indeterminado
-525,SPTW11,"R$ 42,90","157,1 K","0,65","12,93 %","R$ 100,6 M","R$ 55,96","2,14 %","0,75",Investidores em Geral,Lajes Corporativas,Indeterminado,Lajes Corporativas,1.798.000,26.113,Passiva
-526,SPVJ11,"R$ 0,00",N/A,"0,68",N/A %,"R$ 733,1 M","R$ 116,14",N/A %,N/A,Shoppings,Híbrido,Renda,6.312.090,27,Ativa,Indeterminado
-527,SPXS11,"R$ 9,54","629,4 K","0,09","12,90 %","R$ 195,5 M","R$ 9,68","0,53 %","0,98",Indefinido,Híbrido,Híbrido,20.189.040,7.477,Ativa,Indeterminado
-528,SRVD11,"R$ 3,00",234,"0,20","2,76 %",R$ -794.300,"R$ -0,01","-47,83 %","583,00",Indefinido,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,96.286.020,106,Ativa,Indeterminado
-529,STRX11,"R$ 168,00","1,5 K","0,76","5,37 %","R$ 264,7 M","R$ 164,04",N/A %,"1,02",Fundo de Desenvolvimento,Híbrido,Híbrido,1.613.559,58,Ativa,Indeterminado
-530,TBOF11,"R$ 15,56",N/A,"0,82","5,29 %","R$ 2,1 M","R$ 0,21",N/A %,"74,10",Investidores em Geral,Lajes Corporativas,Indeterminado,Lajes Corporativas,10.050.000,9.180,Passiva
-531,TCIN11,"R$ 145,92","50,1 K",N/A,N/A %,"R$ 107,0 M","R$ 125,94","4,10 %","1,16",Fundo de Fundos,Lajes Corporativas,Renda,849.660,115,Ativa,Indeterminado
-532,TCPF11,"R$ 1,26",N/A,"1,52","1.387,30 %","R$ 35,0 M","R$ 117,65",N/A %,"0,01",Misto,Híbrido,Renda,297.327,51,Ativa,Indeterminado
-533,TELD11,"R$ 0,00",N/A,N/A,N/A %,"R$ 10,8 M","R$ 23,06",N/A %,N/A,Fundo de Desenvolvimento,Híbrido,Desenvolvimento para Venda,469.760,2,Ativa,Determinado
-534,TELF11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-535,TELM11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,500.000,0,0,0,0,0,0
-536,TEPP11,"R$ 93,00","1,5 M","0,90","7,92 %","R$ 401,0 M","R$ 94,98","0,90 %","0,97",Lajes Corporativas,Lajes Corporativas,Renda,4.221.967,23.130,Ativa,Indeterminado
-537,TFOF11,"R$ 138,00",N/A,"2,37",N/A %,"R$ 103,1 M","R$ 121,20",N/A %,"1,14",Investidor Qualificado,Fundo de Fundos,Determinado,Títulos e Valores Mobiliários,850.530,3.278,Ativa
-538,TGAR11,"R$ 119,98","7,0 M","1,32","13,77 %","R$ 1,5 B","R$ 111,49","0,19 %","1,07",Investidores em Geral,Fundo de Desenvolvimento,Indeterminado,Híbrido,13.784.500,124.930,Ativa
-539,THRA11,"R$ 138,50",N/A,"0,13",N/A %,"R$ 14,1 M","R$ 9,54",N/A %,"14,52",Investidores em Geral,Lajes Corporativas,Indeterminado,Lajes Corporativas,1.472.728,2.084,Passiva
-540,THRA11B,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-541,TJKB11,"R$ 262,50","1,5 K","2,72","11,33 %","R$ 202,3 M","R$ 267,25","-2,21 %","0,98",Indefinido,Lajes Corporativas,Renda,756.974,81,Ativa,Indeterminado
-542,TMPS11,"R$ 95,69","157,6 K","1,11","6,88 %","R$ 101,1 M","R$ 103,31","1,01 %","0,92",Fundo de Fundos,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,978.968,1.847,Ativa,Determinado
-543,TORD11,"R$ 2,23","143,6 K","0,05","4,00 %","R$ 445,7 M","R$ 12,72","-0,89 %","0,18",Misto,Híbrido,Híbrido,35.051.354,94.035,Ativa,Indeterminado
-544,TRBL11,"R$ 98,30","719,0 K","0,72","9,51 %","R$ 608,9 M","R$ 95,22","0,15 %","1,03",Investidores em Geral,Imóveis Industriais e Logísticos,Indeterminado,Logística,6.395.050,62.066,Ativa
-545,TRNT11,"R$ 135,96","22,4 K","0,22","3,40 %","R$ 778,1 M","R$ 197,70","7,90 %","0,69",Investidores em Geral,Lajes Corporativas,Indeterminado,Lajes Corporativas,3.935.562,689,Passiva
-546,TRNT11B,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-547,TRXB11,"R$ 149,98","1,2 K","2,21","9,21 %","R$ 310,8 M","R$ 108,62","3,21 %","1,34",Fundo de Desenvolvimento,Híbrido,Títulos e Valores Mobiliários,2.860.950,211,Passiva,Determinado
-548,TRXF11,"R$ 110,89","10,8 M","1,70","10,27 %","R$ 1,4 B","R$ 103,83","0,36 %","1,06",Imóveis Comerciais - Outros,Híbrido,Renda,13.269.951,117.516,Ativa,Indeterminado
-549,TRXL11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-550,TSER11,"R$ 100,00",850,"0,94","11,36 %","R$ 131,8 M","R$ 102,59","-2,97 %","0,97",Lajes Corporativas,Lajes Corporativas,Renda,1.284.884,31,Ativa,Indeterminado
-551,TSNC11,"R$ 0,00",N/A,"0,63",N/A %,"R$ 99,9 M","R$ 91,93",N/A %,N/A,Investidores em Geral,Lajes Corporativas,Indeterminado,Híbrido,1.086.780,66,Ativa
-552,TSNM11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,3.500.000,0,0,0,0,0,0
-553,TVRI11,"R$ 96,75","1,1 M","0,91","11,18 %","R$ 1,6 B","R$ 99,05","-0,15 %","0,98",Investidores em Geral,Agências de Bancos,Indeterminado,Lajes Corporativas,15.919.690,72.157,Ativa
-554,UBSR11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-555,UMED11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-556,URPR11,"R$ 87,12","2,1 M","1,10","18,37 %","R$ 1,2 B","R$ 102,66","1,14 %","0,84",Papéis,Outros,Híbrido,11.675.248,91.137,Ativa,Indeterminado
-557,VCJR11,"R$ 92,00","2,1 M","0,90","11,98 %","R$ 1,4 B","R$ 97,01","-0,07 %","0,95",Investidores em Geral,Papéis,Indeterminado,Títulos e Valores Mobiliários,14.723.970,25.284,Ativa
-558,VCRA11,"R$ 96,25","958,4 K","1,10","15,53 %","R$ 473,0 M","R$ 102,96","2,39 %","0,91",Indefinido,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,4.593.919,8.870,Ativa,Indeterminado
-559,VCRI11,"R$ 8,43","272,7 K","0,09","13,90 %","R$ 171,2 M","R$ 9,63","0,60 %","0,87",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,17.773.297,12.039,Ativa,Indeterminado
-560,VCRR11,"R$ 67,21","288,4 K","0,75","12,47 %","R$ 256,3 M","R$ 128,14","0,03 %","0,52",Investidores em Geral,Imóveis Residenciais,Indeterminado,Logística,2.000.000,4.205,Ativa
-561,VDSV11,"R$ 0,00",N/A,N/A,N/A %,"R$ 20,1 M","R$ 1.002,62",N/A %,N/A,Indefinido,Híbrido,Híbrido,20.039,77,Ativa,Indeterminado
-562,VERE11,"R$ 233,49",N/A,"3,50","13,90 %","R$ 219,4 M","R$ 364,84",N/A %,"0,64",Investidores em Geral,Imóveis Industriais e Logísticos,Indeterminado,Outros,601.308,53,Ativa
-563,VGHF11,"R$ 9,46","3,6 M","0,10","13,77 %","R$ 871,1 M","R$ 9,25","0,21 %","1,02",Misto,Híbrido,Híbrido,94.187.891,328.058,Ativa,Indeterminado
-564,VGIA11,"R$ 8,94","4,2 M","0,10","17,45 %","R$ 832,7 M","R$ 9,63","-0,11 %","0,93",Indefinido,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,86.455.117,161.613,Ativa,Indeterminado
-565,VGIP11,"R$ 89,50","1,7 M","0,70","11,92 %","R$ 1,1 B","R$ 93,17","0,01 %","0,96",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,11.787.247,88.746,Ativa,Indeterminado
-566,VGIR11,"R$ 9,86","4,1 M","0,11","14,75 %","R$ 1,0 B","R$ 9,76","0,31 %","1,01",Investidores em Geral,Papéis,Indeterminado,Títulos e Valores Mobiliários,103.220.707,230.050,Ativa
-567,VGPR11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-568,VIDS11,"R$ 0,00",N/A,"30,17",N/A %,"R$ 80,5 M","R$ 899,95",N/A %,N/A,Fundo de Desenvolvimento,Híbrido,Híbrido,89.503,199,Ativa,Indeterminado
-569,VIFI11,"R$ 8,17","316,6 K","0,07","9,95 %","R$ 74,0 M","R$ 9,14","-0,24 %","0,90",Fundo de Fundos,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,8.089.190,6.416,Ativa,Indeterminado
-570,VIGT11,"R$ 78,30","896,9 K",N/A,N/A %,R$ N/A,R$ N/A,"0,09 %",N/A,0,0,0,0,0,0,0
-571,VILG11,"R$ 97,01","3,2 M","0,64","8,12 %","R$ 1,7 B","R$ 111,25","-1,41 %","0,88",Imóveis Industriais e Logísticos,Logística,Renda,14.997.396,162.935,Ativa,Indeterminado
-572,VINO11,"R$ 7,58","1,1 M","0,06","9,64 %","R$ 898,3 M","R$ 10,85","0,13 %","0,70",Lajes Corporativas,Lajes Corporativas,Renda,82.826.295,144.500,Ativa,Indeterminado
-573,VISC11,"R$ 123,57","6,1 M","1,00","8,66 %","R$ 2,4 B","R$ 115,07","0,75 %","1,07",Investidores em Geral,Shoppings,Indeterminado,Shoppings,21.243.688,271.018,Ativa
-574,VIUR11,"R$ 7,94","348,4 K","0,07","10,94 %","R$ 243,5 M","R$ 9,04","0,51 %","0,87",Misto,Outros,Renda,26.946.220,46.845,Ativa,Indeterminado
-575,VJFD11,"R$ 0,00",N/A,"0,75",N/A %,"R$ 664,5 M","R$ 136,27",N/A %,N/A,Papéis,Híbrido,Renda,4.876.129,97,Ativa,Indeterminado
-576,VLIQ11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,Indefinido,Títulos e Valores Mobiliários,0,1,Ativa,Determinado,Títulos e Valores Mobiliários
-577,VLJS11,"R$ 1.141,14",N/A,"28,82",N/A %,"R$ 24,7 M","R$ 947,11",N/A %,"1,20",Investidor Qualificado,Lajes Corporativas,Determinado,Lajes Corporativas,26.068,9,Passiva
-578,VLOL11,"R$ 98,00","160,2 K","1,86","3,86 %","R$ 198,2 M","R$ 111,06","6,15 %","0,88",Investidores em Geral,Lajes Corporativas,Indeterminado,Lajes Corporativas,1.784.828,3.127,Passiva
-579,VOTS11,"R$ 81,06","9,1 K","0,95","16,55 %","R$ 77,6 M","R$ 93,75","-1,11 %","0,87",Investidores em Geral,Papéis,Indeterminado,Títulos e Valores Mobiliários,827.913,683,Ativa
-580,VPSI11,"R$ 0,00",N/A,"0,23",N/A %,"R$ 172,9 M","R$ 21,42",N/A %,N/A,Investidores em Geral,Shoppings,Indeterminado,Shoppings,8.071.897,53,Passiva
-581,VRTA11,"R$ 88,33","2,2 M","0,75","11,31 %","R$ 1,5 B","R$ 93,19","0,19 %","0,95",Investidores em Geral,Papéis,Indeterminado,Títulos e Valores Mobiliários,15.592.424,125.012,Ativa
-582,VSEC11,"R$ 0,21",3,"0,08","285,71 %","R$ 182,3 K","R$ 2,91","19,93 %","0,07",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,62.735,64,Ativa,Indeterminado
-583,VSHO11,"R$ 83,87","65,0 K","0,70","11,00 %","R$ 212,5 M","R$ 101,23","0,22 %","0,83",Shoppings,Shoppings,Renda,2.098.800,3.768,Ativa,Indeterminado
-584,VSLH11,"R$ 4,22","269,9 K","0,04","12,65 %","R$ 314,9 M","R$ 10,54","0,72 %","0,40",Papéis,Outros,Híbrido,29.864.091,88.373,Ativa,Indeterminado
-585,VTLT11,"R$ 95,58","126,0 K","0,89","11,94 %","R$ 214,0 M","R$ 101,16","-0,40 %","0,95",Investidores em Geral,Imóveis Industriais e Logísticos,Indeterminado,Logística,2.115.000,6.106,Ativa
-586,VTPA11,"R$ 0,00",N/A,N/A,N/A %,"R$ 66,0 M","R$ 100,07",N/A %,N/A,Fundo de Fundos,Outros,Renda,659.857,1,Ativa,Indeterminado
-587,VTPL11,"R$ 0,00",N/A,"5,11",N/A %,"R$ 106,6 M","R$ 76,92",N/A %,N/A,Papéis,Híbrido,Híbrido,1.386.242,53,Ativa,Indeterminado
-588,VTVI11,"R$ 0,00",N/A,N/A,N/A %,"R$ 61,7 M","R$ 34,64",N/A %,N/A,Indefinido,Outros,Renda,1.780.984,1,Ativa,Indeterminado
-589,VTXI11,"R$ 0,00",N/A,N/A,N/A %,"R$ 894,6 K","R$ 8,64",N/A %,N/A,Misto,Híbrido,Desenvolvimento para Venda,103.500,2,Ativa,Indeterminado
-590,VVCO11,"R$ 13,60","360,3 K","0,32",N/A %,"R$ 134,0 M","R$ 13,54","-0,66 %","1,00",Investidores em Geral,Lajes Corporativas,Indeterminado,Lajes Corporativas,9.900.000,3.658,Ativa
-591,VVCR11,"R$ 20,70","19,7 K","0,18","15,11 %","R$ 41,2 M","R$ 22,28","-0,81 %","0,94",Investidores em Geral,Papéis,Indeterminado,Títulos e Valores Mobiliários,1.849.829,2.880,Ativa
-592,VVPR11,"R$ 101,50","1,2 M","0,89","0,88 %","R$ 226,0 M","R$ 98,03","2,01 %","1,04",Misto,Híbrido,Renda,2.305.771,1.372,Ativa,Indeterminado
-593,VVRI11,"R$ 98,90","297,4 K","1,30","12,78 %","R$ 38,1 M","R$ 95,32","4,42 %","0,99",Indefinido,Híbrido,Renda,400.000,118,Ativa,Indeterminado
-594,VXXV11,"R$ 1.020,00","5,6 M","10,76",N/A %,"R$ 302,8 M","R$ 1.132,21","2,90 %","0,90",Fundo de Desenvolvimento,Outros,Renda,267.446,22,Ativa,Indeterminado
-595,WHGR11,"R$ 9,67","729,8 K","0,10","12,60 %","R$ 250,3 M","R$ 9,97","-0,10 %","0,97",Indefinido,Híbrido,Híbrido,25.089.531,12.596,Ativa,Indeterminado
-596,WMRB11B,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-597,WPLZ11,"R$ 66,51","4,4 K","0,41","7,70 %","R$ 92,6 M","R$ 87,03","-1,32 %","0,77",Investidores em Geral,Shoppings,Indeterminado,Shoppings,1.064.549,1.869,Passiva
-598,WPLZ11B,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-599,WSEC11,"R$ 83,91","15,1 K","1,20","17,36 %","R$ 24,8 M","R$ 101,02","0,19 %","0,83",Indefinido,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,245.651,467,Ativa,Indeterminado
-600,WTSP11B,"R$ 36,00","3,9 K","0,33","8,68 %","R$ 72,2 M","R$ 72,72","-2,19 %","0,50",Investidor Qualificado,Misto,Indeterminado,Híbrido,992.565,201,Ativa
-601,WVSC11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-602,XBXO11,"R$ 0,00",N/A,N/A,N/A %,"R$ 288,8 M","R$ 94,92",N/A %,N/A,Fundo de Fundos,Outros,Renda,3.042.600,6,Ativa,Indeterminado
-603,XPCA11,"R$ 9,23","2,2 M","0,12","16,01 %","R$ 432,3 M","R$ 9,50","0,54 %","0,97",Indefinido,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,45.523.076,90.057,Ativa,Indeterminado
-604,XPCI11,"R$ 86,40","1,6 M","0,76","12,77 %","R$ 812,1 M","R$ 93,32","0,52 %","0,92",Papéis,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,8.701.551,77.328,Ativa,Indeterminado
-605,XPCM11,"R$ 10,15","37,3 K","0,02","9,48 %","R$ 98,7 M","R$ 40,88","0,20 %","0,25",Investidores em Geral,Lajes Corporativas,Indeterminado,Lajes Corporativas,2.414.570,23.938,Passiva
-606,XPGA11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-607,XPHT11,"R$ 123,00","230,9 K","0,41","22,00 %","R$ 396,2 M","R$ 42,97","-0,56 %","1,05",Hotéis,Hotel,Híbrido,9.218.512,684,Ativa,Indeterminado
-608,XPID11,"R$ 86,21","605,2 K",N/A,N/A %,R$ N/A,R$ N/A,"0,65 %",N/A,0,0,0,0,0,0,0
-609,XPIE11,"R$ 85,90","1,3 M",N/A,N/A %,R$ N/A,R$ N/A,"2,60 %",N/A,0,0,0,0,0,0,0
-610,XPIN11,"R$ 79,96","1,3 M","0,63","9,71 %","R$ 734,1 M","R$ 102,66","-0,16 %","0,78",Investidores em Geral,Imóveis Industriais e Logísticos,Indeterminado,Outros,7.150.422,47.837,Ativa
-611,XPLG11,"R$ 109,00","10,2 M","0,78","8,44 %","R$ 3,3 B","R$ 110,14","0,16 %","0,99",Investidores em Geral,Imóveis Industriais e Logísticos,Indeterminado,Logística,29.613.233,314.755,Ativa
-612,XPML11,"R$ 117,00","13,8 M","0,90","8,51 %","R$ 3,4 B","R$ 111,91","-0,34 %","1,05",Investidores em Geral,Shoppings,Indeterminado,Shoppings,30.822.213,396.609,Ativa
-613,XPPR11,"R$ 22,23","479,1 K","0,10","6,28 %","R$ 508,3 M","R$ 69,48","-0,36 %","0,32",Lajes Corporativas,Outros,Renda,7.316.171,55.515,Ativa,Indeterminado
-614,XPSF11,"R$ 8,23","682,3 K","0,08","11,03 %","R$ 366,9 M","R$ 8,47","-0,12 %","0,97",Fundo de Fundos,Títulos e Valores Mobiliários,Títulos e Valores Mobiliários,43.302.140,59.102,Ativa,Indeterminado
-615,XTED11,"R$ 8,82","17,6 K","0,32",N/A %,"R$ 67,4 M","R$ 13,44","13,08 %","0,68",Investidores em Geral,Lajes Corporativas,Indeterminado,Lajes Corporativas,5.014.556,4.098,Ativa
-616,YCHY11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-617,YUFI11,"R$ 88,49",88,"0,39","2,87 %","R$ 50,5 M","R$ 102,44","-0,01 %","0,86",Fundo de Desenvolvimento,Residencial,Renda,492.650,60,Ativa,Indeterminado
-618,YUFI11B,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-619,ZAVC11,"R$ 0,00",N/A,N/A,N/A %,R$ N/A,R$ N/A,N/A %,N/A,0,0,0,0,0,0,0
-620,ZAVI11,"R$ 127,86","318,4 K","1,24","10,65 %","R$ 158,4 M","R$ 134,97","0,68 %","0,94",Indefinido,Híbrido,Renda,1.173.322,4.790,Ativa,Indeterminado
-621,ZIFI11,"R$ 849,00","45,3 K","3,30","0,33 %","R$ 57,1 M","R$ 1.201,62","-5,67 %","0,71",Fundo de Desenvolvimento,Híbrido,Desenvolvimento para Renda,47.485,67,Ativa,Indeterminado
+,Unnamed: 0,Nome,Preco,Liquidez Média Diária,Último Rendimento,Dividend Yield,Patrimônio Líquido,Valor Patrimonial,Rentab. no mês,P/VP
+0,0,AAGR11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+1,1,AATH11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+2,2,AAZQ11,"R$ 8,96","1,2 M","0,12","17,06 %","R$ 232,0 M","R$ 9,65","0,56 %","0,92"
+3,3,ABCP11,"R$ 69,99","77,4 K","0,65","9,27 %","R$ 432,7 M","R$ 91,88","0,57 %","0,76"
+4,4,AEFI11,"R$ 174,90",,"1,24",N/A %,"R$ 337,8 M","R$ 143,44",N/A %,"1,22"
+5,5,AFCR11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+6,6,AFHI11,"R$ 100,12","869,8 K","1,00","12,71 %","R$ 322,4 M","R$ 96,43","0,36 %","1,03"
+7,7,AFOF11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+8,8,AGCX11,"R$ 1.235,50",,"8,50",N/A %,"R$ 1,2 B","R$ 107,52",N/A %,"11,49"
+9,9,AGRX11,"R$ 11,04","463,1 K",,N/A %,R$ N/A,R$ N/A,"0,64 %",
+10,10,AIEC11,"R$ 56,34","898,4 K","1,33","18,40 %","R$ 459,2 M","R$ 95,16","-1,28 %","0,60"
+11,11,AJFI11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+12,12,ALMI11,"R$ 690,00","11,5 K","0,37",N/A %,"R$ 226,8 M","R$ 2.039,72","-0,14 %","0,34"
+13,13,ALMI11B,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+14,14,ALZC11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+15,15,ALZR11,"R$ 119,15","1,6 M","0,83","8,31 %","R$ 1,1 B","R$ 106,95","0,97 %","1,10"
+16,16,AMAZ11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+17,17,ANCR11B,"R$ 3.221,00","5,1 K","42,08","1,96 %","R$ 1,9 B","R$ 3.941,72","-2,39 %","0,82"
+18,18,APTO11,"R$ 9,78","36,3 K","0,09","12,26 %","R$ 41,4 M","R$ 10,32","-0,41 %","0,95"
+19,19,APXM11,"R$ 102,99","1,3 M","0,60","1,92 %","R$ 168,9 M","R$ 95,98","0,98 %","1,07"
+20,20,AQLL11,"R$ 385,03",,,N/A %,"R$ 142,4 M","R$ 976,22",N/A %,"0,39"
+21,21,ARCT11,"R$ 87,13","1,1 M","0,39","16,59 %","R$ 371,5 M","R$ 100,19","-5,51 %","0,87"
+22,22,ARFI11B,"R$ 479,99",,,N/A %,"R$ 74,3 M","R$ 651,70",N/A %,"0,74"
+23,23,AROA11,"R$ 3,58","71,4 K","0,01","1,58 %","R$ 178,6 M","R$ 1,06","28,32 %","2,63"
+24,24,ARRI11,"R$ 8,95","224,8 K","0,10","13,65 %","R$ 117,1 M","R$ 8,97","-0,67 %","1,00"
+25,25,ARXD11,"R$ 97,00","32,0 K","1,00","10,41 %","R$ 64,7 M","R$ 98,84","2,14 %","0,98"
+26,26,ASMT11,"R$ 57,00","11,8 K","0,77","2,70 %","R$ 86,4 M","R$ 84,91","-1,89 %","0,67"
+27,27,ASRF11,"R$ 10.092,00","30,3 K","256,33","2,54 %","R$ 24,3 M","R$ 10.135,55",N/A %,"1,00"
+28,28,ATCR11,"R$ 0,00",,"5,60",N/A %,"R$ 76,6 M","R$ 82,42",N/A %,
+29,29,ATSA11,"R$ 54,90","1,5 K","0,05","0,18 %","R$ 143,2 M","R$ 81,79","-0,18 %","0,67"
+30,30,ATSA11B,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+31,31,ATWN11,"R$ 0,00",,,N/A %,"R$ 213,1 M","R$ 1.325,79",N/A %,
+32,32,AURB11,"R$ 0,00",,"0,20",N/A %,"R$ 73,0 M","R$ 82,90",N/A %,
+33,33,AZIN11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+34,34,BARI11,"R$ 83,36","783,7 K","0,69","11,24 %","R$ 445,9 M","R$ 96,23","0,14 %","0,87"
+35,35,BBFI11B,"R$ 1.180,01","324,0 K","7,43","13,69 %","R$ 279,2 M","R$ 2.147,98","-0,08 %","0,55"
+36,36,BBFO11,"R$ 73,17","631,7 K","0,64","11,09 %","R$ 323,4 M","R$ 80,76","0,22 %","0,90"
+37,37,BBGO11,"R$ 89,46","502,0 K","1,15","13,60 %","R$ 390,9 M","R$ 97,61","0,13 %","0,92"
+38,38,BBIM11,"R$ 0,00",,"0,65",N/A %,"R$ 13,7 M","R$ 13,20",N/A %,
+39,39,BBPO11,"R$ 96,75","1,8 M","0,91","11,18 %","R$ 1,6 B","R$ 99,05","0,67 %","0,98"
+40,40,BBRC11,"R$ 114,98","152,1 K","1,13","12,33 %","R$ 170,5 M","R$ 107,25","0,59 %","1,07"
+41,41,BBVJ11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+42,42,BCFF11,"R$ 9,46","3,3 M","0,07","8,88 %","R$ 2,0 B","R$ 9,85","4,46 %","0,96"
+43,43,BCFF11B,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+44,44,BCIA11,"R$ 103,49","622,9 K","0,85","9,41 %","R$ 398,4 M","R$ 107,13","-0,11 %","0,97"
+45,45,BCRI11,"R$ 75,90","743,1 K","0,78","12,63 %","R$ 600,4 M","R$ 95,95","2,44 %","0,77"
+46,46,BDIF11,"R$ 93,19","2,4 M",,N/A %,R$ N/A,R$ N/A,"0,05 %",
+47,47,BDIV11,"R$ 121,00","708,0 K",,N/A %,R$ N/A,R$ N/A,"0,83 %",
+48,48,BETW11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+49,49,BICE11,"R$ 980,00","2,0 K","6,64","11,63 %","R$ 89,5 M","R$ 991,06","0,71 %","0,99"
+50,50,BICR11,"R$ 74,84","3,8 K","0,50","10,20 %","R$ 21,9 M","R$ 43,81","47,92 %","1,71"
+51,51,BIDB11,"R$ 88,30","296,8 K",,N/A %,R$ N/A,R$ N/A,"-0,09 %",
+52,52,BIME11,"R$ 7,39","84,8 K","0,08","13,24 %","R$ 51,0 M","R$ 8,72","-0,14 %","0,85"
+53,53,BIPD11,"R$ 0,00",,"10,38",N/A %,"R$ 73,6 M","R$ 990,32",N/A %,
+54,54,BIPE11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+55,55,BLCA11,"R$ 125,00","14,1 K","12,60","14,87 %","R$ 222,7 M","R$ 139,19","-3,85 %","0,93"
+56,56,BLCP11,"R$ 91,00","103,1 K","0,56","0,62 %","R$ 256,6 M","R$ 111,74","-0,43 %","0,81"
+57,57,BLMC11,"R$ 84,78","145,2 K","0,67","11,55 %","R$ 38,6 M","R$ 96,56","0,90 %","0,87"
+58,58,BLMG11,"R$ 41,02","925,0 K","0,30","19,89 %","R$ 320,9 M","R$ 84,22","-2,17 %","0,50"
+59,59,BLMO11,"R$ 89,99","561,4 K","0,43","1.140,51 %","R$ 126,6 M","R$ 33.347,26","5,87 %","0,00"
+60,60,BLMR11,"R$ 6,79","555,0 K","0,05","10,03 %","R$ 194,3 M","R$ 7,61","2,26 %","0,87"
+61,61,BLUR11,"R$ 96,82",777,"0,52","12,03 %","R$ 8,1 M","R$ 89,61","9,47 %","1,08"
+62,62,BMII11,"R$ 0,00",,"0,23",N/A %,"R$ 67,8 M","R$ 467,93",N/A %,
+63,63,BMLC11,"R$ 106,80","400,1 K","0,76","11,24 %","R$ 111,6 M","R$ 111,79","1,71 %","0,96"
+64,64,BMLC11B,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+65,65,BNFS11,"R$ 121,29","180,8 K","1,26","14,12 %","R$ 64,3 M","R$ 91,89","0,02 %","1,32"
+66,66,BODB11,"R$ 9,51","734,7 K",,N/A %,R$ N/A,R$ N/A,"0,11 %",
+67,67,BPFF11,"R$ 70,98","276,1 K","0,62","10,53 %","R$ 342,6 M","R$ 76,26","0,50 %","0,93"
+68,68,BPLC11,"R$ 0,00",,"14,42",N/A %,"R$ 322,7 M","R$ 10.084,54",N/A %,
+69,69,BPML11,"R$ 96,00","717,8 K","0,27","0,56 %","R$ 574,4 M","R$ 133,42","0,05 %","0,72"
+70,70,BPRP11,"R$ 108,99","12,5 K","0,90","9,94 %","R$ 148,9 M","R$ 110,30","14,61 %","0,99"
+71,71,BRCO11,"R$ 122,71","3,7 M","0,99","8,37 %","R$ 1,8 B","R$ 120,60","0,73 %","1,01"
+72,72,BRCR11,"R$ 59,40","2,7 M","0,41","8,98 %","R$ 2,7 B","R$ 99,92","0,59 %","0,59"
+73,73,BREV11,"R$ 105,00","271,5 K","0,58","5,70 %","R$ 113,9 M","R$ 117,73","-0,14 %","0,89"
+74,74,BRHT11B,"R$ 86,80",,,N/A %,"R$ 126,3 M","R$ 68,60",N/A %,"1,27"
+75,75,BRIM11,"R$ 1.014,00","30,1 K","20,14","23,88 %","R$ 132,8 M","R$ 1.070,17","38,73 %","0,95"
+76,76,BRIP11,"R$ 1.000,00","1,5 K","13,93","16,50 %","R$ 244,5 M","R$ 1.134,48","21,05 %","0,88"
+77,77,BRIX11,"R$ 0,00",,,N/A %,"R$ 99,8 M","R$ 1.011,79",N/A %,
+78,78,BRLA11,"R$ 143,00",776,"1,12","9,33 %","R$ 553,0 M","R$ 158,26","5,93 %","0,90"
+79,79,BROF11,"R$ 61,84","2,3 M","0,56","7,56 %","R$ 1,2 B","R$ 107,25","1,21 %","0,57"
+80,80,BROL11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+81,81,BRSE11,"R$ 0,00",,,N/A %,"R$ 6,8 M","R$ 3.387,23",N/A %,
+82,82,BRZP11,"R$ 89,72","595,8 K",,N/A %,R$ N/A,R$ N/A,"-0,21 %",
+83,83,BTAG11,"R$ 99,50","487,8 K",,N/A %,R$ N/A,R$ N/A,"-0,70 %",
+84,84,BTAL11,"R$ 79,59","1,1 M","0,64","11,39 %","R$ 627,7 M","R$ 104,91","-0,19 %","0,76"
+85,85,BTCI11,"R$ 9,97","2,2 M","0,10","12,36 %","R$ 1,0 B","R$ 10,22","-0,10 %","0,98"
+86,86,BTCR11,"R$ 88,00","652,8 K","0,90","1,02 %","R$ 458,3 M","R$ 95,27","-2,38 %","0,92"
+87,87,BTGM11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+88,88,BTHI11,"R$ 44,99","40,6 K","0,41","22,00 %","R$ 396,2 M","R$ 42,97","0,02 %","1,05"
+89,89,BTLG11,"R$ 104,32","7,7 M","0,76","8,68 %","R$ 2,8 B","R$ 99,06","0,60 %","1,05"
+90,90,BTRA11,"R$ 59,42","427,1 K","0,56","14,03 %","R$ 420,7 M","R$ 125,05","-2,88 %","0,49"
+91,91,BTSG11,"R$ 139,00","21,0 K","0,90","7,71 %","R$ 106,7 M","R$ 137,73","1,11 %","1,01"
+92,92,BTSI11,"R$ 97,50",99,"0,74","8,88 %","R$ 285,2 M","R$ 119,84","-4,92 %","0,81"
+93,93,BTWR11,"R$ 109,40",109,"0,84","6,08 %","R$ 90,5 M","R$ 111,80","2,79 %","0,98"
+94,94,BVAR11,"R$ 0,00",,"19,00",N/A %,"R$ 591,8 M","R$ 946,11",N/A %,
+95,95,BZEL11,"R$ 0,00",,"5,09",N/A %,"R$ 415,4 M","R$ 117,42",N/A %,
+96,96,BZLI11,"R$ 17,01",71,,N/A %,"R$ 447,9 M","R$ 10,43","-0,06 %","1,63"
+97,97,CACR11,"R$ 102,63","1,5 M","1,48","17,11 %","R$ 385,5 M","R$ 100,82","0,49 %","1,01"
+98,98,CARE11,"R$ 1,40","15,7 K","0,01",N/A %,"R$ 296,5 M","R$ 8,29","1,45 %","0,17"
+99,99,CBOP11,"R$ 30,11","15,8 K","0,12","4,68 %","R$ 104,4 M","R$ 73,79","-2,14 %","0,42"
+100,100,CCFA11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+101,101,CCLB11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+102,102,CCME11,"R$ 108,00","2,7 K","0,90","10,12 %","R$ 564,1 M","R$ 103,07","-0,18 %","1,05"
+103,103,CCRF11,"R$ 92,50","1,3 K","0,63","8,70 %","R$ 143,0 M","R$ 91,00","-0,95 %","1,02"
+104,104,CDII11,"R$ 106,24","1,1 M",,N/A %,R$ N/A,R$ N/A,"0,23 %",
+105,105,CEOC11,"R$ 46,99","49,6 K","0,43","14,73 %","R$ 142,5 M","R$ 78,46","1,16 %","0,59"
+106,106,CEOC11B,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+107,107,CFHI11,"R$ 610,00","5,3 M","3,65","0,60 %","R$ 58,9 M","R$ 622,62",N/A %,"0,98"
+108,108,CFII11,"R$ 0,00",,,N/A %,"R$ 104,1 M","R$ 1.034,59",N/A %,
+109,109,CIXR11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+110,110,CJCT11,"R$ 69,99","50,4 K","0,49","1,96 %","R$ 207,4 M","R$ 66,05","0,01 %","1,06"
+111,111,CJFI11,"R$ 0,00",,,N/A %,"R$ 272,3 M","R$ 2,88",N/A %,
+112,112,CLIN11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+113,113,CNES11,"R$ 22,65","8,0 K","0,08","4,84 %","R$ 264,3 M","R$ 89,60","-0,22 %","0,25"
+114,114,CNES11B,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+115,115,COPP11,"R$ 103,00","1,8 M","0,75","0,73 %","R$ 174,5 M","R$ 104,91","3,00 %","0,98"
+116,116,CORM11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+117,117,CPFF11,"R$ 77,46","351,0 K","0,68","8,83 %","R$ 210,3 M","R$ 82,37","0,73 %","0,93"
+118,118,CPFO11,"R$ 0,00",,,N/A %,"R$ 90,5 M","R$ 31,93",N/A %,
+119,119,CPSH11,"R$ 109,99","2,8 M","1,00","5,48 %","R$ 378,1 M","R$ 113,20","-0,27 %","0,97"
+120,120,CPTI11,"R$ 99,35","1,3 M",,N/A %,R$ N/A,R$ N/A,"-0,17 %",
+121,121,CPTR11,"R$ 9,10","1,4 M","0,11","16,76 %","R$ 404,8 M","R$ 9,78","0,66 %","0,92"
+122,122,CPTS11,"R$ 8,56","6,2 M","0,06","10,23 %","R$ 2,9 B","R$ 9,04","-0,23 %","0,95"
+123,123,CPTS11B,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+124,124,CRAA11,"R$ 100,45","138,7 K","1,20","12,52 %","R$ 50,2 M","R$ 101,40","0,10 %","0,99"
+125,125,CRFF11,"R$ 77,92","140,9 K","0,65","9,67 %","R$ 61,1 M","R$ 88,58","0,43 %","0,88"
+126,126,CSMC11,"R$ 0,00",,"20,67",N/A %,"R$ 559,1 M","R$ 1.057,82",N/A %,
+127,127,CTNP11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+128,128,CTXT11,"R$ 11,61","2,7 K","0,01",N/A %,"R$ 105,8 M","R$ 31,05","-0,17 %","0,37"
+129,129,CVBI11,"R$ 93,09","2,5 M","0,80","12,40 %","R$ 1,1 B","R$ 95,90","0,82 %","0,96"
+130,130,CVPR11,"R$ 0,00",,"0,85",N/A %,"R$ 14,1 M","R$ 100,39",N/A %,
+131,131,CXAG11,"R$ 81,99","152,1 K","0,77","10,99 %","R$ 241,8 M","R$ 115,65","1,37 %","0,70"
+132,132,CXCE11B,"R$ 44,64","23,0 K","0,43","11,14 %","R$ 111,9 M","R$ 65,32","1,27 %","0,67"
+133,133,CXCI11,"R$ 86,00","169,6 K","0,85","11,80 %","R$ 192,8 M","R$ 93,69","0,60 %","0,91"
+134,134,CXCO11,"R$ 79,20","165,8 K","0,73","11,93 %","R$ 389,7 M","R$ 99,31","0,51 %","0,79"
+135,135,CXRI11,"R$ 79,30","26,7 K","0,59","8,59 %","R$ 141,4 M","R$ 89,72","-0,88 %","0,89"
+136,136,CXTL11,"R$ 238,39","15,4 K","2,10","8,41 %","R$ 22,3 M","R$ 416,57","-4,64 %","0,60"
+137,137,CYCR11,"R$ 9,62","301,5 K","0,11","12,70 %","R$ 159,5 M","R$ 9,77","0,10 %","0,98"
+138,138,CYLD11,"R$ 0,00",,,N/A %,"R$ 125,4 M","R$ 100,96",N/A %,
+139,139,DAMT11B,"R$ 13,69","19,3 K","0,04","7,52 %","R$ 96,1 M","R$ 13,15","5,55 %","0,99"
+140,140,DCRA11,"R$ 9,07","252,2 K",,N/A %,R$ N/A,R$ N/A,"0,55 %",
+141,141,DEVA11,"R$ 43,31","1,7 M","0,47","19,01 %","R$ 1,4 B","R$ 98,18","-0,78 %","0,44"
+142,142,DLMT11,"R$ 0,00",,"0,01",N/A %,"R$ 8,5 M","R$ 0,64",N/A %,
+143,143,DMAC11,"R$ 13,00",,"4,89",N/A %,"R$ 778,3 K","R$ 4,99",N/A %,"2,61"
+144,144,DOMC11,"R$ 439,00",,,N/A %,"R$ 242,6 M","R$ 99,29",N/A %,"4,42"
+145,145,DOVL11B,"R$ 1.200,69","33,6 K","6,67","8,49 %","R$ 79,0 M","R$ 1.189,96",N/A %,"1,01"
+146,146,DPRO11,"R$ 8,19","16,5 K","0,06","112,34 %","R$ 47,0 M","R$ 9,40","4,73 %","0,83"
+147,147,DRIT11B,"R$ 83,30","1,5 K","0,39","8,30 %","R$ 61,5 M","R$ 132,78","-2,63 %","0,63"
+148,148,DVFF11,"R$ 8,21","151,8 K","0,08","10,87 %","R$ 102,2 M","R$ 9,28","-0,97 %","0,89"
+149,149,EDFO11B,"R$ 229,98","7,9 K","1,69","9,03 %","R$ 42,6 M","R$ 180,67","20,38 %","1,27"
+150,150,EDGA11,"R$ 21,61","18,5 K","0,07","5,36 %","R$ 233,7 M","R$ 61,30","0,51 %","0,35"
+151,151,EDGA11B,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+152,152,EGAF11,"R$ 99,26","1,2 M","1,20","19,35 %","R$ 186,5 M","R$ 98,73","0,01 %","1,01"
+153,153,EGYR11,"R$ 5,35","2,2 K",,N/A %,"R$ 93,2 M","R$ 123,41","-3,60 %","0,05"
+154,154,ELDO11B,"R$ 762,38",,"1,49","13,87 %","R$ 1,1 B","R$ 1.440,67",N/A %,"0,53"
+155,155,ENDD11,"R$ 101,99","425,6 K",,N/A %,R$ N/A,R$ N/A,"-0,85 %",
+156,156,EQIA11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+157,157,EQIN11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+158,158,EQIR11,"R$ 9,79","93,8 K","0,11","13,47 %","R$ 66,7 M","R$ 9,98","-0,10 %","0,98"
+159,159,ERCR11,"R$ 76.000,00",,"139,45","0,18 %","R$ 118,6 M","R$ 49.925,50",N/A %,"1,52"
+160,160,ERPA11,"R$ 119,90","48,2 K","0,72","7,11 %","R$ 68,7 M","R$ 137,18","6,22 %","0,87"
+161,161,ESTQ11,"R$ 0,00",,,N/A %,"R$ 3,0 M","R$ 0,05",N/A %,
+162,162,ESUD11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+163,163,ESUT11,"R$ 20,02","6,0 K",,N/A %,R$ N/A,R$ N/A,N/A %,
+164,164,ESUU11,"R$ 1.199,98",,,N/A %,R$ N/A,R$ N/A,N/A %,
+165,165,EURO11,"R$ 248,75","54,0 K","1,88","9,00 %","R$ 125,0 M","R$ 325,45","0,26 %","0,76"
+166,166,EVBI11,"R$ 98,29","607,7 K","0,75","9,25 %","R$ 213,6 M","R$ 99,15","-0,20 %","0,99"
+167,167,EXES11,"R$ 88,44",619,"0,78","11,05 %","R$ 52,3 M","R$ 91,60","0,01 %","0,97"
+168,168,FAED11,"R$ 157,54","51,9 K","1,48","11,81 %","R$ 140,7 M","R$ 219,10","0,47 %","0,72"
+169,169,FAED11B,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+170,170,FAGL11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+171,171,FAMB11B,"R$ 791,00","93,4 K","9,16",N/A %,"R$ 308,5 M","R$ 2.802,99","-1,25 %","0,29"
+172,172,FAOE11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+173,173,FARM11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+174,174,FARU11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+175,175,FATN11,"R$ 92,06","665,1 K","0,85","10,98 %","R$ 260,1 M","R$ 99,28","-0,14 %","0,93"
+176,176,FCAS11,"R$ 0,00",,"0,12",N/A %,"R$ 80,7 M","R$ 60,79",N/A %,
+177,177,FCFL11,"R$ 115,98","236,9 K","0,86","8,42 %","R$ 406,7 M","R$ 117,08","0,02 %","0,99"
+178,178,FCFL11B,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+179,179,FEXC11,"R$ 83,50","860,1 K","0,95","134,61 %","R$ 1,0 B","R$ 90,57","-3,91 %","0,10"
+180,180,FEXC11B,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+181,181,FFCI11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+182,182,FGAA11,"R$ 9,53","1,9 M","0,11","16,33 %","R$ 432,1 M","R$ 9,58","0,11 %","0,99"
+183,183,FGPM11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+184,184,FIGS11,"R$ 60,60","149,5 K","0,45","8,96 %","R$ 217,4 M","R$ 76,28","0,35 %","0,79"
+185,185,FIIB11,"R$ 512,50","251,0 K","3,65","8,11 %","R$ 316,2 M","R$ 461,58","-0,49 %","1,12"
+186,186,FIIP11B,"R$ 173,21","65,8 K","1,44","9,71 %","R$ 188,6 M","R$ 203,43","-0,05 %","0,85"
+187,187,FINF11,"R$ 0,00",,"0,29",N/A %,"R$ 32,8 M","R$ 39,95",N/A %,
+188,188,FISC11,"R$ 65,00","4,0 K","0,38","7,46 %","R$ 195,2 M","R$ 114,81","-16,67 %","0,57"
+189,189,FISD11,"R$ 0,00",,"6,53",N/A %,"R$ 64,8 M","R$ 60,45",N/A %,
+190,190,FIVN11,"R$ 3,02","3,1 K",,N/A %,"R$ 72,1 M","R$ 7,66","-3,51 %","0,41"
+191,191,FIXX11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+192,192,FLCI11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+193,193,FLCR11,"R$ 97,40","53,4 K","1,00","13,83 %","R$ 62,0 M","R$ 97,79","0,01 %","1,00"
+194,194,FLEM11,"R$ 0,00",,,N/A %,"R$ 283,7 M","R$ 97,00",N/A %,
+195,195,FLFL11,"R$ 0,00",,,N/A %,"R$ 142,6 M","R$ 98,25",N/A %,
+196,196,FLMA11,"R$ 143,44","89,3 K","0,97","7,62 %","R$ 221,4 M","R$ 160,37","-0,87 %","0,90"
+197,197,FLRP11,"R$ 1.999,99","224,6 K","13,50","8,25 %","R$ 119,0 M","R$ 1.824,89","1,52 %","1,10"
+198,198,FLRP11B,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+199,199,FMOF11,"R$ 55,85","1,2 K","0,46","1,09 %","R$ 60,5 M","R$ 119,01","7,51 %","0,47"
+200,200,FOEF11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+201,201,FOFT11,"R$ 123,00",,"1,90",N/A %,"R$ 131,8 M","R$ 110,21",N/A %,"1,12"
+202,202,FPAB11,"R$ 197,00","10,0 K","0,90","9,42 %","R$ 280,6 M","R$ 374,18","-1,50 %","0,53"
+203,203,FPNG11,"R$ 85,07",850,"0,54","8,79 %","R$ 322,1 M","R$ 160,95","0,10 %","0,53"
+204,204,FPOR11,"R$ 5,75","3,3 K",,N/A %,R$ N/A,R$ N/A,"-11,54 %",
+205,205,FRHY11,"R$ 0,00",,"1,03",N/A %,"R$ 5,2 M","R$ 39,88",N/A %,
+206,206,FTCE11B,"R$ 2.900,89","14,8 K","112,96","6,86 %","R$ 2,9 B","R$ 2.899,63",N/A %,"1,00"
+207,207,FVBI11,"R$ 94,97",,"0,37",N/A %,R$ N/A,R$ N/A,N/A %,
+208,208,FVBI11B,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+209,209,FVPQ11,"R$ 110,51","80,2 K","0,45","10,96 %","R$ 537,5 M","R$ 191,97","0,28 %","0,57"
+210,210,FZDA11,"R$ 120,00","157,0 K","2,26","1,81 %","R$ 345,2 M","R$ 222,70","-3,68 %","0,56"
+211,211,FZDB11,"R$ 111,45","168,4 K",,N/A %,"R$ 357,9 M","R$ 99,43","0,80 %","1,12"
+212,212,GALG11,"R$ 9,27","3,2 M","0,08","10,65 %","R$ 523,1 M","R$ 9,10","-0,54 %","1,02"
+213,213,GAME11,"R$ 9,28","142,8 K","0,10","13,06 %","R$ 212,5 M","R$ 9,79","0,98 %","0,94"
+214,214,GCFF11,"R$ 69,30","87,7 K","0,75","4,21 %","R$ 27,9 M","R$ 77,51","0,61 %","0,89"
+215,215,GCOI11,"R$ 98,99","9,9 K","0,81","0,81 %","R$ 11,0 M","R$ 97,32",N/A %,"1,02"
+216,216,GCRA11,"R$ 76,00","525,6 K","1,00","18,33 %","R$ 172,1 M","R$ 98,28","0,01 %","0,77"
+217,217,GCRI11,"R$ 88,20","273,3 K","0,95","14,01 %","R$ 138,1 M","R$ 94,96","-0,34 %","0,93"
+218,218,GESE11B,"R$ 1.520,00",,"14,97","87,27 %","R$ 58,2 M","R$ 1.119,08",N/A %,"1,36"
+219,219,GGRC11,"R$ 113,48","1,5 M","0,90","10,24 %","R$ 1,0 B","R$ 113,34","-0,03 %","1,00"
+220,220,GLOG11,"R$ 65,49","60,2 K","0,63","12,09 %","R$ 79,9 M","R$ 106,52","-0,18 %","0,62"
+221,221,GLPL11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+222,222,GRLV11,"R$ 104,51",,"0,17",N/A %,"R$ 6,4 M","R$ 5,97",N/A %,"17,51"
+223,223,GRWA11,"R$ 11,80","50,8 K","0,15","10,05 %","R$ 12,9 M","R$ 10,18","0,51 %","1,15"
+224,224,GSFI11,"R$ 7,89","1,2 M",,N/A %,"R$ 1,1 B","R$ 14,44","-0,13 %","0,55"
+225,225,GTLG11,"R$ 63,99","22,9 K","0,84","7,88 %","R$ 434,8 M","R$ 60,62","-1,55 %","1,06"
+226,226,GTWR11,"R$ 86,49","1,1 M","0,79","11,91 %","R$ 1,1 B","R$ 95,14","0,27 %","0,91"
+227,227,GURB11,"R$ 108,00","6,0 M","0,70","5,32 %","R$ 126,3 M","R$ 111,23","2,83 %","0,97"
+228,228,GVBI11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+229,229,GWIR11,"R$ 175,99",,,N/A %,"R$ 91,2 M","R$ 238,79",N/A %,"0,74"
+230,230,GZIT11,"R$ 0,00",,"0,32",N/A %,"R$ 1,9 B","R$ 85,99",N/A %,
+231,231,HAAA11,"R$ 48,02","2,1 K","0,37","9,86 %","R$ 278,3 M","R$ 80,56","5,49 %","0,57"
+232,232,HABT11,"R$ 89,09","1,5 M","0,98","15,33 %","R$ 795,5 M","R$ 97,88","0,55 %","0,91"
+233,233,HBCR11,"R$ 117,39","7,1 M","0,69","6,14 %","R$ 137,0 M","R$ 119,38","0,01 %","0,98"
+234,234,HBRH11,"R$ 92,60","388,0 K","0,66","7,14 %","R$ 310,4 M","R$ 111,96","-0,17 %","0,83"
+235,235,HBTT11,"R$ 1.055,00",,"16,58",N/A %,R$ N/A,R$ N/A,N/A %,
+236,236,HCHG11,"R$ 77,05","35,7 K","0,69","13,14 %","R$ 117,3 M","R$ 97,76","1,64 %","0,78"
+237,237,HCPR11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+238,238,HCRA11,"R$ 105,50","1,5 K",,N/A %,R$ N/A,R$ N/A,"-0,86 %",
+239,239,HCRI11,"R$ 303,77","63,1 K","3,00","10,89 %","R$ 62,4 M","R$ 312,06","-0,34 %","0,98"
+240,240,HCRI11B,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+241,241,HCST11,"R$ 50,05",67,,N/A %,"R$ 49,5 M","R$ 101,29","0,08 %","0,49"
+242,242,HCTR11,"R$ 39,05","1,6 M","0,34","16,51 %","R$ 2,5 B","R$ 114,32","0,44 %","0,34"
+243,243,HDEL11,"R$ 107,50","21,5 K","5,95","7,27 %","R$ 77,6 M","R$ 92,43","0,35 %","1,16"
+244,244,HDOF11,"R$ 115,00","101,0 K",,N/A %,"R$ 200,2 M","R$ 97,41",N/A %,"1,18"
+245,245,HFOF11,"R$ 78,20","2,9 M","0,63","9,65 %","R$ 1,8 B","R$ 79,52","-0,17 %","0,99"
+246,246,HGAG11,"R$ 22,01","14,3 K","0,33","16,47 %","R$ 5,9 M","R$ 23,69","-4,35 %","0,97"
+247,247,HGBS11,"R$ 227,74","5,9 M","2,00","8,92 %","R$ 2,9 B","R$ 224,62","1,04 %","1,00"
+248,248,HGCR11,"R$ 105,73","3,3 M","1,00","12,88 %","R$ 1,6 B","R$ 101,88","0,89 %","1,03"
+249,249,HGFF11,"R$ 87,48","815,1 K","0,70","9,16 %","R$ 262,5 M","R$ 91,67","-0,48 %","0,96"
+250,250,HGIC11,"R$ 105,50","18,8 K","1,00","10,38 %","R$ 55,5 M","R$ 119,92","0,81 %","0,87"
+251,251,HGJH11,"R$ 191,29",,"0,80",N/A %,"R$ 523,9 M","R$ 298,84",N/A %,"0,64"
+252,252,HGLG11,"R$ 161,94","14,0 M","1,10","8,40 %","R$ 5,2 B","R$ 152,83","-0,03 %","1,06"
+253,253,HGPO11,"R$ 281,00","692,3 K","1,50","6,67 %","R$ 523,9 M","R$ 298,84","-0,33 %","0,94"
+254,254,HGRE11,"R$ 131,69","1,6 M","1,20","7,93 %","R$ 1,8 B","R$ 154,51","0,45 %","0,85"
+255,255,HGRS11,"R$ 0,00",,"1,15",N/A %,"R$ 58,7 M","R$ 39,32",N/A %,
+256,256,HGRU11,"R$ 139,00","3,8 M","2,30","8,73 %","R$ 2,3 B","R$ 123,67","-0,29 %","1,13"
+257,257,HILG11,"R$ 0,00",,"1,34",N/A %,"R$ 95,3 M","R$ 182,57",N/A %,
+258,258,HLOG11,"R$ 84,74","67,5 K","0,65","9,14 %","R$ 488,8 M","R$ 115,01","-0,71 %","0,74"
+259,259,HMOC11,"R$ 226,95",,"23,80",N/A %,"R$ 91,2 M","R$ 238,79",N/A %,"0,95"
+260,260,HOFC11,"R$ 18,87","78,7 K","0,20","11,47 %","R$ 337,2 M","R$ 89,22","0,16 %","0,21"
+261,261,HOSI11,"R$ 87,50","280,8 K","1,20","8,57 %","R$ 53,2 M","R$ 92,81","-3,94 %","0,98"
+262,262,HPDP11,"R$ 87,53","1,2 M","0,53","7,40 %","R$ 278,4 M","R$ 88,35","3,02 %","0,99"
+263,263,HRDF11,"R$ 3,80",404,"6,80",N/A %,"R$ 9,7 M","R$ 6,40","3,54 %","0,57"
+264,264,HREC11,"R$ 8,67","169,8 K","0,09","111,38 %","R$ 474,2 M","R$ 91,95","-0,80 %","0,10"
+265,265,HRES11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+266,266,HSAF11,"R$ 84,44","442,0 K","0,75","12,55 %","R$ 231,9 M","R$ 91,78","-0,48 %","0,92"
+267,267,HSLG11,"R$ 95,50","1,1 M","0,74","9,07 %","R$ 1,3 B","R$ 103,68","-0,95 %","0,93"
+268,268,HSML11,"R$ 95,93","3,2 M","0,76","9,22 %","R$ 1,5 B","R$ 94,34","-0,22 %","1,02"
+269,269,HSRE11,"R$ 106,00","6,2 M","0,60","6,96 %","R$ 832,5 M","R$ 93,55","-1,89 %","1,13"
+270,270,HTMX11,"R$ 190,17","1,8 M","3,25","12,97 %","R$ 194,9 M","R$ 129,55","-1,03 %","1,48"
+271,271,HTMX11B,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+272,272,HUCG11,"R$ 94,01","6,0 K","0,22","3,43 %","R$ 116,5 M","R$ 103,81","0,84 %","0,90"
+273,273,HUSC11,"R$ 120,00","5,0 K","0,95","8,81 %","R$ 119,2 M","R$ 145,38","-2,35 %","0,85"
+274,274,HUSI11,"R$ 1.200,00","6,9 K","8,35","8,89 %","R$ 129,5 M","R$ 1.112,77","20,00 %","1,08"
+275,275,IAAG11,"R$ 8,93","25,0 K","0,08","5,26 %","R$ 52,6 M","R$ 9,65","-0,22 %","0,93"
+276,276,IAGR11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+277,277,IBCR11,"R$ 81,67","200,2 K","1,00","13,63 %","R$ 92,4 M","R$ 96,41","0,27 %","0,84"
+278,278,IBFF11,"R$ 66,40","162,5 K","0,30","0,45 %","R$ 9,9 M","R$ 14,78","1,47 %","4,49"
+279,279,ICRI11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+280,280,IDFI11,"R$ 20,00","9,8 K","0,17","18,01 %","R$ 62,4 M","R$ 30,34","-19,03 %","0,81"
+281,281,IDGR11,"R$ 11,50",699,"0,11","4,36 %","R$ 11,0 M","R$ 12,41","1,41 %","0,91"
+282,282,IFID11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+283,283,IFIE11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+284,284,IFRA11,"R$ 111,60","1,5 M",,N/A %,R$ N/A,R$ N/A,"0,63 %",
+285,285,IRDM11,"R$ 82,34","5,1 M","0,77","12,39 %","R$ 3,2 B","R$ 87,27","0,30 %","0,94"
+286,286,IRIM11,"R$ 85,79","49,5 K","1,00","13,28 %","R$ 175,3 M","R$ 91,31","0,09 %","0,94"
+287,287,ITIP11,"R$ 75,60","112,7 K","0,65","12,13 %","R$ 55,5 M","R$ 74,15","-0,87 %","1,03"
+288,288,ITIT11,"R$ 77,18","238,4 K","0,64","9,37 %","R$ 76,1 M","R$ 84,55","0,53 %","0,91"
+289,289,JASC11,"R$ 103,00","999,9 K","0,52","5,67 %","R$ 358,6 M","R$ 107,64","-0,96 %","0,96"
+290,290,JBFO11,"R$ 87,00",87,"0,62","6,13 %","R$ 106,0 M","R$ 82,90",N/A %,"1,05"
+291,291,JCCJ11,"R$ 124,95","5,2 M","0,37","0,75 %","R$ 289,9 M","R$ 173,75","-1,46 %","0,72"
+292,292,JCDA11,"R$ 0,00",,,N/A %,"R$ 159,5 M","R$ 10,52",N/A %,
+293,293,JCDB11,"R$ 0,00",,,N/A %,"R$ 142,2 M","R$ 136,33",N/A %,
+294,294,JFLL11,"R$ 75,68","47,1 K","0,62","10,07 %","R$ 151,5 M","R$ 100,94","2,27 %","0,73"
+295,295,JGPX11,"R$ 91,79","422,4 K","0,95","15,37 %","R$ 204,2 M","R$ 95,36","0,34 %","0,96"
+296,296,JPPA11,"R$ 92,96","175,6 K","1,04","16,11 %","R$ 88,4 M","R$ 97,79","0,39 %","0,95"
+297,297,JPPC11,"R$ 200,00",800,"0,17","0,09 %","R$ 22,1 M","R$ 402,02","0,01 %","0,50"
+298,298,JRDM11,"R$ 85,90","610,7 K","0,40","5,16 %","R$ 224,1 M","R$ 88,84","3,66 %","0,97"
+299,299,JRDM11B,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+300,300,JSAF11,"R$ 103,31","937,4 K","1,00","11,20 %","R$ 153,0 M","R$ 97,25","1,14 %","1,05"
+301,301,JSRE11,"R$ 73,68","2,5 M","0,46","7,50 %","R$ 2,3 B","R$ 112,33","-0,38 %","0,66"
+302,302,JTPR11,"R$ 2.517,00",,"1,63",N/A %,"R$ 16,1 M","R$ 74,88",N/A %,"33,61"
+303,303,JURO11,"R$ 109,90","2,2 M",,N/A %,R$ N/A,R$ N/A,"-0,13 %",
+304,304,KCRE11,"R$ 97,15","652,1 K","0,81","11,92 %","R$ 367,2 M","R$ 102,01","-0,77 %","0,96"
+305,305,KDIF11,"R$ 140,94","2,3 M",,N/A %,R$ N/A,R$ N/A,"0,89 %",
+306,306,KEVE11,"R$ 1.128,00","175,8 K","1,35","0,46 %","R$ 137,2 M","R$ 929,14","-0,18 %","1,22"
+307,307,KFOF11,"R$ 99,50","835,5 K","1,03","9,66 %","R$ 433,7 M","R$ 95,67","0,20 %","1,04"
+308,308,KINP11,"R$ 9,82","38,4 K","3,05","65,42 %","R$ 26,4 M","R$ 3,69","-4,20 %","2,66"
+309,309,KISU11,"R$ 8,47","886,8 K","0,08","10,31 %","R$ 388,0 M","R$ 8,78","-1,28 %","0,98"
+310,310,KIVO11,"R$ 89,74","392,3 K","1,25","17,26 %","R$ 111,6 M","R$ 91,84","-0,37 %","0,98"
+311,311,KLOG11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+312,312,KNCA11,"R$ 105,16","3,0 M","1,05","13,51 %","R$ 2,2 B","R$ 103,07","0,24 %","1,02"
+313,313,KNCR11,"R$ 103,00","9,3 M","1,01","12,95 %","R$ 5,8 B","R$ 100,80","-0,39 %","1,03"
+314,314,KNHF11,"R$ 103,81","1,2 M","1,00","4,72 %","R$ 989,5 M","R$ 101,20","-0,76 %","1,03"
+315,315,KNHY11,"R$ 103,92","3,0 M","1,05","12,57 %","R$ 1,9 B","R$ 102,46","0,89 %","1,01"
+316,316,KNIP11,"R$ 96,26","13,0 M","0,75","10,08 %","R$ 7,8 B","R$ 97,90","1,81 %","0,97"
+317,317,KNOX11,"R$ 103,00","362,2 K",,N/A %,R$ N/A,R$ N/A,"2,29 %",
+318,318,KNPR11,"R$ 0,00",,"4,65",N/A %,"R$ 59,6 M","R$ 102,77",N/A %,
+319,319,KNRE11,"R$ 0,41","8,8 K","0,04","9,21 %","R$ 14,1 M","R$ 0,76","2,50 %","0,53"
+320,320,KNRI11,"R$ 165,46","3,7 M","1,00","7,34 %","R$ 3,9 B","R$ 159,71","0,19 %","1,03"
+321,321,KNSC11,"R$ 9,03","3,3 M","0,07","11,23 %","R$ 1,2 B","R$ 9,06","-0,66 %","1,00"
+322,322,KNUQ11,"R$ 103,50","475,9 K","1,14","6,31 %","R$ 745,1 M","R$ 100,92","0,40 %","1,02"
+323,323,KOPA11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+324,324,LASC11,"R$ 105,90","881,4 K","0,67","7,31 %","R$ 300,1 M","R$ 102,08","0,38 %","1,03"
+325,325,LATR11B,"R$ 9,51",100,"10,00","202,33 %","R$ 1,2 M","R$ 10,03","0,11 %","0,95"
+326,326,LAVF11,"R$ 0,00",,"1,30",N/A %,"R$ 116,2 K","R$ 2,61",N/A %,
+327,327,LFTT11,"R$ 30,01","25,7 K","3,67","6,40 %","R$ 141,5 M","R$ 19,11","-9,06 %","1,73"
+328,328,LGCP11,"R$ 89,24","634,9 K","0,72","8,64 %","R$ 361,3 M","R$ 102,37","-0,50 %","0,88"
+329,329,LIFE11,"R$ 10,00","259,5 K","0,13","15,73 %","R$ 226,3 M","R$ 10,16","-1,19 %","1,00"
+330,330,LKDV11,"R$ 997,23","573,4 K",,N/A %,"R$ 66,7 M","R$ 997,86",N/A %,"1,00"
+331,331,LLAO11,"R$ 77,37","551,3 K","1,70","3,12 %","R$ 27,9 M","R$ 77,33",N/A %,"1,00"
+332,332,LOFT11B,"R$ 29,90",,"0,20",N/A %,"R$ 20,1 M","R$ 10,24",N/A %,"2,92"
+333,333,LPLP11,"R$ 0,00",,"7,07",N/A %,"R$ 150,2 M","R$ 413,05",N/A %,
+334,334,LRDI11,"R$ 0,00",,,N/A %,"R$ 34,6 M","R$ 97,79",N/A %,
+335,335,LSAG11,"R$ 100,00","97,4 K",,N/A %,R$ N/A,R$ N/A,"1,53 %",
+336,336,LSPA11,"R$ 107,00","21,4 K","4,43","12,84 %","R$ 46,7 M","R$ 115,47",N/A %,"0,93"
+337,337,LTMT11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+338,338,LUGG11,"R$ 82,90","56,6 K","0,50","8,26 %","R$ 139,7 M","R$ 123,54","0,40 %","0,67"
+339,339,LVBI11,"R$ 119,15","5,5 M","0,90","8,14 %","R$ 1,7 B","R$ 117,26","1,44 %","1,00"
+340,340,MANA11,"R$ 9,39","239,0 K","0,11","13,97 %","R$ 207,2 M","R$ 9,69","0,11 %","0,97"
+341,341,MATV11,"R$ 86,63","13,0 K","0,60","3,00 %","R$ 39,9 M","R$ 93,73","4,00 %","0,92"
+342,342,MAVC11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+343,343,MAXR11,"R$ 74,30","377,2 K","0,77","10,68 %","R$ 140,3 M","R$ 124,64","-2,54 %","0,61"
+344,344,MAXR11B,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+345,345,MBRF11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+346,346,MCCI11,"R$ 95,49","3,5 M","0,90","11,92 %","R$ 1,6 B","R$ 95,65","0,29 %","1,00"
+347,347,MCFF11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+348,348,MCHF11,"R$ 9,12","1,3 M","0,08","12,53 %","R$ 310,6 M","R$ 9,60","1,11 %","0,94"
+349,349,MCHY11,"R$ 11,25","28,3 K","1,30","14,60 %","R$ 359,5 M","R$ 100,13","-89,92 %","1,11"
+350,350,MFAI11,"R$ 62,09","26,9 K","0,55","9,55 %","R$ 27,1 M","R$ 69,73","0,18 %","0,89"
+351,351,MFCR11,"R$ 103,49","6,9 K","1,11","14,18 %","R$ 10,4 M","R$ 103,11","-0,22 %","1,00"
+352,352,MFII11,"R$ 94,46","551,9 K","1,08","13,90 %","R$ 502,7 M","R$ 113,56","0,49 %","0,83"
+353,353,MFVI11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+354,354,MGCR11,"R$ 9,40","259,1 K","0,10","8,39 %","R$ 131,2 M","R$ 9,78","-89,25 %","0,96"
+355,355,MGFF11,"R$ 69,99","2,6 M","0,52","8,95 %","R$ 669,8 M","R$ 74,01","2,44 %","0,95"
+356,356,MGHT11,"R$ 47,97","108,4 K","0,52","17,30 %","R$ 113,2 M","R$ 86,16","1,18 %","0,55"
+357,357,MGLC11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+358,358,MGLG11,"R$ 40,99","55,3 K","0,35","10,40 %","R$ 116,1 M","R$ 61,48","4,04 %","0,55"
+359,359,MGRI11,"R$ 0,00",,"1,44",N/A %,"R$ 23,4 M","R$ 106,19",N/A %,
+360,360,MINT11,"R$ 99,87","23,7 K","1,30","1,30 %","R$ 69,6 M","R$ 133,89","9,67 %","0,75"
+361,361,MMPD11,"R$ 0,00",,"3,62",N/A %,"R$ 60,7 M","R$ 114,48",N/A %,
+362,362,MMVE11,"R$ 161,87","3,4 K",,N/A %,"R$ 72,7 M","R$ 156,45","-0,01 %","1,03"
+363,363,MOFF11,"R$ 0,00",,,N/A %,"R$ 201,4 M","R$ 949,95",N/A %,
+364,364,MORC11,"R$ 88,61","1,2 M","0,94","14,75 %","R$ 189,2 M","R$ 99,15","0,14 %","0,89"
+365,365,MORE11,"R$ 76,00","604,3 K","0,70","8,97 %","R$ 201,5 M","R$ 86,87","0,81 %","0,87"
+366,366,MTOF11,"R$ 0,00",,,N/A %,"R$ 130,2 M","R$ 67,40",N/A %,
+367,367,MTRS11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+368,368,MVFI11,"R$ 0,00",,,N/A %,"R$ 123,1 M","R$ 1,57",N/A %,
+369,369,MXRF11,"R$ 10,58","13,1 M","0,11","13,13 %","R$ 2,6 B","R$ 9,86","0,67 %","1,07"
+370,370,MYDW11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+371,371,NAVT11,"R$ 92,92","317,1 K","1,60","12,93 %","R$ 58,2 M","R$ 95,05","1,00 %","0,97"
+372,372,NCHB11,"R$ 84,07","604,7 K","0,85","13,91 %","R$ 154,0 M","R$ 90,69","0,14 %","0,93"
+373,373,NCHB11B,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+374,374,NCRA11,"R$ 10,61","314,6 K","0,11","16,96 %","R$ 47,1 M","R$ 10,56","-0,38 %","1,01"
+375,375,NCRI11,"R$ 9,01","3,3 K","0,10","12,56 %","R$ 40,5 M","R$ 10,25","-0,77 %","0,89"
+376,376,NEWL11,"R$ 114,90","1,2 M","1,30","10,64 %","R$ 278,8 M","R$ 137,14","1,24 %","0,83"
+377,377,NEWU11,"R$ 79,00","249,1 K","0,60","2,99 %","R$ 52,0 M","R$ 70,03","-5,94 %","1,13"
+378,378,NEXG11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+379,379,NSLU11,"R$ 192,98","677,8 K","1,55","9,61 %","R$ 260,5 M","R$ 201,40","0,01 %","0,96"
+380,380,NSLU11B,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+381,381,NUIF11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+382,382,NVHO11,"R$ 11,75","1,3 K","0,08","8,39 %","R$ 581,8 M","R$ 14,02","-1,67 %","0,85"
+383,383,NVIF11B,"R$ 227,50",,"0,89","3,52 %","R$ 128,9 M","R$ 382,17",N/A %,"0,60"
+384,384,NVRP11,"R$ 320,00",320,,N/A %,R$ N/A,R$ N/A,"-51,09 %",
+385,385,OBAL11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+386,386,OCRE11,"R$ 102,51","33,4 K","0,77","2,63 %","R$ 28,9 M","R$ 100,89","-0,48 %","1,02"
+387,387,OGHY11,"R$ 9,02","62,6 K","0,09","13,18 %","R$ 25,5 M","R$ 9,38","0,78 %","0,95"
+388,388,OGIN11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+389,389,OIAG11,"R$ 8,95","393,3 K","0,11","17,51 %","R$ 88,0 M","R$ 9,74","-1,10 %","0,93"
+390,390,ONEF11,"R$ 200,03","114,4 K","32,50","22,25 %","R$ 215,6 M","R$ 236,65","-0,48 %","0,85"
+391,391,OPEQ11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+392,392,OPHF11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+393,393,OPTM11,"R$ 0,00",,"1,33",N/A %,"R$ 11,1 M","R$ 151,20",N/A %,
+394,394,ORPD11,"R$ 93,00",403,"1,38",N/A %,"R$ 42,3 M","R$ 145,76","-3,13 %","0,64"
+395,395,OUCY11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+396,396,OUFF11,"R$ 72,70","228,7 K","0,70","12,00 %","R$ 133,6 M","R$ 73,63","2,42 %","0,96"
+397,397,OUJP11,"R$ 97,47","564,2 K","0,90","14,13 %","R$ 318,9 M","R$ 98,04","0,54 %","0,99"
+398,398,OULG11,"R$ 32,50","268,0 K","0,30","14,98 %","R$ 167,5 M","R$ 67,50","0,18 %","0,48"
+399,399,OULG11B,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+400,400,OURE11,"R$ 75,34","104,7 K","0,80","14,66 %","R$ 98,6 M","R$ 91,54","0,86 %","0,82"
+401,401,PABY11,"R$ 17,07",820,,N/A %,R$ -16.094.641,"R$ -21,22","-1,22 %",
+402,402,PATB11,"R$ 0,00",,"5,90",N/A %,"R$ 680,2 M","R$ 172,31",N/A %,
+403,403,PATC11,"R$ 38,80","568,3 K","1,70","19,61 %","R$ 147,2 M","R$ 42,34","-0,26 %","0,92"
+404,404,PATL11,"R$ 68,03","953,2 K","0,60","10,49 %","R$ 490,9 M","R$ 98,34","0,19 %","0,69"
+405,405,PBLV11,"R$ 926,98",,"39,65","8,50 %","R$ 5,9 B","R$ 1.539,15",N/A %,"0,60"
+406,406,PCAS11,"R$ 0,00",,"1.000,00",N/A %,"R$ 445,7 M","R$ 6.366,73",N/A %,
+407,407,PDDA11B,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+408,408,PEMA11,"R$ 47,00","1,2 K","0,42","16,47 %","R$ 39,0 M","R$ 70,74","2,09 %","0,66"
+409,409,PFIN11,"R$ 71,60","985,9 K",,N/A %,R$ N/A,R$ N/A,"0,94 %",
+410,410,PICE11,"R$ 72,18","291,5 K",,N/A %,R$ N/A,R$ N/A,"0,49 %",
+411,411,PLCA11,"R$ 82,01","132,8 K","1,03","15,93 %","R$ 52,8 M","R$ 94,76","-1,31 %","0,88"
+412,412,PLCR11,"R$ 88,99","330,7 K","0,80","12,91 %","R$ 193,8 M","R$ 91,86","0,37 %","0,97"
+413,413,PLOG11,"R$ 66,71","70,2 K","0,70","13,32 %","R$ 79,6 M","R$ 106,20","-4,70 %","0,63"
+414,414,PLRI11,"R$ 15,50",868,"0,07","7,08 %","R$ 27,3 M","R$ 28,60","-3,06 %","0,54"
+415,415,PMFO11,"R$ 0,00",,"0,88",N/A %,"R$ 47,9 M","R$ 96,05",N/A %,
+416,416,PMIS11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+417,417,PNCR11,"R$ 87,17","174,3 K","1,03","5,37 %","R$ 43,6 M","R$ 87,12",N/A %,"1,00"
+418,418,PNDL11,"R$ 1.300,00","1,4 M","3,00","0,69 %","R$ 124,4 M","R$ 1.047,99","0,23 %","1,24"
+419,419,PNLM11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+420,420,PNLN11,"R$ 0,00",,,N/A %,"R$ 1,4 M","R$ 62,84",N/A %,
+421,421,PNPR11,"R$ 106,00","1,2 M",,N/A %,"R$ 92,5 M","R$ 105,65","0,01 %","1,00"
+422,422,PNRC11,"R$ 102,49","153,7 K","1,19","11,17 %","R$ 41,7 M","R$ 101,77",N/A %,"1,01"
+423,423,PORD11,"R$ 91,75","785,4 K","1,01","13,74 %","R$ 364,8 M","R$ 97,84","2,06 %","0,92"
+424,424,PPEI11,"R$ 93,57","384,4 K",,N/A %,R$ N/A,R$ N/A,"4,61 %",
+425,425,PQAG11,"R$ 58,51","7,5 K","0,45","9,08 %","R$ 799,2 M","R$ 57,12","0,02 %","1,02"
+426,426,PQDP11,"R$ 1.955,00","136,4 K","18,47","10,71 %","R$ 772,6 M","R$ 3.147,05","1,45 %","0,61"
+427,427,PRSN11B,"R$ 1,48",942,"0,17","11,60 %","R$ 12,4 M","R$ 3,85","13,85 %","0,38"
+428,428,PRSV11,"R$ 61,98","3,9 K","1,62",N/A %,"R$ 40,1 M","R$ 205,75","0,39 %","0,30"
+429,429,PRTS11,"R$ 117,70",,"0,05","0,05 %","R$ 3,1 M","R$ 0,06",N/A %,"1.961,67"
+430,430,PRZS11,"R$ 0,00",,,N/A %,"R$ 103,2 M","R$ 142,86",N/A %,
+431,431,PURB11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+432,432,PVBI11,"R$ 103,70","5,0 M","0,70","7,61 %","R$ 1,3 B","R$ 100,19","0,54 %","1,03"
+433,433,QAGR11,"R$ 50,09","766,0 K","0,43","11,00 %","R$ 295,7 M","R$ 58,66","-1,61 %","0,87"
+434,434,QAMI11,"R$ 84,68","202,9 K","1,00","9,62 %","R$ 74,4 M","R$ 92,80","10,17 %","0,91"
+435,435,QIFF11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+436,436,QIRI11,"R$ 78,04","6,9 K","0,66","0,85 %","R$ 13,4 M","R$ 89,61","3,98 %","0,87"
+437,437,QMFF11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+438,438,RBBV11,"R$ 100,00",,"0,22",N/A %,"R$ 126,5 M","R$ 100,84",N/A %,"0,99"
+439,439,RBCB11,"R$ 19,00",,"0,30",N/A %,R$ N/A,R$ N/A,N/A %,
+440,440,RBCO11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+441,441,RBDS11,"R$ 2,49",558,"2,35",N/A %,"R$ 2,7 M","R$ 21,73","2,44 %","0,11"
+442,442,RBED11,"R$ 144,91","174,6 K","1,45","11,27 %","R$ 337,8 M","R$ 143,44","0,80 %","1,00"
+443,443,RBFF11,"R$ 60,49","555,0 K","0,52","10,03 %","R$ 253,4 M","R$ 67,60","0,32 %","0,89"
+444,444,RBGS11,"R$ 28,45",,"0,18",N/A %,"R$ 97,9 M","R$ 90,78",N/A %,"0,31"
+445,445,RBHG11,"R$ 91,10","315,4 K","1,10","15,09 %","R$ 157,3 M","R$ 91,08","0,33 %","1,00"
+446,446,RBHY11,"R$ 92,89","181,6 K","1,10","15,13 %","R$ 176,5 M","R$ 93,24","0,40 %","0,99"
+447,447,RBIF11,"R$ 95,44","27,7 K",,N/A %,R$ N/A,R$ N/A,"0,33 %",
+448,448,RBIR11,"R$ 91,49","70,4 K","0,26","4,52 %","R$ 150,8 M","R$ 98,62","1,68 %","0,91"
+449,449,RBIV11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+450,450,RBLG11,"R$ 101,60","14,3 K","0,95","10,71 %","R$ 67,0 M","R$ 104,73","-0,91 %","0,98"
+451,451,RBOP11,"R$ 329,89","43,7 K","4,50","21,15 %","R$ 85,0 M","R$ 836,09","5,72 %","0,37"
+452,452,RBRD11,"R$ 40,68","34,7 K","0,34","10,67 %","R$ 122,1 M","R$ 65,91","0,94 %","0,61"
+453,453,RBRF11,"R$ 81,10","2,8 M","0,55","8,92 %","R$ 1,2 B","R$ 86,86","-0,11 %","0,93"
+454,454,RBRI11,"R$ 1.100,00","15,8 K","35,62",N/A %,"R$ 162,6 M","R$ 1.191,88",N/A %,"0,77"
+455,455,RBRL11,"R$ 89,97","1,0 M","0,72","8,96 %","R$ 704,7 M","R$ 105,39","1,60 %","0,84"
+456,456,RBRM11,"R$ 94.794,81",,"2.002,09","8,06 %","R$ 14,2 M","R$ 26.379,11",N/A %,"3,59"
+457,457,RBRP11,"R$ 54,98","1,5 M","0,28","5,86 %","R$ 1,0 B","R$ 82,17","-0,02 %","0,67"
+458,458,RBRR11,"R$ 90,61","3,1 M","0,65","11,00 %","R$ 1,4 B","R$ 95,26","0,67 %","0,94"
+459,459,RBRS11,"R$ 54,60","94,5 K","0,75","8,02 %","R$ 165,2 M","R$ 95,25","2,91 %","0,57"
+460,460,RBRX11,"R$ 9,50","418,3 K","0,10","14,30 %","R$ 182,7 M","R$ 97,11","0,42 %","0,10"
+461,461,RBRY11,"R$ 100,00","2,4 M","1,00","14,05 %","R$ 988,3 M","R$ 98,39","0,20 %","1,02"
+462,462,RBTS11,"R$ 720,00","190,8 K","23,00","34,95 %","R$ 36,2 M","R$ 640,15","-4,00 %","1,12"
+463,463,RBVA11,"R$ 113,00","1,6 M","1,00","10,40 %","R$ 1,2 B","R$ 107,52","-0,03 %","1,05"
+464,464,RBVO11,"R$ 8,59","1,5 K","0,04","2,78 %","R$ 8,7 M","R$ 16,93","1,66 %","0,50"
+465,465,RCFA11,"R$ 1,35","1,9 K",,N/A %,"R$ 11,7 M","R$ 20,07","3,05 %","0,07"
+466,466,RCFF11,"R$ 98,99","40,8 K","1,23","1,24 %","R$ 32,9 M","R$ 101,90","34,68 %","0,97"
+467,467,RCKF11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+468,468,RCRB11,"R$ 161,65","2,0 M","0,80","5,68 %","R$ 771,8 M","R$ 209,12","1,29 %","0,76"
+469,469,RDES11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+470,470,RDPD11,"R$ 22,96","98,3 K","0,30","21,33 %","R$ 24,1 M","R$ 22,34","0,53 %","1,06"
+471,471,RECH11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+472,472,RECT11,"R$ 48,00","422,3 K","0,40","11,51 %","R$ 791,1 M","R$ 92,59","1,16 %","0,51"
+473,473,RECX11,"R$ 67,74","5,4 K","0,59","10,38 %","R$ 16,0 M","R$ 73,36","-0,01 %","0,92"
+474,474,REIT11,"R$ 176,42",463,"2,51","4,49 %","R$ 7,5 M","R$ 285,51","17,61 %","0,62"
+475,475,REIT11B,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+476,476,RELG11,"R$ 48,01","145,8 K","0,70","4,57 %","R$ 166,5 M","R$ 124,78","-0,27 %","0,39"
+477,477,REON11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+478,478,RFOF11,"R$ 76,51","66,4 K","0,73","11,08 %","R$ 86,3 M","R$ 80,04","-1,62 %","0,97"
+479,479,RINV11,"R$ 111,38","359,1 K","1,55","13,22 %","R$ 90,4 M","R$ 106,95","-0,17 %","1,04"
+480,480,RMAI11,"R$ 70,20","406,4 K","0,32","4,64 %","R$ 242,6 M","R$ 99,29","-0,14 %","0,71"
+481,481,RNDP11,"R$ 106,87","24,8 K","1,15","12,69 %","R$ 18,7 M","R$ 173,64","-2,85 %","0,63"
+482,482,RNGO11,"R$ 47,20","89,4 K","0,40","10,31 %","R$ 232,3 M","R$ 86,83","1,40 %","0,54"
+483,483,ROOF11,"R$ 720,00","115,9 K","41,72","6,69 %","R$ 44,7 M","R$ 576,27","2,00 %","1,25"
+484,484,RPRI11,"R$ 103,41","573,7 K","0,95","12,46 %","R$ 227,1 M","R$ 101,30","-0,14 %","1,02"
+485,485,RRCI11,"R$ 82,46","35,8 K","0,90","14,05 %","R$ 44,2 M","R$ 91,76","0,13 %","0,90"
+486,486,RSPD11,"R$ 1.100,00","1,4 M","3,36","8,00 %","R$ 157,3 M","R$ 1.055,54","4,17 %","1,04"
+487,487,RURA11,"R$ 10,82","2,1 M",,N/A %,R$ N/A,R$ N/A,"-0,18 %",
+488,488,RVBI11,"R$ 83,70","203,7 K","0,65","10,63 %","R$ 121,7 M","R$ 84,54","-0,06 %","0,99"
+489,489,RZAG11,"R$ 9,22","2,2 M","0,12","16,02 %","R$ 663,5 M","R$ 9,75","-0,33 %","0,95"
+490,490,RZAK11,"R$ 90,00","2,6 M","1,20","16,49 %","R$ 813,3 M","R$ 92,34","1,12 %","0,96"
+491,491,RZAT11,"R$ 94,49","1,0 M","1,20","12,55 %","R$ 377,0 M","R$ 101,66","0,57 %","0,92"
+492,492,RZDS11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+493,493,RZEO11,"R$ 0,00",,,N/A %,"R$ 810,8 M","R$ 323,17",N/A %,
+494,494,RZTR11,"R$ 106,09","2,6 M","1,10","11,16 %","R$ 1,1 B","R$ 99,48","0,37 %","1,06"
+495,495,SAAG11,"R$ 106,61",,"0,93",N/A %,"R$ 627,9 M","R$ 111,50",N/A %,"0,96"
+496,496,SACL11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+497,497,SADI11,"R$ 87,96","498,0 K","1,02","13,92 %","R$ 148,4 M","R$ 95,81","0,46 %","0,91"
+498,498,SAIC11B,"R$ 34,00","3,1 K","0,66",N/A %,"R$ 78,4 M","R$ 54,85",N/A %,"0,62"
+499,499,SALI11,"R$ 0,00",,,N/A %,"R$ 7,2 M","R$ 90,04",N/A %,
+500,500,SAPI11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+501,501,SARE11,"R$ 48,14","1,2 M","0,45","13,50 %","R$ 816,7 M","R$ 88,44","0,29 %","0,54"
+502,502,SAUS11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+503,503,SBCL11,"R$ 0,00",,,N/A %,"R$ 20,4 M","R$ 678,52",N/A %,
+504,504,SCPF11,"R$ 4,70","8,6 K","0,01","5,73 %","R$ 49,1 M","R$ 11,70","-0,21 %","0,40"
+505,505,SDIL11,"R$ 96,50","1,0 M","0,75","10,00 %","R$ 612,0 M","R$ 95,71","2,03 %","1,01"
+506,506,SDIP11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+507,507,SEED11,"R$ 100,83","100,8 K","0,82","12,29 %","R$ 146,3 M","R$ 89,21","1,01 %","1,13"
+508,508,SEQR11,"R$ 59,99","101,1 K","0,72","14,11 %","R$ 150,1 M","R$ 90,11","0,50 %","0,66"
+509,509,SFND11,"R$ 83,07",,"0,10","0,12 %","R$ 8,1 M","R$ 8,20",N/A %,"10,13"
+510,510,SHDP11B,"R$ 0,00",,"7,95",N/A %,"R$ 1,9 B","R$ 1.293,28",N/A %,
+511,511,SHOP11,"R$ 59,29",236,,N/A %,"R$ 70,6 M","R$ 47,64","-1,18 %","1,24"
+512,512,SHPH11,"R$ 852,00","70,2 K","3,35","6,58 %","R$ 543,3 M","R$ 892,16","0,83 %","0,95"
+513,513,SHSO11,"R$ 0,00",,"0,42",N/A %,"R$ 19,4 M","R$ 97,08",N/A %,
+514,514,SIGR11,"R$ 96,00","9,9 K","1,38","15,44 %","R$ 39,7 M","R$ 101,88","5,97 %","0,94"
+515,515,SJAU11,"R$ 58,00","277,8 K",,N/A %,"R$ 760,1 M","R$ 95,83","-27,50 %","0,61"
+516,516,SLDZ11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+517,517,SNEL11,"R$ 127,29","955,3 K","1,55","2,42 %","R$ 49,3 M","R$ 98,67","1,06 %","1,28"
+518,518,SNID11,"R$ 103,48","296,5 K",,N/A %,R$ N/A,R$ N/A,"0,11 %",
+519,519,SNLG11,"R$ 27,00","51,2 K","0,35","6,97 %","R$ 65,5 M","R$ 34,68","3,85 %","0,87"
+520,520,SNME11,"R$ 10,02","44,9 K","0,12","1,19 %","R$ 49,9 M","R$ 9,68","-0,99 %","1,05"
+521,521,SOLR11,"R$ 1.128,06","1,1 K","4,77","1,97 %","R$ 62,0 M","R$ 986,57","14,00 %","1,14"
+522,522,SPAF11,"R$ 0,00",,"1,66",N/A %,"R$ 11,4 M","R$ 1.013,35",N/A %,
+523,523,SPDE11,"R$ 0,00",,,N/A %,"R$ 61,4 M","R$ 1.033,94",N/A %,
+524,524,SPMO11,"R$ 120,00","166,6 K","0,43","0,36 %","R$ 252,4 M","R$ 139,52","0,08 %","0,86"
+525,525,SPTW11,"R$ 42,90","157,1 K","0,65","12,93 %","R$ 100,6 M","R$ 55,96","2,14 %","0,75"
+526,526,SPVJ11,"R$ 0,00",,"0,68",N/A %,"R$ 733,1 M","R$ 116,14",N/A %,
+527,527,SPXS11,"R$ 9,54","629,4 K","0,09","12,90 %","R$ 195,5 M","R$ 9,68","0,53 %","0,98"
+528,528,SRVD11,"R$ 3,00",234,"0,20","2,76 %",R$ -794.300,"R$ -0,01","-47,83 %","583,00"
+529,529,STRX11,"R$ 168,00","1,5 K","0,76","5,37 %","R$ 264,7 M","R$ 164,04",N/A %,"1,02"
+530,530,TBOF11,"R$ 15,56",,"0,82","5,29 %","R$ 2,1 M","R$ 0,21",N/A %,"74,10"
+531,531,TCIN11,"R$ 145,92","50,1 K",,N/A %,"R$ 107,0 M","R$ 125,94","4,10 %","1,16"
+532,532,TCPF11,"R$ 1,26",,"1,52","1.387,30 %","R$ 35,0 M","R$ 117,65",N/A %,"0,01"
+533,533,TELD11,"R$ 0,00",,,N/A %,"R$ 10,8 M","R$ 23,06",N/A %,
+534,534,TELF11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+535,535,TELM11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+536,536,TEPP11,"R$ 93,00","1,5 M","0,90","7,92 %","R$ 401,0 M","R$ 94,98","0,90 %","0,97"
+537,537,TFOF11,"R$ 138,00",,"2,37",N/A %,"R$ 103,1 M","R$ 121,20",N/A %,"1,14"
+538,538,TGAR11,"R$ 119,98","7,0 M","1,32","13,77 %","R$ 1,5 B","R$ 111,49","0,19 %","1,07"
+539,539,THRA11,"R$ 138,50",,"0,13",N/A %,"R$ 14,1 M","R$ 9,54",N/A %,"14,52"
+540,540,THRA11B,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+541,541,TJKB11,"R$ 262,50","1,5 K","2,72","11,33 %","R$ 202,3 M","R$ 267,25","-2,21 %","0,98"
+542,542,TMPS11,"R$ 95,69","157,6 K","1,11","6,88 %","R$ 101,1 M","R$ 103,31","1,01 %","0,92"
+543,543,TORD11,"R$ 2,23","143,6 K","0,05","4,00 %","R$ 445,7 M","R$ 12,72","-0,89 %","0,18"
+544,544,TRBL11,"R$ 98,30","719,0 K","0,72","9,51 %","R$ 608,9 M","R$ 95,22","0,15 %","1,03"
+545,545,TRNT11,"R$ 135,96","22,4 K","0,22","3,40 %","R$ 778,1 M","R$ 197,70","7,90 %","0,69"
+546,546,TRNT11B,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+547,547,TRXB11,"R$ 149,98","1,2 K","2,21","9,21 %","R$ 310,8 M","R$ 108,62","3,21 %","1,34"
+548,548,TRXF11,"R$ 110,89","10,8 M","1,70","10,27 %","R$ 1,4 B","R$ 103,83","0,36 %","1,06"
+549,549,TRXL11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+550,550,TSER11,"R$ 100,00",850,"0,94","11,36 %","R$ 131,8 M","R$ 102,59","-2,97 %","0,97"
+551,551,TSNC11,"R$ 0,00",,"0,63",N/A %,"R$ 99,9 M","R$ 91,93",N/A %,
+552,552,TSNM11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+553,553,TVRI11,"R$ 96,75","1,1 M","0,91","11,18 %","R$ 1,6 B","R$ 99,05","-0,15 %","0,98"
+554,554,UBSR11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+555,555,UMED11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+556,556,URPR11,"R$ 87,12","2,1 M","1,10","18,37 %","R$ 1,2 B","R$ 102,66","1,14 %","0,84"
+557,557,VCJR11,"R$ 92,00","2,1 M","0,90","11,98 %","R$ 1,4 B","R$ 97,01","-0,07 %","0,95"
+558,558,VCRA11,"R$ 96,25","958,4 K","1,10","15,53 %","R$ 473,0 M","R$ 102,96","2,39 %","0,91"
+559,559,VCRI11,"R$ 8,43","272,7 K","0,09","13,90 %","R$ 171,2 M","R$ 9,63","0,60 %","0,87"
+560,560,VCRR11,"R$ 67,21","288,4 K","0,75","12,47 %","R$ 256,3 M","R$ 128,14","0,03 %","0,52"
+561,561,VDSV11,"R$ 0,00",,,N/A %,"R$ 20,1 M","R$ 1.002,62",N/A %,
+562,562,VERE11,"R$ 233,49",,"3,50","13,90 %","R$ 219,4 M","R$ 364,84",N/A %,"0,64"
+563,563,VGHF11,"R$ 9,46","3,6 M","0,10","13,77 %","R$ 871,1 M","R$ 9,25","0,21 %","1,02"
+564,564,VGIA11,"R$ 8,94","4,2 M","0,10","17,45 %","R$ 832,7 M","R$ 9,63","-0,11 %","0,93"
+565,565,VGIP11,"R$ 89,50","1,7 M","0,70","11,92 %","R$ 1,1 B","R$ 93,17","0,01 %","0,96"
+566,566,VGIR11,"R$ 9,86","4,1 M","0,11","14,75 %","R$ 1,0 B","R$ 9,76","0,31 %","1,01"
+567,567,VGPR11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+568,568,VIDS11,"R$ 0,00",,"30,17",N/A %,"R$ 80,5 M","R$ 899,95",N/A %,
+569,569,VIFI11,"R$ 8,17","316,6 K","0,07","9,95 %","R$ 74,0 M","R$ 9,14","-0,24 %","0,90"
+570,570,VIGT11,"R$ 78,30","896,9 K",,N/A %,R$ N/A,R$ N/A,"0,09 %",
+571,571,VILG11,"R$ 97,01","3,2 M","0,64","8,12 %","R$ 1,7 B","R$ 111,25","-1,41 %","0,88"
+572,572,VINO11,"R$ 7,58","1,1 M","0,06","9,64 %","R$ 898,3 M","R$ 10,85","0,13 %","0,70"
+573,573,VISC11,"R$ 123,57","6,1 M","1,00","8,66 %","R$ 2,4 B","R$ 115,07","0,75 %","1,07"
+574,574,VIUR11,"R$ 7,94","348,4 K","0,07","10,94 %","R$ 243,5 M","R$ 9,04","0,51 %","0,87"
+575,575,VJFD11,"R$ 0,00",,"0,75",N/A %,"R$ 664,5 M","R$ 136,27",N/A %,
+576,576,VLIQ11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+577,577,VLJS11,"R$ 1.141,14",,"28,82",N/A %,"R$ 24,7 M","R$ 947,11",N/A %,"1,20"
+578,578,VLOL11,"R$ 98,00","160,2 K","1,86","3,86 %","R$ 198,2 M","R$ 111,06","6,15 %","0,88"
+579,579,VOTS11,"R$ 81,06","9,1 K","0,95","16,55 %","R$ 77,6 M","R$ 93,75","-1,11 %","0,87"
+580,580,VPSI11,"R$ 0,00",,"0,23",N/A %,"R$ 172,9 M","R$ 21,42",N/A %,
+581,581,VRTA11,"R$ 88,33","2,2 M","0,75","11,31 %","R$ 1,5 B","R$ 93,19","0,19 %","0,95"
+582,582,VSEC11,"R$ 0,21",3,"0,08","285,71 %","R$ 182,3 K","R$ 2,91","19,93 %","0,07"
+583,583,VSHO11,"R$ 83,87","65,0 K","0,70","11,00 %","R$ 212,5 M","R$ 101,23","0,22 %","0,83"
+584,584,VSLH11,"R$ 4,22","269,9 K","0,04","12,65 %","R$ 314,9 M","R$ 10,54","0,72 %","0,40"
+585,585,VTLT11,"R$ 95,58","126,0 K","0,89","11,94 %","R$ 214,0 M","R$ 101,16","-0,40 %","0,95"
+586,586,VTPA11,"R$ 0,00",,,N/A %,"R$ 66,0 M","R$ 100,07",N/A %,
+587,587,VTPL11,"R$ 0,00",,"5,11",N/A %,"R$ 106,6 M","R$ 76,92",N/A %,
+588,588,VTVI11,"R$ 0,00",,,N/A %,"R$ 61,7 M","R$ 34,64",N/A %,
+589,589,VTXI11,"R$ 0,00",,,N/A %,"R$ 894,6 K","R$ 8,64",N/A %,
+590,590,VVCO11,"R$ 13,60","360,3 K","0,32",N/A %,"R$ 134,0 M","R$ 13,54","-0,66 %","1,00"
+591,591,VVCR11,"R$ 20,70","19,7 K","0,18","15,11 %","R$ 41,2 M","R$ 22,28","-0,81 %","0,94"
+592,592,VVPR11,"R$ 101,50","1,2 M","0,89","0,88 %","R$ 226,0 M","R$ 98,03","2,01 %","1,04"
+593,593,VVRI11,"R$ 98,90","297,4 K","1,30","12,78 %","R$ 38,1 M","R$ 95,32","4,42 %","0,99"
+594,594,VXXV11,"R$ 1.020,00","5,6 M","10,76",N/A %,"R$ 302,8 M","R$ 1.132,21","2,90 %","0,90"
+595,595,WHGR11,"R$ 9,67","729,8 K","0,10","12,60 %","R$ 250,3 M","R$ 9,97","-0,10 %","0,97"
+596,596,WMRB11B,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+597,597,WPLZ11,"R$ 66,51","4,4 K","0,41","7,70 %","R$ 92,6 M","R$ 87,03","-1,32 %","0,77"
+598,598,WPLZ11B,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+599,599,WSEC11,"R$ 83,91","15,1 K","1,20","17,36 %","R$ 24,8 M","R$ 101,02","0,19 %","0,83"
+600,600,WTSP11B,"R$ 36,00","3,9 K","0,33","8,68 %","R$ 72,2 M","R$ 72,72","-2,19 %","0,50"
+601,601,WVSC11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+602,602,XBXO11,"R$ 0,00",,,N/A %,"R$ 288,8 M","R$ 94,92",N/A %,
+603,603,XPCA11,"R$ 9,23","2,2 M","0,12","16,01 %","R$ 432,3 M","R$ 9,50","0,54 %","0,97"
+604,604,XPCI11,"R$ 86,40","1,6 M","0,76","12,77 %","R$ 812,1 M","R$ 93,32","0,52 %","0,92"
+605,605,XPCM11,"R$ 10,15","37,3 K","0,02","9,48 %","R$ 98,7 M","R$ 40,88","0,20 %","0,25"
+606,606,XPGA11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+607,607,XPHT11,"R$ 123,00","230,9 K","0,41","22,00 %","R$ 396,2 M","R$ 42,97","-0,56 %","1,05"
+608,608,XPID11,"R$ 86,21","605,2 K",,N/A %,R$ N/A,R$ N/A,"0,65 %",
+609,609,XPIE11,"R$ 85,90","1,3 M",,N/A %,R$ N/A,R$ N/A,"2,60 %",
+610,610,XPIN11,"R$ 79,96","1,3 M","0,63","9,71 %","R$ 734,1 M","R$ 102,66","-0,16 %","0,78"
+611,611,XPLG11,"R$ 109,00","10,2 M","0,78","8,44 %","R$ 3,3 B","R$ 110,14","0,16 %","0,99"
+612,612,XPML11,"R$ 117,00","13,8 M","0,90","8,51 %","R$ 3,4 B","R$ 111,91","-0,34 %","1,05"
+613,613,XPPR11,"R$ 22,23","479,1 K","0,10","6,28 %","R$ 508,3 M","R$ 69,48","-0,36 %","0,32"
+614,614,XPSF11,"R$ 8,23","682,3 K","0,08","11,03 %","R$ 366,9 M","R$ 8,47","-0,12 %","0,97"
+615,615,XTED11,"R$ 8,82","17,6 K","0,32",N/A %,"R$ 67,4 M","R$ 13,44","13,08 %","0,68"
+616,616,YCHY11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+617,617,YUFI11,"R$ 88,49",88,"0,39","2,87 %","R$ 50,5 M","R$ 102,44","-0,01 %","0,86"
+618,618,YUFI11B,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+619,619,ZAVC11,"R$ 0,00",,,N/A %,R$ N/A,R$ N/A,N/A %,
+620,620,ZAVI11,"R$ 127,86","318,4 K","1,24","10,65 %","R$ 158,4 M","R$ 134,97","0,68 %","0,94"
+621,621,ZIFI11,"R$ 849,00","45,3 K","3,30","0,33 %","R$ 57,1 M","R$ 1.201,62","-5,67 %","0,71"
